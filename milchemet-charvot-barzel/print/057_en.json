@@ -1,0 +1,25 @@
+{
+  "chat_name": "4th Grade Parents / Sci...",
+  "chat_status": "Eti (Yonatan's mom), +972 5...",
+  "avatar_icon": "4\ufe0f\u20e3",
+  "direction": "ltr",
+  "messages": [
+    {
+      "side": "left",
+      "text": "...to the school this week. Please distribute the survey in the classes and according to the majority, one class representative only will vote here from each class. Meaning, if more than half the class is for a certain answer, the class representative will vote accordingly here.",
+      "time": "20:27"
+    },
+    {
+      "type": "poll",
+      "sender": "~ Anat Nee...",
+      "sender_phone": "+972 50-565-0129",
+      "question": "Do you agree to return the children to in-person learning?",
+      "hint": "Select one",
+      "options": [
+        {"label": "Yes", "votes": 0, "selected": false},
+        {"label": "No", "votes": 30, "selected": true}
+      ],
+      "time": "20:27"
+    }
+  ]
+}

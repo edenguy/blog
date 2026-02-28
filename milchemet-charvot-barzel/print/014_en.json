@@ -1,0 +1,16 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "left", "text": "I know", "time": "18:47"},
+    {"side": "left", "quote": {"sender": "You", "text": "If they shot the cameras, they already know enough"}, "text": "I understood it was a cyber attack", "time": "18:48"},
+    {"side": "left", "text": "That they jammed their frequencies", "time": "18:48"},
+    {"side": "right", "text": "Is that confirmed, or is it a rumor?", "time": "18:49", "check": "\u2713\u2713"},
+    {"side": "left", "text": "That's what they said at my command center", "time": "18:49"},
+    {"side": "left", "text": "So it's probably true", "time": "18:49"},
+    {"side": "right", "text": "All the cameras went down and then at some point they came back up and they saw masses of Arabs breaking into Israeli territory and they couldn't manage to notify people", "time": "18:50"},
+    {"side": "right", "text": "The question is whether you can know for sure this can't happen at your post", "time": "18:50", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Why couldn't they notify people? Because they didn't have time?", "time": "18:51"}
+  ]
+}

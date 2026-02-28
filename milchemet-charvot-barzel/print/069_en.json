@@ -1,0 +1,20 @@
+{
+  "chat_name": "Idan, Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "left", "text": "What's the situation with your gear for staying in the safe room?", "time": "17:11"},
+    {"side": "right", "text": "Why?", "time": "17:14", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Worth being ready for anything", "time": "17:15"},
+    {"side": "right", "text": "Talk to me", "time": "17:15", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Nothing to talk about", "time": "17:15"},
+    {"side": "right", "text": "Replace all the water in the yard?", "time": "17:16", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Yes", "time": "17:16"},
+    {"side": "left", "text": "To be extra safe", "time": "17:16"},
+    {"side": "right", "text": "For what time window?", "time": "17:16", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Don't know", "time": "17:16"},
+    {"side": "left", "text": "Not sure either", "time": "17:17"},
+    {"side": "right", "text": "Guesses? Or something more concrete?", "time": "17:17", "check": "\u2713\u2713"},
+    {"side": "left", "text": "I'd replace the water", "time": "17:17"}
+  ]
+}

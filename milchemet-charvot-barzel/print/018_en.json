@@ -1,0 +1,31 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Scary", "time": "19:52", "check": "\u2713\u2713"},
+    {"type": "spacer"},
+    {"side": "left", "text": "They infiltrated settlements in Samaria", "time": "22:21"},
+    {"side": "right", "text": "Your sector?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "left", "text": "No", "time": "22:22"},
+    {"side": "left", "text": "But I border it", "time": "22:22"},
+    {"side": "left", "text": "I'm in Benjamin", "time": "22:22"},
+    {"side": "right", "text": "And are our soldiers effective there?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Do you have a visual?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "left", "text": "I'm not in Samaria", "time": "22:22"},
+    {"side": "right", "text": "Do you only have visual for your area?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Uhh", "time": "22:23"},
+    {"side": "left", "text": "Yes", "time": "22:23"},
+    {"side": "right", "text": "Are the soldiers ready there?", "time": "22:23"},
+    {"side": "right", "text": "How did they get past the fence?", "time": "22:23"},
+    {"side": "left", "text": "I have no idea", "time": "22:23"},
+    {"side": "left", "text": "But honestly, guard duty at our base also seems a bit strained", "time": "22:23"},
+    {"side": "left", "quote": {"sender": "Sapir Eden _", "text": "They infiltrated settlements in Samaria"}, "text": "Was it handled?", "time": "22:23"},
+    {"side": "left", "text": "I haven't heard anything beyond that", "time": "22:23"},
+    {"side": "left", "text": "I only heard they infiltrated settlements in Samaria", "time": "22:24"},
+    {"side": "left", "forwarded": true, "text": "Girls, there was a report about the lookout soldiers at both Nahal Oz and Kissufim on Channel 12, but it wasn't live. Rewind to watch it if you have the option and want to see what happened", "time": "22:24"},
+    {"side": "right", "text": "You could watch to know what happened", "time": "22:54", "check": "\u2713\u2713"},
+    {"side": "right", "text": "No, Sapir. I know what happened, and I'm not watching. And Mom isn't either. We can't. It's too hard for us.", "time": "22:57"},
+    {"side": "right", "text": "You could have been stationed at Nahal Oz at that time. You're on lookout toward Gaza 50% of the time. And you do one-on one-off shifts, meaning 50% rotation. It could have been you there.", "time": "22:57"}
+  ]
+}

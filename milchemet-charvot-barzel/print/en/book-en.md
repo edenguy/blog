@@ -180,7 +180,7 @@ Today there were 3 sirens.
 ![](../../images/004.jpg)
 
 
-![](../../images/006.jpg)
+![](../../images/006_en.jpg)
 
 
 ![](../../images/007.jpg)
@@ -270,13 +270,13 @@ Gaalit, a friend from elementary school, calls today to say that Asaf, a classma
 
 Asaf Groman is absolutely shattered.
 
-![](../../images/012.jpg)
+![](../../images/012_en.jpg)
 
 
-![](../../images/013.jpg)
+![](../../images/013_en.jpg)
 
 
-![](../../images/014.jpg)
+![](../../images/014_en.jpg)
 
 
 Noa Marciano, Sapir's kidnapped friend, is being held in Hamas tunnels.
@@ -353,7 +353,7 @@ Anat and the kids sleep in the safe room.
 ![](../../images/017.jpg)
 
 
-![](../../images/018.jpg)
+![](../../images/018_en.jpg)
 
 
 ![](../../images/019.jpg)
@@ -405,7 +405,7 @@ I join the "Brothers of the Farm" forum. Looking for volunteer opportunities in 
 
 Joining the Brothers of the Farm forum.
 
-![](../../images/026.jpg)
+![](../../images/026_en.jpg)
 
 
 Day 7
@@ -546,7 +546,7 @@ My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago 
 ![](../../images/044.jpg)
 
 
-![](../../images/045.jpg)
+![](../../images/045_en.jpg)
 
 
 Day 12 of the War
@@ -696,7 +696,7 @@ We put on his favorite playlist and work out together. Arms day today.
 
 Steak and lobster. On the deck of the aircraft carrier USS Gerald Ford in the Mediterranean, steak and lobster were served last night. The sailors know this meal is served on holidays — or to boost morale before going into action.
 
-![](../../images/057.jpg)
+![](../../images/057_en.jpg)
 
 
 Lior woke up tonight from a nightmare.
@@ -851,7 +851,7 @@ How am I suddenly regressing to day two of the war?
 
 I'm back on high alert, replacing the water in the safe room. Restocking supplies.
 
-![](../../images/069.jpg)
+![](../../images/069_en.jpg)
 
 
 I'm spiraling again. Not sleeping well at night.
@@ -878,7 +878,7 @@ Who had even heard of these Houthis until today? Where did this come from? Yemen
 
 For the first time ever near the Middle East: the largest and most expensive warship in the world. 90 aircraft, 4,300 crew members, and armed submarines: The US brings aircraft carriers near Israeli shores in a show of support for the war against Hamas. The carrier "Ford," the largest and most expensive warship in the world, has already been deployed in the Mediterranean, and next week the "Eisenhower" is also expected to arrive.
 
-![](../../images/070.jpg)
+![](../../images/070_en.jpg)
 
 
 American Salesforce grants its Israeli employees a war bonus. Employees will receive a one-time grant of 10,000 shekels in their November paycheck.

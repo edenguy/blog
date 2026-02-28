@@ -1,0 +1,13 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Of course. I'll order for you.", "time": "09:26", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Thanks", "time": "09:29"},
+    {"side": "right", "text": "Sapir.", "time": "09:56", "check": "\u2713\u2713"},
+    {"side": "left", "text": "?", "time": "09:56"},
+    {"side": "right", "text": "It's very hard for me to deal with what you have to face. The things you have to go through. It doesn't suit a 20-year-old girl. Friends held hostage, war, the front line, wounded. That's enough for a lifetime of experiences. I feel like I can't protect you from all this. And maybe I need to understand that my children now need to protect me. Changing of the guard. You're now protecting us. The country. I want you to know that I admire you for everything you do. And what you go through. And the composure. It's not to be taken for granted at all.", "time": "09:58", "check": "\u2713\u2713", "edited": true},
+    {"side": "left", "text": "I'm just doing what's expected of me", "time": "09:59"}
+  ]
+}

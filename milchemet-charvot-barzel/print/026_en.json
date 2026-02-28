@@ -1,0 +1,19 @@
+{
+  "chat_name": "Brothers of the Farm",
+  "chat_status": "only admins can send messages",
+  "avatar_icon": "&#128101;",
+  "direction": "ltr",
+  "footer": true,
+  "messages": [
+    {"type": "unread", "text": "1 Unread Message"},
+    {
+      "side": "left",
+      "sender": "~ lisa",
+      "sender_phone": "+972 52-865-2788",
+      "text": "Agriculture HQ \u2014 We're trying to send groups of volunteers every day from Beit Kama to farms in the Gaza envelope and the region. The farmers are desperate, there are no workers at all, and we all want to save something!<br>It can be for one or two days here and there, or sleeping at the farm for several consecutive days, depending on the task and the farm.<br>Departure from Beit Kama (with escort) at 07:30.<br>Fieldwork: 08:30\u201315:00.<br>About one workday.<br><br>\u2014Lisa.<br>0528652788<br>Tel: 0528652788<br>Please send WhatsApp privately.<br><br>Thanks \ud83c\udf36\ufe0f",
+      "time": "23:56"
+    },
+    {"type": "date", "text": "Today"},
+    {"type": "system", "text": "+972 58-580-2002 joined using this group's invite link"}
+  ]
+}

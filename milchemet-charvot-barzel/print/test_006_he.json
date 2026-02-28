@@ -1,0 +1,13 @@
+{
+  "chat_name": "\u05e6\u05e7\u05d0\u05d9\u05df-\u05e1\u05e4\u05d9\u05e8",
+  "chat_status": "\u05e2\u05e0\u05ea _ is typing...",
+  "direction": "rtl",
+  "messages": [
+    {"side": "left", "sender": "\u05e1\u05e4\u05d9\u05e8 \u05e2\u05d3\u05df _", "text": "\u05db\u05de\u05d4 \u05d3\u05e7", "time": "17:38"},
+    {"type": "spacer"},
+    {"side": "left", "text": "\u05d4\u05d5\u05db\u05e8\u05d6 \u05d7\u05e9\u05e9 \u05dc\u05d7\u05d3\u05d9\u05e8\u05d4 \u05dc\u05d9\u05e9\u05d5\u05d1 \u05d1\u05d2\u05d6\u05e8\u05d4", "time": "22:31"},
+    {"side": "left", "text": "\u05db\u05d9\u05e0\u05e1\u05d5 \u05d0\u05ea \u05db\u05d5\u05dc\u05dd \u05d6\u05d4 \u05db\u05e0\u05e8\u05d0\u05d4 \u05db\u05dc\u05d5\u05dd", "time": "22:31"},
+    {"side": "right", "text": "\u05e2\u05d3\u05db\u05e0\u05d9", "time": "22:35", "check": "\u2713\u2713"},
+    {"side": "left", "sender": "\u05e1\u05e4\u05d9\u05e8 \u05e2\u05d3\u05df _", "text": "\u05d7\u05d5\u05d6\u05dc\u05e9", "time": "22:35", "reaction": "\u2764\ufe0f"}
+  ]
+}

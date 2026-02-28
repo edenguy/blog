@@ -1,0 +1,18 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "I'm simply horrified", "time": "18:31", "check": "\u2713\u2713"},
+    {"side": "right", "text": "It could have easily been you", "time": "18:31", "check": "\u2713\u2713"},
+    {"side": "right", "text": "The terrorists are sending photos of all the hostages?", "time": "18:31", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Not of all of them", "time": "18:39"},
+    {"side": "left", "text": "There are some missing", "time": "18:39"},
+    {"side": "left", "text": "But her parents identified her in photos and videos", "time": "18:40"},
+    {"side": "right", "text": "Why are they sending some, and not all?", "time": "18:43", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Did you see the photo?", "time": "18:43", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "You", "text": "Why are they sending some, and not all?"}, "text": "Don't know", "time": "18:45"},
+    {"side": "left", "text": "That we'll be in uncertainty", "time": "18:45"},
+    {"side": "left", "quote": {"sender": "You", "text": "Did you see the photo?"}, "text": "Yes", "time": "18:45"}
+  ]
+}
