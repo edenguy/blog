@@ -11,33 +11,57 @@ Export a published Wix blog post (URL) to a self-contained Markdown folder with 
 
 ```
 <output-dir>/<post-slug>/
-  index.md
+  README.md
   images/
-    01.jpg
-    02.png
+    001.jpg
+    002.png
     ...
 ```
 
+## Execution Model
+
+**Use subagents for all heavy work.** The parent conversation should only:
+1. Resolve parameters (URL, output location)
+2. Launch subagents
+3. Report results to the user
+
+This prevents Cursor crashes from context bloat during long exports.
+
+### Subagent Breakdown
+
+| Subagent | Type | Task |
+|---|---|---|
+| **Fetch & Analyze** | `shell` | Download raw HTML, extract metadata, build ordered image list, build block map. Write results to temp files. |
+| **Download Images** | `shell` | Read image list from temp file, download all images in batches. |
+| **Build Markdown** | `generalPurpose` | Read WebFetch text + block map + image list, assemble final `README.md`. |
+| **Verify** | `generalPurpose` | Count image refs vs files, check all refs resolve, show summary. |
+
+For posts with few images (<10), a single `generalPurpose` subagent can handle the entire export. For posts with many images (10+), split into the subagents above.
+
+When exporting **multiple posts**, launch them in parallel (up to 4 concurrent subagents).
+
+---
+
 ## Workflow
 
-### Step 1: Resolve Output Location
+### Step 1: Resolve Output Location (parent)
 
 Ask the user where to save if not specified. Default: `d:\dev\blog\<post-slug>\`.
 Derive `<post-slug>` from the URL path (the last segment, URL-decoded, transliterated to ASCII-safe if needed).
 
-### Step 2: Fetch Page Content (Two Passes)
+### Step 2: Fetch & Analyze (subagent: `shell`)
 
-**Pass A -- Text content:** Use `WebFetch` on the URL. This returns readable text (the post body) but NO image URLs (Wix renders images via client-side JS).
+Launch a shell subagent with these instructions:
 
-**Pass B -- Raw HTML source:** Download the raw HTML for image and structure extraction:
+**Pass A -- Text content:** Use `WebFetch` on the URL. This returns readable text (the post body) but NO image URLs (Wix renders images via client-side JS). Save to `<temp>_text.txt`.
+
+**Pass B -- Raw HTML source:** Download the raw HTML:
 
 ```powershell
 curl.exe -s -L -o <temp>.html "<URL>"
 ```
 
-### Step 3: Extract Post Metadata
-
-Search the raw HTML for the JSON-LD block (`<script type="application/ld+json">`). Extract:
+**Extract metadata** from the JSON-LD block (`<script type="application/ld+json">`):
 
 | Field | JSON-LD key |
 |---|---|
@@ -46,24 +70,19 @@ Search the raw HTML for the JSON-LD block (`<script type="application/ld+json">`
 | published | `datePublished` |
 | updated | `dateModified` |
 
-Also check `<meta property="og:image">` for the cover image URL.
+Also check `<meta property="og:image">` for the cover image URL. Write metadata to `<temp>_meta.txt`.
 
-### Step 4: Extract ALL Image Blocks from HTML
+**Extract ALL image blocks** from the HTML. Wix blog posts use numbered content blocks: `data-hook="rcv-block<N>"`. Images appear in **two distinct container types** -- both must be captured:
 
-Wix blog posts use numbered content blocks: `data-hook="rcv-block<N>"`. Images appear in **two distinct container types** -- both must be captured:
+**Type A: Standard images** (`image-viewer` / `wix-image`) -- single images in `rcv-block` elements.
 
-#### Type A: Standard images (`image-viewer` / `wix-image`)
+**Type B: Pro Gallery images** (`gallery-item-image`) -- multiple images inside a Wix Pro Gallery widget. These use `data-hook="gallery-item-image-img-preload"` and do NOT contain `image-viewer` or `wix-image`. A single `rcv-block` can contain an entire gallery with many images.
 
-Single images embedded directly in `rcv-block` elements. Detected by checking if the block content contains `image-viewer` or `wix-image`.
-
-#### Type B: Pro Gallery images (`gallery-item-image`)
-
-Multiple images inside a Wix Pro Gallery widget. These use `data-hook="gallery-item-image-img-preload"` and do NOT contain `image-viewer` or `wix-image`. A single `rcv-block` can contain an entire gallery with many images.
-
-**Critical:** Do NOT use a single regex that spans across block boundaries. Iterate through each block individually:
+Iterate through each block individually:
 
 ```powershell
 $html = [System.IO.File]::ReadAllText('<temp>.html', [System.Text.Encoding]::UTF8)
+$siteId = ([regex]::Match($html, '(\d{4,8})_[a-f0-9]+~mv2\.\w+')).Groups[1].Value
 $maxBlock = ([regex]::Matches($html, 'data-hook="rcv-block(\d+)"') |
     ForEach-Object { [int]$_.Groups[1].Value } | Measure-Object -Maximum).Maximum
 $imgNum = 1
@@ -75,19 +94,19 @@ for ($blk = 1; $blk -le $maxBlock; $blk++) {
 
     # Type A: standard image-viewer / wix-image
     if ($content -match 'image-viewer|wix-image') {
-        $imgMatch = [regex]::Match($content, '<siteId>_[a-f0-9]+~mv2\.\w+')
-        if ($imgMatch.Success) { # Record: imgNum, blockNum, mediaId }
+        $imgMatch = [regex]::Match($content, "${siteId}_[a-f0-9]+~mv2\.\w+")
+        if ($imgMatch.Success) { # Record: imgNum, blockNum, Type=A, mediaId }
         $imgNum++
     }
 
     # Type B: pro-gallery images
     if ($content -match 'gallery-item-image') {
-        $galleryImgs = [regex]::Matches($content, '<siteId>_[a-f0-9]+~mv2\.\w+')
+        $galleryImgs = [regex]::Matches($content, "${siteId}_[a-f0-9]+~mv2\.\w+")
         $seen = @{}
         foreach ($gi in $galleryImgs) {
             if (-not $seen.ContainsKey($gi.Value)) {
                 $seen[$gi.Value] = $true
-                # Record: imgNum, blockNum, mediaId
+                # Record: imgNum, blockNum, Type=B, mediaId
                 $imgNum++
             }
         }
@@ -95,52 +114,34 @@ for ($blk = 1; $blk -le $maxBlock; $blk++) {
 }
 ```
 
-Replace `<siteId>` with the actual site prefix (e.g. `537571`). Discover it by finding the first `_[a-f0-9]+~mv2` match in the HTML.
+Write the ordered image list to `<temp>_images.txt` (one line per image: `NNN|blockNum|type|mediaId|ext`).
 
-**Important:** A single gallery block may reference the same image ID multiple times (for different resolutions). Deduplicate within each gallery block but preserve order. Each unique image gets its own sequential number.
+**Build block map:** Walk all blocks in order and classify each as TEXT, HEADING, QUOTE, IMG, or EMPTY. Write to `<temp>_blockmap.txt`.
 
-### Step 5: Verify Image Placement
+**For each image block**, find the nearest non-empty text block before and after for placement anchoring.
 
-For each image block found in Step 4, find the nearest non-empty text block before and after:
+The subagent should return: total image count, metadata summary, and paths to all temp files.
 
-```powershell
-foreach ($imgBlock in $imageBlocks) {
-    # Search backwards for nearest non-empty text block
-    for ($t = $imgBlock - 1; $t -ge 1; $t--) {
-        # Extract block content, strip HTML, check non-empty
-        # Record as PREV anchor text
-    }
-    # Search forwards for nearest non-empty text block
-    for ($t = $imgBlock + 1; $t -le $maxBlock; $t++) {
-        # Extract block content, strip HTML, check non-empty
-        # Record as NEXT anchor text
-    }
-}
-```
+### Step 3: Download Images (subagent: `shell`)
 
-Images in Wix are typically padded by `<div type="empty-line">` blocks on both sides. The nearest non-empty text before/after determines exact placement in the markdown.
-
-Use this anchor text to locate the insertion point when assembling the markdown in Step 7.
-
-### Step 6: Download Images
-
-Fetch original-quality images by using the base media URL (no Wix resize parameters):
-
-```
-https://static.wixstatic.com/media/<mediaId>
-```
-
-Save with sequential numbered filenames matching the extension from the media ID:
+Launch a shell subagent that reads `<temp>_images.txt` and downloads all images:
 
 ```powershell
-curl.exe -s -L -o images/01.jpg "https://static.wixstatic.com/media/<mediaId>"
+curl.exe -s -L -o images/001.jpg "https://static.wixstatic.com/media/<mediaId>"
 ```
 
-Batch downloads in groups of ~20 to avoid overly long commands.
+Use 3-digit zero-padded filenames. Batch downloads in groups of ~20. Verify all files have non-zero size.
 
-### Step 7: Write the Markdown File
+### Step 4: Build Markdown (subagent: `generalPurpose`)
 
-Create `index.md` with:
+Launch a generalPurpose subagent that:
+
+1. Reads metadata from `<temp>_meta.txt`
+2. Reads the WebFetch text content
+3. Reads the block map from `<temp>_blockmap.txt`
+4. Reads the image list from `<temp>_images.txt`
+
+Creates `README.md` with:
 
 **YAML front-matter:**
 
@@ -156,9 +157,9 @@ original_url: "<full Wix URL>"
 ---
 ```
 
-**Body:** Walk the block map from Step 5 in order. For each entry:
-- **TXT blocks**: Convert to markdown paragraphs. Detect headings (`<div type="heading"`), blockquotes (`<div type="blockquote"`), and empty lines. Skip gallery CSS, video embeds, and `<div type="image"` wrapper blocks.
-- **IMG blocks**: Insert `![](images/<num>.<ext>)`. For gallery blocks with multiple images, insert consecutive image references.
+**Body:** Walk the block map in order. For each entry:
+- **TXT blocks**: Convert to markdown paragraphs. Detect headings (`<div type="heading"`), blockquotes (`<div type="blockquote"`), and empty lines.
+- **IMG blocks**: Insert `![](images/<NNN>.<ext>)`. For gallery blocks with multiple images, insert consecutive image references.
 
 Formatting rules:
 - Preserve all paragraph breaks
@@ -166,15 +167,16 @@ Formatting rules:
 - Bold text: `**bold text**`
 - Timestamps in bold: `**16:25. text...**`
 
-### Step 8: Clean Up
+### Step 5: Clean Up & Verify (subagent: `generalPurpose`)
 
-Delete the temp HTML file.
+Launch a generalPurpose subagent that:
+1. Deletes all temp files (`<temp>.html`, `<temp>_*.txt`)
+2. Counts `![](images/...)` references in the markdown
+3. Verifies each reference resolves to an existing file
+4. Lists the output directory with file sizes
+5. Returns a summary
 
-### Step 9: Verify
-
-List the final output directory and show file sizes. Confirm:
-- Image reference count in markdown matches number of image files
-- All `![](images/...)` references resolve to existing files
+---
 
 ## Caveats
 
@@ -187,3 +189,4 @@ List the final output directory and show file sizes. Confirm:
 - **Encoding**: Use UTF-8 without BOM for all output files. On Windows PowerShell, use `[System.IO.File]::WriteAllText()` with `UTF8Encoding($false)`. Read HTML with `[System.IO.File]::ReadAllText('<file>', [System.Text.Encoding]::UTF8)`.
 - **Performance**: For posts with many images (50+), use PowerShell-native regex instead of ripgrep to avoid shell escaping issues. Batch image downloads in groups.
 - **Windows PowerShell**: Use `curl.exe` (not `curl` which aliases to `Invoke-WebRequest`). Use `;` not `&&` to chain commands.
+- **Context management**: All heavy I/O (HTML parsing, image downloading, markdown assembly) MUST run inside subagents to prevent parent conversation context from growing too large and causing Cursor crashes.
