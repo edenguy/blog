@@ -109,20 +109,72 @@ p {
   page-break-inside: avoid;
 }
 
-/* --- Images --- */
+/* --- Images (default) --- */
 
 img {
   display: block;
-  max-width: 100%;
-  max-height: 190mm;
+  max-width: 70%;
+  max-height: 85mm;
   height: auto;
-  margin: 1em auto;
-  page-break-inside: avoid;
+  margin: 0.5em auto;
 }
 
 p img {
   display: block;
-  margin: 0.8em auto;
+  margin: 0.5em auto;
+}
+
+/* --- Image grid (2x2, 4 consecutive images) --- */
+
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3mm;
+  margin: 0.5em 0;
+  justify-items: center;
+  page-break-inside: avoid;
+}
+
+.image-grid img {
+  max-width: 100%;
+  max-height: 100mm;
+  width: auto;
+  height: auto;
+  margin: 0;
+  object-fit: contain;
+}
+
+/* --- Image pairs (side-by-side, 2 consecutive images) --- */
+
+.image-pair {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4mm;
+  margin: 0.5em 0;
+}
+
+.image-pair img {
+  max-width: 48%;
+  max-height: 100mm;
+  width: auto;
+  height: auto;
+  margin: 0;
+  object-fit: contain;
+}
+
+/* --- Solo image (odd one out, between text) --- */
+
+.image-solo {
+  text-align: center;
+  margin: 0.5em 0;
+}
+
+.image-solo img {
+  max-width: 50%;
+  max-height: 85mm;
+  height: auto;
+  margin: 0 auto;
 }
 
 /* --- Blockquotes --- */

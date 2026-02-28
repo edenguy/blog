@@ -178,8 +178,6 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](images/004.jpg)
 
-![](images/005.jpg)
-
 
 ![](images/006.jpg)
 
@@ -837,9 +835,6 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 אני לוקח אותה, ואת הצעירים לאכול גלידה. ב"אנדרי".
 
 ![](images/066.jpg)
-
-
-![](images/067.jpg)
 
 
 ענת אוהבת את התמונה הזו. פטריוטית. מדים ודגל.

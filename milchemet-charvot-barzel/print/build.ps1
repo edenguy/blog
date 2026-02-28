@@ -63,6 +63,14 @@ $htmlContent = $htmlContent -replace 'href="print\.css"', "href=`"$absCssPath`""
 [System.IO.File]::WriteAllText($htmlFile, $htmlContent, $utf8NoBom)
 Write-Host "  HTML written: $htmlFile"
 
+# Step 2b: Post-process HTML (pair phone screenshots side-by-side)
+$postprocScript = Join-Path $printDir "postprocess_html.py"
+if (Test-Path $postprocScript) {
+    Write-Host "[2b/3] Post-processing phone screenshots..." -ForegroundColor Yellow
+    python $postprocScript $htmlFile $postDir
+    if ($LASTEXITCODE -ne 0) { throw "Post-processing failed with exit code $LASTEXITCODE" }
+}
+
 # Step 3: Convert HTML to PDF via Playwright
 Write-Host "[3/3] Converting HTML -> PDF (Playwright/Chromium)..." -ForegroundColor Yellow
 python "$printDir\html_to_pdf.py" $htmlFile $pdfFile
