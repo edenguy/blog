@@ -1,0 +1,20 @@
+{
+  "chat_name": "Idan, Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "left", "text": "Wie steht es mit eurer Ausr\u00fcstung f\u00fcr den Schutzraum?", "time": "17:11"},
+    {"side": "right", "text": "Warum?", "time": "17:14", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Lohnt sich, auf alles vorbereitet zu sein", "time": "17:15"},
+    {"side": "right", "text": "Rede mit mir", "time": "17:15", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Nichts zu reden", "time": "17:15"},
+    {"side": "right", "text": "Das ganze Wasser im Hof austauschen?", "time": "17:16", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Ja", "time": "17:16"},
+    {"side": "left", "text": "Sicherheitshalber", "time": "17:16"},
+    {"side": "right", "text": "F\u00fcr welchen Zeitraum?", "time": "17:16", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Wei\u00df nicht", "time": "17:16"},
+    {"side": "left", "text": "Bin mir auch nicht sicher", "time": "17:17"},
+    {"side": "right", "text": "Vermutungen? Oder etwas Konkreteres?", "time": "17:17", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Ich w\u00fcrde das Wasser austauschen", "time": "17:17"}
+  ]
+}

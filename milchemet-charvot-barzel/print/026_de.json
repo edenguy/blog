@@ -1,0 +1,19 @@
+{
+  "chat_name": "Br\u00fcder des Bauernhofs",
+  "chat_status": "Nur Admins k\u00f6nnen Nachrichten senden",
+  "avatar_icon": "&#128101;",
+  "direction": "ltr",
+  "footer": true,
+  "messages": [
+    {"type": "unread", "text": "1 ungelesene Nachricht"},
+    {
+      "side": "left",
+      "sender": "~ lisa",
+      "sender_phone": "+972 52-865-2788",
+      "text": "Landwirtschafts-Hauptquartier \u2014 Wir versuchen, t\u00e4glich Gruppen von Freiwilligen von Beit Kama zu den H\u00f6fen im Gaza-Umland und der Region zu schicken. Die Bauern sind verzweifelt, es gibt \u00fcberhaupt keine Arbeiter, und wir alle wollen etwas retten!<br>Das kann f\u00fcr einen oder zwei Tage hier und da sein, oder auf dem Hof \u00fcbernachten f\u00fcr mehrere Tage am St\u00fcck, je nach Aufgabe und Hof.<br>Abfahrt von Beit Kama (mit Begleitung) um 07:30.<br>Feldarbeit: 08:30\u201315:00.<br>Etwa ein Arbeitstag.<br><br>\u2014Lisa.<br>0528652788<br>Tel: 0528652788<br>Bitte WhatsApp privat senden.<br><br>Danke \ud83c\udf36\ufe0f",
+      "time": "23:56"
+    },
+    {"type": "date", "text": "Heute"},
+    {"type": "system", "text": "+972 58-580-2002 ist \u00fcber den Einladungslink der Gruppe beigetreten"}
+  ]
+}

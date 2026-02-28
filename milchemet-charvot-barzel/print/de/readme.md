@@ -180,7 +180,7 @@ Heute gab es 3 Sirenen.
 ![](../../images/004.jpg)
 
 
-![](../../images/006.jpg)
+![](006_de.jpg)
 
 
 ![](../../images/007.jpg)
@@ -270,13 +270,13 @@ Galit, eine Freundin aus der Grundschule, ruft heute an und erzählt, dass Assaf
 
 Assaf Groman ist völlig am Boden zerstört.
 
-![](../../images/012.jpg)
+![](012_de.jpg)
 
 
-![](../../images/013.jpg)
+![](013_de.jpg)
 
 
-![](../../images/014.jpg)
+![](014_de.jpg)
 
 
 Noa Marciano, Sapirs entführte Freundin, wird in den Hamas-Tunneln festgehalten.
@@ -353,7 +353,7 @@ Anat und die Kinder schlafen im Schutzraum.
 ![](../../images/017.jpg)
 
 
-![](../../images/018.jpg)
+![](018_de.jpg)
 
 
 ![](../../images/019.jpg)
@@ -405,7 +405,7 @@ Ich trete dem Forum „Brüder für die Landwirtschaft" bei. Suche Möglichkeite
 
 Trete dem Forum „Brüder für die Landwirtschaft" bei.
 
-![](../../images/026.jpg)
+![](026_de.jpg)
 
 
 Tag 7
@@ -546,7 +546,7 @@ Mein Freund Guri findet heraus, dass die Terroristen, die vor 11 Tagen nach Isra
 ![](../../images/044.jpg)
 
 
-![](../../images/045.jpg)
+![](045_de.jpg)
 
 
 Tag 12 des Krieges
@@ -696,7 +696,7 @@ Wir legen seine Lieblings-Playlist auf und trainieren zusammen. Heute Arm-Traini
 
 Steak und Lobster. Auf dem Deck des Flugzeugträgers Gerald Ford im Mittelmeer wurden gestern Abend Steak und Lobster serviert. Die Seeleute wissen, dass so ein Gericht an Feiertagen serviert wird — oder um die Moral vor einem Einsatz zu heben.
 
-![](../../images/057.jpg)
+![](057_de.jpg)
 
 
 Lior wachte heute Nacht aus einem Albtraum auf.
@@ -851,7 +851,7 @@ Wieso wieder ein Rückfall in Tag zwei des Krieges?
 
 Ich gehe wieder in volle Alarmbereitschaft, wechsle das Wasser im Schutzraum aus. Fülle Vorräte auf.
 
-![](../../images/069.jpg)
+![](069_de.jpg)
 
 
 Ich drehe wieder am Rad. Schlafe nachts nicht gut.
@@ -878,7 +878,7 @@ Wer hatte je von diesen Huthi gehört, bis heute? Woher kam das? Jemen? Ist das 
 
 Zum ersten Mal überhaupt in der Nähe des Nahen Ostens: das größte und teuerste Kriegsschiff der Welt. 90 Flugzeuge, 4.300 Besatzungsmitglieder und bewaffnete U-Boote: Die USA bringen Flugzeugträger vor Israels Küste in einer Demonstration der Unterstützung im Krieg gegen Hamas. Der Flugzeugträger „Ford", das größte und teuerste Kriegsschiff der Welt, wurde bereits im Mittelmeer stationiert, und nächste Woche soll auch die „Eisenhower" ankern.
 
-![](../../images/070.jpg)
+![](070_de.jpg)
 
 
 Salesforce, das amerikanische Unternehmen, gewährt seinen israelischen Mitarbeitern einen Kriegsbonus. Die Mitarbeiter des Unternehmens erhalten eine einmalige Prämie von 10.000 Schekel zum November-Gehalt.

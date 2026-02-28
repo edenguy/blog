@@ -1,0 +1,13 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Nat\u00fcrlich. Ich bestelle f\u00fcr dich.", "time": "09:26", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Danke", "time": "09:29"},
+    {"side": "right", "text": "Sapir.", "time": "09:56", "check": "\u2713\u2713"},
+    {"side": "left", "text": "?", "time": "09:56"},
+    {"side": "right", "text": "Es f\u00e4llt mir sehr schwer mit dem, was du durchmachen musst. Die Dinge, die du erleben musst. Das passt nicht zu einem 20-j\u00e4hrigen M\u00e4dchen. Entf\u00fchrte Freundinnen, Krieg, die Front, Verwundete. Das reicht f\u00fcr ein ganzes Leben an Erfahrungen. Ich habe das Gef\u00fchl, dass ich dich vor all dem nicht besch\u00fctzen kann. Und vielleicht muss ich verstehen, dass meine Kinder jetzt mich besch\u00fctzen m\u00fcssen. Wachablösung. Du besch\u00fctzt jetzt uns. Das Land. Ich m\u00f6chte, dass du wei\u00dft, dass ich dich bewundere f\u00fcr alles, was du tust. Und was du durchmachst. Und die Gelassenheit. Das ist \u00fcberhaupt nicht selbstverst\u00e4ndlich.", "time": "09:58", "check": "\u2713\u2713", "edited": true},
+    {"side": "left", "text": "Ich tue nur, was von mir erwartet wird", "time": "09:59"}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Be\u00e4ngstigend", "time": "19:52", "check": "\u2713\u2713"},
+    {"type": "spacer"},
+    {"side": "left", "text": "Sie sind in Siedlungen in Samarien eingedrungen", "time": "22:21"},
+    {"side": "right", "text": "Dein Sektor?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Nein", "time": "22:22"},
+    {"side": "left", "text": "Aber ich grenze daran", "time": "22:22"},
+    {"side": "left", "text": "Ich bin in Benjamin", "time": "22:22"},
+    {"side": "right", "text": "Und sind unsere Soldaten dort effektiv?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Hast du Sicht?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Ich bin nicht in Samarien", "time": "22:22"},
+    {"side": "right", "text": "Hast du nur Sicht f\u00fcr deinen Bereich?", "time": "22:22", "check": "\u2713\u2713"},
+    {"side": "left", "text": "\u00c4hh", "time": "22:23"},
+    {"side": "left", "text": "Ja", "time": "22:23"},
+    {"side": "right", "text": "Sind die Soldaten dort bereit?", "time": "22:23"},
+    {"side": "right", "text": "Wie sind sie \u00fcber den Zaun gekommen?", "time": "22:23"},
+    {"side": "left", "text": "Keine Ahnung", "time": "22:23"},
+    {"side": "left", "text": "Aber ehrlich gesagt sieht der Wachdienst auf unserer Basis auch etwas angespannt aus", "time": "22:23"},
+    {"side": "left", "quote": {"sender": "Sapir Eden _", "text": "Sie sind in Siedlungen in Samarien eingedrungen"}, "text": "Wurde es geregelt?", "time": "22:23"},
+    {"side": "left", "text": "Ich habe dar\u00fcber hinaus nichts geh\u00f6rt", "time": "22:23"},
+    {"side": "left", "text": "Ich habe nur geh\u00f6rt, dass sie in Siedlungen in Samarien eingedrungen sind", "time": "22:24"},
+    {"side": "left", "forwarded": true, "text": "M\u00e4dels, es gab einen Bericht \u00fcber die Beobachtungsposten-Soldatinnen sowohl in Nahal Oz als auch in Kissufim auf Kanal 12, aber es war nicht live. Spult zur\u00fcck, wenn ihr die M\u00f6glichkeit habt und sehen wollt, was passiert ist", "time": "22:24"},
+    {"side": "right", "text": "Man k\u00f6nnte zuschauen um zu erfahren was passiert ist", "time": "22:54", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Nein, Sapir. Ich wei\u00df, was passiert ist, und ich schaue es mir nicht an. Und Mama auch nicht. Wir k\u00f6nnen nicht. Es ist zu schwer f\u00fcr uns.", "time": "22:57"},
+    {"side": "right", "text": "Du h\u00e4ttest zu der Zeit in Nahal Oz stationiert sein k\u00f6nnen. Du bist 50% der Zeit auf Beobachtungsposten Richtung Gaza. Und du machst Eins-zu-Eins-Schichten, also 50% Rotation. Das h\u00e4ttest du dort sein k\u00f6nnen.", "time": "22:57"}
+  ]
+}

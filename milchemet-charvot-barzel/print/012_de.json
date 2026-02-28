@@ -1,0 +1,18 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Ich bin einfach entsetzt", "time": "18:31", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Das h\u00e4ttest leicht du sein k\u00f6nnen", "time": "18:31", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Die Terroristen schicken Fotos von allen Geiseln?", "time": "18:31", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Nicht von allen", "time": "18:39"},
+    {"side": "left", "text": "Es fehlen einige", "time": "18:39"},
+    {"side": "left", "text": "Aber ihre Eltern haben sie auf Fotos und Videos erkannt", "time": "18:40"},
+    {"side": "right", "text": "Warum schicken sie nur manche und nicht alle?", "time": "18:43", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Hast du das Foto gesehen?", "time": "18:43", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "Du", "text": "Warum schicken sie nur manche und nicht alle?"}, "text": "Wei\u00df nicht", "time": "18:45"},
+    {"side": "left", "text": "Dass wir in Ungewissheit bleiben", "time": "18:45"},
+    {"side": "left", "quote": {"sender": "Du", "text": "Hast du das Foto gesehen?"}, "text": "Ja", "time": "18:45"}
+  ]
+}

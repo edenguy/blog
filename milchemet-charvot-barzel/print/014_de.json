@@ -1,0 +1,16 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "left", "text": "Ich wei\u00df", "time": "18:47"},
+    {"side": "left", "quote": {"sender": "Du", "text": "Wenn sie die Kameras zerst\u00f6rt haben, wissen sie sowieso schon genug"}, "text": "Ich habe verstanden, dass es ein Cyberangriff war", "time": "18:48"},
+    {"side": "left", "text": "Dass sie ihre Frequenzen gest\u00f6rt haben", "time": "18:48"},
+    {"side": "right", "text": "Ist das best\u00e4tigt, oder ist es ein Ger\u00fccht?", "time": "18:49", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Das haben sie bei mir in der Kommandozentrale gesagt", "time": "18:49"},
+    {"side": "left", "text": "Also stimmt es wahrscheinlich", "time": "18:49"},
+    {"side": "right", "text": "Alle Kameras sind ausgefallen und dann irgendwann kamen sie wieder und man sah Massen von Arabern, die auf israelisches Gebiet eindrangen, und sie konnten die Leute nicht warnen", "time": "18:50"},
+    {"side": "right", "text": "Die Frage ist, ob ihr sicher sein k\u00f6nnt, dass das bei euch nicht passieren kann", "time": "18:50", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Warum konnten sie die Leute nicht warnen? Weil sie keine Zeit hatten?", "time": "18:51"}
+  ]
+}

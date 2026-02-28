@@ -1,0 +1,25 @@
+{
+  "chat_name": "Eltern 4. Klasse / Nat...",
+  "chat_status": "Eti (Jonatans Mama), +972 5...",
+  "avatar_icon": "4\ufe0f\u20e3",
+  "direction": "ltr",
+  "messages": [
+    {
+      "side": "left",
+      "text": "...an die Schule diese Woche. Bitte verteilt die Umfrage in den Klassen und entsprechend der Mehrheit wird nur ein Klassenvertreter hier abstimmen, einer pro Klasse. Das hei\u00dft, wenn mehr als die H\u00e4lfte der Klasse f\u00fcr eine bestimmte Antwort ist, stimmt der Klassenvertreter entsprechend hier ab.",
+      "time": "20:27"
+    },
+    {
+      "type": "poll",
+      "sender": "~ Anat Nee...",
+      "sender_phone": "+972 50-565-0129",
+      "question": "Stimmt ihr zu, die Kinder zum Pr\u00e4senzunterricht zur\u00fcckzuschicken?",
+      "hint": "Eine ausw\u00e4hlen",
+      "options": [
+        {"label": "Ja", "votes": 0, "selected": false},
+        {"label": "Nein", "votes": 30, "selected": true}
+      ],
+      "time": "20:27"
+    }
+  ]
+}
