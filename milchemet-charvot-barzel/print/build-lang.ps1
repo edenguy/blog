@@ -6,11 +6,11 @@ param(
 $ErrorActionPreference = "Stop"
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $postDir = Split-Path -Parent $scriptDir
-$printDir = $scriptDir
+$sourceDir = Split-Path -Parent (Resolve-Path $SourceMd)
 
-$htmlFile = Join-Path $printDir "book-$Lang.html"
-$pdfFile = Join-Path $printDir "book-$Lang.pdf"
-$cssFile = Join-Path $printDir "print-ltr.css"
+$htmlFile = Join-Path $sourceDir "book-$Lang.html"
+$pdfFile = Join-Path $sourceDir "book-$Lang.pdf"
+$cssFile = Join-Path $scriptDir "print-ltr.css"
 
 Write-Host "=== Building $Lang PDF ===" -ForegroundColor Cyan
 Write-Host "Source:  $SourceMd"
@@ -40,7 +40,7 @@ $subtitleHtml
 <div class="date">$date</div>
 </div>
 "@
-$coverFile = Join-Path $printDir "_cover-$Lang.html"
+$coverFile = Join-Path $sourceDir "_cover-$Lang.html"
 $utf8NoBom = New-Object System.Text.UTF8Encoding $false
 [System.IO.File]::WriteAllText($coverFile, $coverHtml, $utf8NoBom)
 
@@ -59,15 +59,15 @@ if ($LASTEXITCODE -ne 0) { throw "Pandoc failed with exit code $LASTEXITCODE" }
 $htmlContent = [System.IO.File]::ReadAllText($htmlFile, [System.Text.Encoding]::UTF8)
 
 $absImgPath = ($postDir -replace '\\', '/') + '/images/'
-$htmlContent = $htmlContent -replace 'src="images/', "src=`"$absImgPath"
+$htmlContent = $htmlContent -replace 'src="(\.\./)*images/', "src=`"$absImgPath"
 
-$absCssPath = ($printDir -replace '\\', '/') + '/print-ltr.css'
+$absCssPath = ($scriptDir -replace '\\', '/') + '/print-ltr.css'
 $htmlContent = $htmlContent -replace 'href="print-ltr\.css"', "href=`"$absCssPath`""
 
 [System.IO.File]::WriteAllText($htmlFile, $htmlContent, $utf8NoBom)
 Write-Host "  HTML written: $htmlFile"
 
-$postprocScript = Join-Path $printDir "postprocess_html.py"
+$postprocScript = Join-Path $scriptDir "postprocess_html.py"
 if (Test-Path $postprocScript) {
     Write-Host "[2b/3] Post-processing images..." -ForegroundColor Yellow
     python $postprocScript $htmlFile
@@ -75,7 +75,7 @@ if (Test-Path $postprocScript) {
 }
 
 Write-Host "[3/3] Converting HTML -> PDF (Playwright/Chromium)..." -ForegroundColor Yellow
-python "$printDir\html_to_pdf.py" $htmlFile $pdfFile
+python "$scriptDir\html_to_pdf.py" $htmlFile $pdfFile
 
 if ($LASTEXITCODE -ne 0) { throw "PDF generation failed with exit code $LASTEXITCODE" }
 
