@@ -17,7 +17,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 Sukkot. We're at the tail end of a week-long jeep trip in Romania. They started the party and didn't even bother waiting for us.
 
-On the seventh and final day of the trip. Rockets, hostages, dead, and more bad tidings.
+On the seventh and final day of the trip. Rockets, hostages, dead, and more bad news piling up.
 
 Anat wakes up in the morning, in Romania, and sees Home Front Command alerts. And we're abroad. Surreal!
 
@@ -29,15 +29,15 @@ Idan says the world has never seen anything like this.
 
 Idan tells us the border with Gaza has been "updated."
 
-For the worse. (Every time I read this sentence that I wrote, something rises in my throat.)
+For the worse. (Every time I read this sentence that I wrote, I get a lump in my throat.)
 
 That three IDF bases have evaporated. That the bases are now burned, and under Hamas control.
 
 That kibbutzim were burned and emptied. And the residents had already "relocated" to Gaza. (Hostages.)
 
-In my opinion, Idan got confused and watched season 19 of Fauda.
+I'm pretty sure Idan got confused and watched season 19 of Fauda.
 
-Our feeling: bewilderment. We're abroad. Far away. We feel like we're missing a dimension. We are so faaaaaar from everything.
+Our feeling: total fog. We're abroad. Far away. We feel like we're missing a dimension. We are so faaaaaar from everything.
 
 Idan says it's Yom Kippur all over again.
 
@@ -45,7 +45,7 @@ And I'm sure Idan is exaggerating.
 
 It's Saturday. Idan was called up. That's unusual. He takes the car and parks it near his unit. Writes "IDF" on it so he won't get a ticket. Anat asks that we stay in Romania a few more days.
 
-But I feel too deep a belonging to the country. Being Jewish also means not abandoning ship when it's hard.
+But I feel too connected to this country. Being Jewish also means you don't abandon ship when things get tough.
 
 The airline cancels our flight home. And then reinstates it as a regular flight.
 
@@ -80,7 +80,7 @@ The rest is history.
 
 Sapir completed the lookout soldiers' course six months ago.
 
-Sapir was assigned to a posting. She could just as easily have been posted in Gaza.
+Sapir got her assignment. She could just as easily have been posted in Gaza.
 
 The odds terrify me.
 
@@ -88,9 +88,9 @@ In a parallel universe, I have a daughter held hostage in Gaza right now.
 
 Or worse.
 
-We hold an all-hands meeting at work with the entire Israeli site.
+We have an all-hands at work with the whole Israeli site.
 
-People pour out what's on their hearts.
+People just let it all out.
 
 - I'm waiting for my reserve call-up order. And I'm getting assignments from my managers. And what if I die in combat? No one at work will know I fell in battle. People in the office won't see me for a few weeks and will simply forget I existed.
 
@@ -98,15 +98,15 @@ People pour out what's on their hearts.
 
 - I have meetings with clients. Today I joined a meeting, but they told me the meeting was canceled because my client is being held captive in Gaza.
 
-Not a single eye stays dry in this conversation.
+Not a dry eye in the room.
 
 It's horrible and devastating.
 
-I've never experienced emotions this intense.
+I've never felt anything this intense.
 
 Maybe on 9/11.
 
-After this devastating call, I phone Idan. Tell him about what came up in the meeting. Can't stop the tears. Crying to him on the phone.
+After this devastating call, I call Idan. Tell him about what came up in the meeting. Can't stop the tears. Crying to him on the phone.
 
 This is the hardest day for me emotionally.
 
@@ -114,15 +114,15 @@ A child shouldn't see his father break down.
 
 Or maybe he should?
 
-The news asks us to stay locked in our homes — terrorists in pickup trucks are roaming the country's roads.
+They're telling us on the news to stay locked inside — terrorists in pickup trucks are roaming the roads.
 
 They found a pickup with terrorists a kilometer and a half from our house.
 
-I cover the windows facing the street with cardboard. So no light is visible from outside.
+I cover the windows facing the street with cardboard. So no light leaks out.
 
 These are things my grandfather did in the War of Independence. When they were bombed from the air. Blackout.
 
-Home Front Command issues an unusual announcement that I'm sure doesn't instill any excess confidence in any household in Israel.
+Home Front Command puts out a freaky announcement. I'm sure it doesn't exactly fill anyone in Israel with confidence.
 
 "Unusual announcement" to citizens: Home Front Command is calling on people tonight to stock up on dry food, water, and additional supplies for 72 hours. The call is addressed to all citizens.
 
@@ -148,13 +148,13 @@ The family is on high alert.
 
 I prepare 400 liters of water.
 
-Going to fill up a full tank of gas in the family car.
+Going to fill up the tank in the family car.
 
 High alert for real.
 
 Lior writes a letter to the soldiers.
 
-I call Sapir. Sapir updates me that intruders breached settlements in her neighboring sector. I see black before my eyes. I'm not okay.
+I call Sapir. She tells me they've broken into settlements in the sector next to hers. Everything goes dark. I'm not okay.
 
 I'm in a panic. Will they copy-paste the attack on the lookout soldiers in Gaza?
 
@@ -180,7 +180,7 @@ Today there were 3 sirens.
 ![](../images/004.jpg)
 
 
-![](../images/en/006_en.jpg)
+![](006_en.jpg)
 
 
 ![](../images/007.jpg)
@@ -236,7 +236,7 @@ Today there were two sirens.
 ![](../images/009.jpg)
 
 
-![](../images/en/010_en.jpg)
+![](010_en.jpg)
 
 
 ![](../images/011.png)
@@ -256,9 +256,9 @@ Meaning, he understands we're civilians and nothing is expected of us, but he's 
 
 I tell Idan I wanted to cook 100 hot meals and bring them to Sapir, to her unit. But she said there's enough food in the mess hall.
 
-I ended up thinking about what Idan said, and I decide to volunteer to help farmers who got their reserve call-up orders.
+Idan's words stick with me, and I decide to volunteer to help farmers who got their reserve call-up orders.
 
-There's a shortage of working hands in agriculture. Produce isn't being collected from the fields. Breaks your heart. Good food. Going to waste.
+Farms are short-handed. Produce isn't being collected from the fields. Breaks your heart. Good food. Going to waste.
 
 I'd like to help where it's really needed. In the communities near the Gaza border. But Anat vetoes it.
 
@@ -270,13 +270,13 @@ Gaalit, a friend from elementary school, calls today to say that Asaf, a classma
 
 Asaf Groman is absolutely shattered.
 
-![](../images/en/012_en.jpg)
+![](012_en.jpg)
 
 
-![](../images/en/013_en.jpg)
+![](013_en.jpg)
 
 
-![](../images/en/014_en.jpg)
+![](014_en.jpg)
 
 
 Noa Marciano, Sapir's kidnapped friend, is being held in Hamas tunnels.
@@ -299,9 +299,9 @@ No deliveries, no workers at the supermarket, no merchandise — just cashiers.
 
 The shelves are empty. Like Eastern Europe under communism.
 
-In the afternoon, a complaint was filed with the police by a neighborhood resident about a suspicious man walking outside the neighborhood, in the sand dunes, with a large backpack.
+In the afternoon, some neighbor calls the cops about a suspicious guy walking outside the neighborhood, in the sand dunes, with a big backpack.
 
-That's me going out for rucking (a large 30-kilo backpack, walking through the sand hills near home). A police car stops me and asks for details. They release me immediately, of course. But you can learn something about the nervousness and anxiety of the residents.
+That's me going out for rucking (a large 30-kilo backpack, walking through the sand hills near home). A police car stops me and asks for details. They let me go right away, of course. But it tells you something about how jumpy everyone is.
 
 When I tell Sapir about the incident, she cracks up laughing.
 
@@ -309,7 +309,7 @@ Glad I managed to make her laugh.
 
 Anat prints out mandalas and colors them with the kids.
 
-I share my struggles with my boss, tell him I'm not as productive as before. He receives it with complete understanding.
+I share my struggles with my boss, tell him I'm not as productive as before. He totally gets it.
 
 Sapir tells us the girls at the command post decided to observe Shabbat in memory and honor of the lookout soldiers who were massacred and kidnapped.
 
@@ -353,7 +353,7 @@ Anat and the kids sleep in the safe room.
 ![](../images/017.jpg)
 
 
-![](../images/en/018_en.jpg)
+![](018_en.jpg)
 
 
 ![](../images/019.jpg)
@@ -368,7 +368,7 @@ Anat and the kids sleep in the safe room.
 
 Day 6 of the War
 
-Waking up at 3 AM. Can't fall asleep. Sleep eludes me.
+Waking up at 3 AM. Can't fall asleep. Can't sleep.
 
 Texting with my friend Barel.
 
@@ -384,37 +384,37 @@ It takes him a long time to answer, and I worry he might be offended that I'm co
 
 But I actually meant it in a positive way.
 
-Barel tells about a Lag BaOmer show seared in his memory from childhood, where an Arab guy tortured pigeons — set them on fire, stuck firecrackers in them.
+Barel tells me about a Lag BaOmer show from childhood that's burned into his memory, where an Arab guy tortured pigeons — set them on fire, stuck firecrackers in them.
 
 Cruel, the Arabs are.
 
 Barel sends a current photo of himself. From his night patrol.
 
-And I recommend he shave urgently, so a Border Police patrol doesn't stop him.
+And I tell him to shave ASAP so a Border Police patrol doesn't stop him.
 
 I join the "Brothers of the Farm" forum. Looking for volunteer opportunities in agriculture. They ask if I can help with milking.
 
 ![](../images/023.png)
 
 
-![](../images/en/024_en.jpg)
+![](024_en.jpg)
 
 
-![](../images/en/025_en.jpg)
+![](025_en.jpg)
 
 
 Joining the Brothers of the Farm forum.
 
-![](../images/en/026_en.jpg)
+![](026_en.jpg)
 
 
 Day 7
 
 07:00 — Adi (my sister) calls.
 
-By the hour, I understand something's happening.
+At that hour, I know something's up.
 
-Adi, in a trembling voice, tells me that her daughter, Mai, who's been in Australia for a year and a half, has decided to come back to Israel to fight. Her home for two years and eight months (during her regular service) was destroyed. (Gaza Division.) And she can't stand by and be passive.
+Adi tells me, voice shaking, that her daughter Mai, who's been in Australia for a year and a half, has decided to come back to Israel to fight. Her home for two years and eight months (during her regular service) was destroyed. (Gaza Division.) She can't just sit this one out.
 
 Adi is terrified. Trying to convince her not to come.
 
@@ -428,9 +428,9 @@ Me — I can promise you the Yom Kippur War will happen a third time, to our gra
 
 Dad — I need to replace the Education Minister. Israeli children don't know history. How is it that my grandchildren don't know history? And why don't my children know anything that happened before the year 2000?
 
-Me — Getting annoyed, not in the mood to get lectured by someone who fancies himself the next Education Minister, and I hang up.
+Me — Getting annoyed, not in the mood to get lectured by someone who thinks he should be the next Education Minister, and I hang up.
 
-They say dogs have become conditioned to the sirens and run first to the safe room when a siren sounds.
+They say dogs have learned to react to the sirens and run to the safe room first when one goes off.
 
 Except Shuki, our dog, is half-deaf and doesn't rush to any safe room when a siren goes off.
 
@@ -438,10 +438,10 @@ Today there were two sirens.
 
 Anat and Lior sleep in the safe room.
 
-![](../images/en/027_en.jpg)
+![](027_en.jpg)
 
 
-![](../images/en/028_en.jpg)
+![](028_en.jpg)
 
 
 ![](../images/029.jpg)
@@ -491,7 +491,7 @@ After three hours everyone is tired. But satisfied.
 
 I come home and try to entertain Lior. We fill a large bowl with water and lots of ice.
 
-We dunk our heads in the bowl. This has many benefits. Activates the parasympathetic nervous system, releases endorphins, boosts the immune system.
+We dunk our heads in the bowl. Supposedly it's great for you. Activates the parasympathetic nervous system, releases endorphins, boosts the immune system.
 
 Turns out there are cold receptors on the sides of the head. So dunking your head in ice water is almost like an ice bath for the whole body.
 
@@ -507,7 +507,7 @@ I want to make chocolate balls with Lior, but we don't have Petit Beurre biscuit
 
 Another heartbreaking message from Sapir.
 
-![](../images/en/033_en.jpg)
+![](033_en.jpg)
 
 
 ![](../images/034.jpg)
@@ -536,7 +536,7 @@ I buy Petit Beurre biscuits. Today we'll make chocolate balls together.
 
 My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago were drugged.
 
-![](../images/en/041_en.jpg)
+![](041_en.jpg)
 
 
 ![](../images/042.jpg)
@@ -546,7 +546,7 @@ My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago 
 ![](../images/044.jpg)
 
 
-![](../images/en/045_en.jpg)
+![](045_en.jpg)
 
 
 Day 12 of the War
@@ -566,7 +566,7 @@ I come across a security camera video from Kibbutz Be'eri. You can see swarms of
 
 It looked like a public square in Gaza. Fighters, children, elderly, disabled, teenagers. Everyone and everything.
 
-It was like an annual field trip. Everyone crossed the border into Israel, grabbed a little Jew as a souvenir to tie up in their living room, and went back to Gaza, after abusing the local residents.
+It was like an annual field trip. Everyone crossed the border into Israel, grabbed a little Jew as a souvenir to tie up in their living room, and went back to Gaza, after brutalizing the locals.
 
 Day 13 of the War — Shuki learns to run with us to the safe room.
 
@@ -591,13 +591,13 @@ If there's something stressful... this is it.
 
 [This is the stuff my nightmares are made of](https://edenguy.wixsite.com/blog/post/%D7%A7%D7%9C%D7%90%D7%A5-%D7%91%D7%9E%D7%98%D7%A2-%D7%94%D7%90%D7%A0%D7%95%D7%A0%D7%95%D7%AA). Dozens of terrorists roaming Israel.
 
-Every few months this scene haunts me in a dream. Somehow at the end of the dream I find myself fleeing for my life from armed terrorists.
+Every few months this scene haunts me in a dream. Somehow at the end I always find myself running for my life from armed terrorists.
 
 But now it's real.
 
-And there are testimonies from people who fought over the safe room door handle for hours against determined terrorists on the other side of the door.
+And I've heard stories of people who fought over the safe room door handle for hours against determined terrorists on the other side.
 
-And given all this, and the stress building up in me again after calming down last week, I decide to upgrade the bolts on the safe room.
+So with all this, and the stress building up in me again after calming down last week, I decide to upgrade the bolts on the safe room.
 
 I have one bolt, and I want to install three more.
 
@@ -624,9 +624,9 @@ I'm considering getting a gun license.
 
 These are insane times. I never thought I'd apply for a firearms permit.
 
-Unfortunately, I don't meet the requirements. I'm a marksman 02. The criterion is 03. Or a frontline community.
+Unfortunately, I don't qualify. I'm a marksman 02. The criterion is 03. Or a frontline community.
 
-I take comfort in the fact that Rishon LeZion will be a frontline community within a week and a half. And then I'll rush to get a firearms permit.
+On the bright side, Rishon LeZion will be a frontline community within a week and a half. And then I'll rush to get a firearms permit.
 
 Sapir has a ukulele. She's boosting morale in her unit with her ukulele.
 
@@ -635,7 +635,7 @@ Sapir has a ukulele. She's boosting morale in her unit with her ukulele.
 
 Sapir tells us they were instructed to prepare mentally for 60 days on base.
 
-It's not entirely clear to me how you can mentally prepare yourself for something like that.
+I have no idea how you mentally prepare for something like that.
 
 People are talking about Israeli Arabs walking around cities, various cities. Tel Aviv too. Photographing houses.
 
@@ -659,11 +659,11 @@ Great joy. Finally the prodigal son returns home.
 ![](../images/054.jpg)
 
 
-Idan shares his experiences from his unit.
+Idan tells us stories from his unit.
 
-Experiences like these I'm sure he won't have anywhere else. At any other time.
+The kind of stuff he'll never experience anywhere else. At any other time.
 
-We have a Friday evening dinner in Idan's honor.
+We do Friday night dinner in Idan's honor.
 
 We miss Sapir.
 
@@ -679,9 +679,9 @@ Day 16 of the War
 
 This morning we got a siren at 09:00 AM. That's unusual.
 
-It seems the IDF has taken control of the northern part of the Strip, and they can only fire from the south.
+Looks like the IDF has taken control of the northern part of the Strip, and they can only fire from the south.
 
-We're the new Tel Aviv. It seems they can no longer reach Tel Aviv. We're the northernmost target.
+We're the new Tel Aviv. Apparently they can't reach Tel Aviv anymore. We're the northernmost target.
 
 Our housekeeper says we're too stressed, because there's plenty of time to get to the safe room.
 
@@ -696,7 +696,7 @@ We put on his favorite playlist and work out together. Arms day today.
 
 Steak and lobster. On the deck of the aircraft carrier USS Gerald Ford in the Mediterranean, steak and lobster were served last night. The sailors know this meal is served on holidays — or to boost morale before going into action.
 
-![](../images/en/057_en.jpg)
+![](057_en.jpg)
 
 
 Lior woke up tonight from a nightmare.
@@ -713,7 +713,7 @@ I don't want to live here anymore.
 
 We tried. We really tried.
 
-![](../images/en/058_en.jpg)
+![](058_en.jpg)
 
 
 I book Sapir an appointment to renew her American passport at the US Consulate on Hayarkon Street.
@@ -739,26 +739,26 @@ She doesn't seem to have changed.
 
 Fairly normal behavior.
 
-No post-traumatic stress disorder.
+No PTSD.
 
-Even though she tells about her basic training deputy commander who was murdered, and about lookout soldier friends who were killed or kidnapped.
+Even though she talks about her basic training deputy commander who was murdered, and about lookout soldier friends who were killed or kidnapped.
 
-But it seems to wash over her without leaving residue.
+But it all seems to roll off her.
 
-I believe things will surface in years to come.
+I think this stuff will surface years from now.
 
 ![](../images/060.jpg)
 
 
 Day — I stop counting...
 
-IQ in the general population distributes with a mean of 100 and a standard deviation of 15.
+IQ in the general population averages 100, standard deviation of 15.
 
 In Gaza the mean is 85, with the same standard deviation.
 
 That means, out of 2 million Gazans there are 120 guys with 145 IQ, classified as geniuses.
 
-I'm very worried about a ground invasion. I'm sure surprises are waiting for us there that our bumbling intelligence services can't predict.
+A ground invasion terrifies me. I'm sure surprises are waiting for us that our useless intelligence services can't predict.
 
 The 120 Gazan geniuses have surely planted traps for us.
 
@@ -820,7 +820,7 @@ It's a great thing. Great satisfaction, kicking Hamas. Therapeutic.
 
 Day 30 of the War
 
-Sapir comes home for a day and a half. First time she's been away this long from the command post.
+Sapir comes home for a day and a half. First time she's gotten this much time away from the command post.
 
 We feel whole again.
 
@@ -843,22 +843,22 @@ Anat loves this photo. Patriotic. Uniform and flag.
 ![](../images/068.jpg)
 
 
-Idan sends me a message on WhatsApp.
+Idan sends me a WhatsApp message.
 
-What's that suddenly about?
+Where did that come from?
 
 How am I suddenly regressing to day two of the war?
 
 I'm back on high alert, replacing the water in the safe room. Restocking supplies.
 
-![](../images/en/069_en.jpg)
+![](069_en.jpg)
 
 
 I'm spiraling again. Not sleeping well at night.
 
 Where did Idan come up with this crap all of a sudden?
 
-Trying to extract a few more details. But Idan is in a bunker.
+Trying to squeeze out a few more details. But Idan is in a bunker.
 
 Not a word.
 
@@ -878,7 +878,7 @@ Who had even heard of these Houthis until today? Where did this come from? Yemen
 
 For the first time ever near the Middle East: the largest and most expensive warship in the world. 90 aircraft, 4,300 crew members, and armed submarines: The US brings aircraft carriers near Israeli shores in a show of support for the war against Hamas. The carrier "Ford," the largest and most expensive warship in the world, has already been deployed in the Mediterranean, and next week the "Eisenhower" is also expected to arrive.
 
-![](../images/en/070_en.jpg)
+![](070_en.jpg)
 
 
 American Salesforce grants its Israeli employees a war bonus. Employees will receive a one-time grant of 10,000 shekels in their November paycheck.
@@ -888,9 +888,9 @@ Nice to know they see us. That they're thinking of us.
 ![](../images/071.png)
 
 
-Anat can't reach the safe room window to close it. So I install a clothesline with a pulley that makes it easier to close the safe room window.
+Anat can't reach the safe room window to close it. So I rig up a clothesline with a pulley to help close it.
 
-Anat is not especially impressed.
+Anat is not impressed.
 
 Lior says he wants to join my workout routine.
 
@@ -934,14 +934,14 @@ Hallway conversations.
 
 I miss it a lot.
 
-On the way back, I'm exposed for the first time to billboard-sized photos of hostages.
+On the way back, I see billboard-sized photos of hostages for the first time.
 
 Gut-wrenching.
 
 ![](../images/082.jpg)
 
 
-Our workplace lets us talk to a professional about the difficulties, crises, anxieties.
+Work sets us up to talk with a therapist about the stress, the anxiety, all of it.
 
 Anat and I connect via Zoom with Cami the therapist.
 
@@ -962,18 +962,18 @@ In honor of the occasion we got two nighttime sirens. One at 21:00. And one at 2
 
 Lior declares he slept great.
 
-He made Anat swear that if there's a siren, she'll wake him up first and foremost, and not forget about him.
+He made Anat swear that if there's a siren, she'll wake him up first, and not forget about him.
 
 ![](../images/084.jpg)
 
 
-We're starring in third place. After Sderot.
+We made third place. After Sderot.
 
 Respectable.
 
 Brave Oded comes to rocket-battered Rishon LeZion to visit me.
 
-We prepare delicacies on the grill and discuss war matters.
+We grill some food and talk war.
 
 ![](../images/085.jpg)
 
@@ -1021,7 +1021,7 @@ The Fifth Week of the War — Noa's Week
 
 #### Wednesday, Nov 14. Anat's Birthday.
 
-Today the terrible day we feared has arrived.
+The day we've been dreading is here.
 
 ![](../images/092.png)
 
@@ -1030,15 +1030,15 @@ In the morning, Sapir sends me a snuff video published by Hamas, showing that No
 
 Sapir is afraid to watch the video and asks me to watch it and tell her what's shown.
 
-After watching, I tell Sapir I think it's all cynical Hamas propaganda. Blatantly unbelievable.
+After watching, I tell Sapir I think it's all cynical Hamas propaganda. Obviously fake.
 
 About two hours later, Anat comes running to me, crying. She found out Noa Marciano was murdered in Hamas captivity.
 
 The worst has happened.
 
-What a lovely birthday we arranged for Anat.
+Hell of a birthday we threw for Anat.
 
-We call Sapir in fear and trembling. We deliver the terrible news.
+We call Sapir, dreading every second. We deliver the terrible news.
 
 Sapir tells us that Noa wrote her a letter during basic training and asked her not to read it until after basic training was over.
 
@@ -1061,11 +1061,11 @@ This is a very hard day for me. For us. One of the hardest.
 
 Since there's no body, the family sits shiva without a funeral.
 
-We arrange to go with Sapir to pay a condolence visit in Modi'in on Thursday.
+We arrange to go with Sapir to pay a shiva visit in Modi'in on Thursday.
 
-It seems the hostage families' march headed to Jerusalem will pass through there right on Thursday at noon.
+Turns out the hostage families' march to Jerusalem will pass through there right on Thursday at noon.
 
-![](../images/en/094_en.jpg)
+![](094_en.jpg)
 
 
 Hamas, a terrorist organization, dealt the Israeli superpower the hardest military blow in its history. The deception was flawless. The intelligence failure was total. The results were catastrophic, and only the magnitude of humiliation exceeded the magnitude of failure. Israel was within reach of a historic peace deal with Saudi Arabia, which would have completed the circle of peace with the Sunni axis, locked the Palestinians in a black box, and thrown it into the sea. Instead, they nearly threw us into the sea. The transition we underwent on that Saturday, October 7th, is one of the sharpest in history. In an instant, the Israeli empire transformed from a smug, arrogant, and confident superpower — one that strikes Iran, Syria, and everything in between, bestows its intelligence on all its suitors, sets the pace for the entire Middle East, and stands as a beacon of technology, power, and intelligence to the world — into a shipwreck tossed among the waves, a nation in existential panic, citizens trying to scrounge themselves a pistol or a knife to sleep with under their pillow at night, even if they live in the heart of Tel Aviv.
@@ -1082,7 +1082,7 @@ Time freezes. The routine of each day feels like October 7th.
 
 Today we drove with Sapir to Modi'in. To the home of Noa Marciano's family. To pay a condolence call.
 
-Her mother makes an impression of a very remarkable woman.
+Her mother comes across as a truly remarkable woman.
 
 Very.
 
@@ -1094,13 +1094,13 @@ There's not much to say.
 
 They set up a mourning tent where dozens of men wearing kippas and rabbis gather, recite Kaddish, and discuss the Torah portion.
 
-It irks me, this whole thing. The "strengthening of faith" during times of crisis.
+It gets under my skin, this whole thing. The "strengthening of faith" during times of crisis.
 
 We go up to Noa's childhood room. Sapir goes through her belongings, photographs the correspondence between Noa and her commander.
 
-The situation is not easy for anyone.
+It's hard on everyone.
 
-On the side sit two large blue crates adorned with the Israeli flag — Noa's personal belongings, sent by the IDF to her parents.
+On the side sit two large blue crates draped with the Israeli flag — Noa's personal belongings, sent by the IDF to her parents.
 
 Heartrending.
 
@@ -1146,18 +1146,18 @@ Lior's class sent blessings to soldiers. Warms the heart. The soldiers are happy
 
 Day 78 of the war.
 
-Today, the Noa Marciano memorial path was inaugurated. Sapir went to Modi'in for the dedication ceremony.
+Today they dedicated the Noa Marciano memorial path. Sapir went to Modi'in for the dedication ceremony.
 
-The city of Modi'in has a tradition: every fallen soldier who is a native of the city gets a street named after them.
+The city of Modi'in has a tradition: every fallen soldier from the city gets a street named after them.
 
 ![](../images/106.jpg)
 
 
 A friend of mine is hospitalized this week at Ichilov, for emergency surgery.
 
-He says every hour and a half helicopters arrive from the south to the hospital helipad, carrying critically wounded.
+He says every hour and a half helicopters arrive from the south to the hospital helipad, carrying the badly wounded.
 
-Dozens, or more, wounded arrive each day. The hospital is overwhelmed. Closes its ER. An extremely rare occurrence.
+Dozens, or more, wounded arrive each day. The hospital is overwhelmed. Closes its ER. Almost never happens.
 
 The least I can do is donate a pint of blood.
 
