@@ -180,7 +180,7 @@ Heute gab es 3 Sirenen.
 ![](../images/004.jpg)
 
 
-![](../images/de/006_de.jpg)
+![](006_de.jpg)
 
 
 ![](../images/007.jpg)
@@ -236,7 +236,7 @@ Heute gab es zwei Sirenen.
 ![](../images/009.jpg)
 
 
-![](../images/de/010_de.jpg)
+![](010_de.jpg)
 
 
 ![](../images/011.png)
@@ -270,13 +270,13 @@ Galit, eine Freundin aus der Grundschule, ruft an. Erzählt, dass Assaf, ein Kla
 
 Assaf Groman ist völlig am Boden zerstört.
 
-![](../images/de/012_de.jpg)
+![](012_de.jpg)
 
 
-![](../images/de/013_de.jpg)
+![](013_de.jpg)
 
 
-![](../images/de/014_de.jpg)
+![](014_de.jpg)
 
 
 Noa Marciano, Sapirs entführte Freundin, wird in den Hamas-Tunneln festgehalten.
@@ -353,7 +353,7 @@ Anat und die Kinder schlafen im Schutzraum.
 ![](../images/017.jpg)
 
 
-![](../images/de/018_de.jpg)
+![](018_de.jpg)
 
 
 ![](../images/019.jpg)
@@ -397,15 +397,15 @@ Trete dem Forum „Brüder in der Landwirtschaft" bei. Suche Möglichkeiten, fre
 ![](../images/023.png)
 
 
-![](../images/de/024_de.jpg)
+![](024_de.jpg)
 
 
-![](../images/de/025_de.jpg)
+![](025_de.jpg)
 
 
 Trete dem Forum „Brüder in der Landwirtschaft" bei.
 
-![](../images/de/026_de.jpg)
+![](026_de.jpg)
 
 
 Tag 7
@@ -438,10 +438,10 @@ Heute gab es zwei Sirenen.
 
 Anat und Lior schlafen im Schutzraum.
 
-![](../images/de/027_de.jpg)
+![](027_de.jpg)
 
 
-![](../images/de/028_de.jpg)
+![](028_de.jpg)
 
 
 ![](../images/029.jpg)
@@ -507,7 +507,7 @@ Ich möchte mit Lior Schokoladenkugeln machen, aber wir haben keine Petit-Beurre
 
 Noch eine herzzerreißende Nachricht von Sapir.
 
-![](../images/de/033_de.jpg)
+![](033_de.jpg)
 
 
 ![](../images/034.jpg)
@@ -536,7 +536,7 @@ Ich kaufe Petit-Beurre. Heute machen wir zusammen Schokoladenkugeln.
 
 Mein Kumpel Guri findet raus, dass die Terroristen, die vor 11 Tagen nach Israel eingedrungen sind, unter Drogen standen.
 
-![](../images/de/041_de.jpg)
+![](041_de.jpg)
 
 
 ![](../images/042.jpg)
@@ -546,7 +546,7 @@ Mein Kumpel Guri findet raus, dass die Terroristen, die vor 11 Tagen nach Israel
 ![](../images/044.jpg)
 
 
-![](../images/de/045_de.jpg)
+![](045_de.jpg)
 
 
 Tag 12 des Krieges
@@ -696,7 +696,7 @@ Wir legen seine Lieblings-Playlist auf und trainieren zusammen. Heute Arm-Traini
 
 Steak und Lobster. Auf dem Deck des Flugzeugträgers Gerald Ford im Mittelmeer gab es gestern Abend Steak und Lobster. Die Matrosen wissen: so ein Essen gibt es an Feiertagen — oder kurz vor einem Einsatz.
 
-![](../images/de/057_de.jpg)
+![](057_de.jpg)
 
 
 Lior wachte heute Nacht aus einem Albtraum auf.
@@ -713,7 +713,7 @@ Ich will hier nicht mehr leben.
 
 Wir haben es versucht. Wirklich versucht.
 
-![](../images/de/058_de.jpg)
+![](058_de.jpg)
 
 
 Mache für Sapir einen Termin zur Erneuerung ihres amerikanischen Passes im US-Konsulat in der Hayarkon-Straße.
@@ -851,7 +851,7 @@ Wieso wieder ein Rückfall in Tag zwei des Krieges?
 
 Ich gehe wieder in volle Alarmbereitschaft, wechsle das Wasser im Schutzraum aus. Fülle Vorräte auf.
 
-![](../images/de/069_de.jpg)
+![](069_de.jpg)
 
 
 Ich drehe wieder am Rad. Schlafe nachts nicht gut.
@@ -878,7 +878,7 @@ Wer hat je von diesen Huthi gehört? Woher kam das? Jemen? Ist das überhaupt ei
 
 Zum ersten Mal überhaupt in der Nähe des Nahen Ostens: das größte und teuerste Kriegsschiff der Welt. 90 Flugzeuge, 4.300 Besatzungsmitglieder und bewaffnete U-Boote: Die USA bringen Flugzeugträger vor Israels Küste in einer Demonstration der Unterstützung im Krieg gegen Hamas. Der Flugzeugträger „Ford", das größte und teuerste Kriegsschiff der Welt, wurde bereits im Mittelmeer stationiert, und nächste Woche soll auch die „Eisenhower" ankern.
 
-![](../images/de/070_de.jpg)
+![](070_de.jpg)
 
 
 Salesforce, die amerikanische Firma, gibt ihren israelischen Mitarbeitern einen Kriegsbonus. Die Mitarbeiter kriegen eine einmalige Prämie von 10.000 Schekel zum November-Gehalt.
@@ -1065,7 +1065,7 @@ Wir verabreden uns, am Donnerstag mit Sapir zur Trauerbekundung nach Modiin zu f
 
 Der Marsch der Geiselfamilien — auf dem Weg nach Jerusalem — wird vermutlich genau Donnerstagmittag bei ihnen vorbeikommen.
 
-![](../images/de/094_de.jpg)
+![](094_de.jpg)
 
 
 Hamas, eine Terrororganisation, hat der israelischen Supermacht den schwersten militärischen Schlag ihrer Geschichte versetzt. Die Täuschung war perfekt. Das Versagen des Geheimdienstes war absolut. Die Folgen waren katastrophal, und nur das Ausmaß der Demütigung übertraf das Versagen. Israel stand kurz vor einem historischen Friedensabkommen mit Saudi-Arabien, das den Friedenskreis mit der sunnitischen Achse geschlossen, die Palästinenser in eine schwarze Kiste eingeschlossen und ins Meer geworfen hätte. Stattdessen haben sie fast uns ins Meer geworfen. Der Übergang, den wir an jenem Schabbat, dem 7. Oktober, durchlebten, ist einer der schärfsten in der Geschichte. Mit einem Schlag verwandelte sich das israelische Imperium von einer selbstzufriedenen, arroganten und selbstsicheren Supermacht, die im Iran, in Syrien und überall dazwischen zuschlug, die ihre Geheimdienst-Gnaden an alle Verehrer verteilte, die den Takt im gesamten Nahen Osten vorgab und weltweit ein Leuchtturm der Technologie, Stärke und Nachrichtendienste war — zu einem schiffbrüchigen Boot in den Wellen, einer Nation in existenzieller Panik, Bürgern, die versuchen, sich eine Pistole oder ein Messer zusammenzukratzen, um damit unter dem Kopfkissen zu schlafen, selbst wenn sie mitten in Tel Aviv wohnen.
@@ -1132,7 +1132,7 @@ Der Leichnam wurde gestern in der Nähe des Shifa-Krankenhauses gefunden, einen 
 
 Sapir ist auf dem Weg von ihrer Einheit, um an der Beerdigung teilzunehmen.
 
-![](../images/104.jpg)
+![](../images/de/104_de.jpg)
 
 
 Sapir fährt nach Modiin, um an der Beerdigung teilzunehmen und letzte Ehre zu erweisen.

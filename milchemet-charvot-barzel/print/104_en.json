@@ -1,0 +1,12 @@
+{
+  "chat_name": "Anat, Mami _",
+  "chat_status": "",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Didn't sleep well last night. Was really worried about Sapir's 5 AM bus ride, unprotected bus during wartime, traveling alone, through the territories. Really couldn't sleep because of it. Terrifying. Really.", "time": "13:44", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "You", "text": "Didn't sleep well last night. Was really worried about Sapir's 5 AM bus ride, unprotected bus during wartime, traveling alone, through the territories. Really couldn't sle\u2026"}, "text": "Same here, just the other way around. Couldn't fall asleep and at 2:30 I literally forced myself and told myself it doesn't help her that I'm not sleeping.", "time": "13:49"},
+    {"side": "right", "text": "Were you worried about her ride home?", "time": "13:49", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "You", "text": "And how is Sapir handling this?"}, "text": "Sapir is Sapir. I'm sure it's hard for her but she has her own way.", "time": "13:49"},
+    {"side": "left", "quote": {"sender": "You", "text": "Were you worried about her ride home?"}, "text": "Of course. 5:30 AM through the territories. The h\u2026", "time": "13:49"}
+  ]
+}

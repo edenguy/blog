@@ -1,0 +1,12 @@
+{
+  "chat_name": "Anat, Mami _",
+  "chat_status": "",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Hab letzte Nacht nicht gut geschlafen. Hab mir furchtbar Sorgen gemacht wegen Sapirs Busfahrt um 5 Uhr morgens, ungesch\u00fctzter Bus im Krieg, allein unterwegs, durch die Gebiete. Hab echt nicht geschlafen deswegen. Furchtbar. Echt.", "time": "13:44", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "Du", "text": "Hab letzte Nacht nicht gut geschlafen. Hab mir furchtbar Sorgen gemacht wegen Sapirs Busfahrt um 5 Uhr morgens, ungesch\u00fctzter Bus im Krieg, allein unterwegs, durch die Gebie\u2026"}, "text": "Ich genauso, nur andersrum. Konnte nicht einschlafen und um 2:30 hab ich mich echt gezwungen und mir gesagt, es hilft ihr nicht, dass ich nicht schlafe.", "time": "13:49"},
+    {"side": "right", "text": "Hattest du Angst wegen ihrer Heimfahrt?", "time": "13:49", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "Du", "text": "Und wie geht Sapir damit um?"}, "text": "Sapir ist Sapir. Bin sicher, es ist schwer f\u00fcr sie, aber sie hat ihren eigenen Weg.", "time": "13:49"},
+    {"side": "left", "quote": {"sender": "Du", "text": "Hattest du Angst wegen ihrer Heimfahrt?"}, "text": "Klar. 5:30 morgens durch die Gebiete. Der W\u2026", "time": "13:49"}
+  ]
+}
