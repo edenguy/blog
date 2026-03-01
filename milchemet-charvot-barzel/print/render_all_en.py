@@ -5,7 +5,7 @@ from pathlib import Path
 from wa_renderer import render_chat_image
 
 PRINT_DIR = Path(__file__).parent
-IMAGES_DIR = PRINT_DIR.parent / "images"
+BLOG_ROOT = PRINT_DIR.parent
 
 IMAGE_IDS = [
     "006", "010", "012", "013", "014", "018",
@@ -18,7 +18,7 @@ LANGUAGES = ["en", "de", "ru"]
 def main():
     langs = sys.argv[1:] if len(sys.argv) > 1 else LANGUAGES
     for lang in langs:
-        lang_dir = IMAGES_DIR / lang
+        lang_dir = BLOG_ROOT / lang / "whatsapp"
         lang_dir.mkdir(parents=True, exist_ok=True)
         print(f"\n=== Rendering {lang.upper()} -> {lang_dir} ===")
         for img_id in IMAGE_IDS:
