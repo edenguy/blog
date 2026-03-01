@@ -1,0 +1,13 @@
+{
+  "chat_name": "Бей-Гель",
+  "chat_status": "_ Ади, _ Эден, _ Анат, _ Жасми...",
+  "direction": "ltr",
+  "avatar_icon": "&#128101;",
+  "messages": [
+    {"side": "right", "text": "\u2764\ufe0f\u2764\ufe0f Я фанат номер один Май.", "time": "15:50", "check": "\u2713\u2713"},
+    {"type": "spacer"},
+    {"side": "left", "sender": "Итай Нойман", "text": "\ud83d\udcaa\ud83d\udcaa Молодец Май", "time": "15:57"},
+    {"side": "left", "sender": "_ Ади", "quote": {"sender": "Ты", "text": "\u2764\ufe0f\u2764\ufe0f Я фанат номер один Май."}, "text": "И я тоже фанатка", "time": "16:00"},
+    {"side": "right", "text": "Я больше.", "time": "16:00", "check": "\u2713\u2713"}
+  ]
+}

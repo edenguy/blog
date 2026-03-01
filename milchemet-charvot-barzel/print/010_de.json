@@ -1,0 +1,24 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Sapir, wie geht es dir?", "time": "21:16", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Wie hältst du durch?", "time": "21:16", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Du kannst mich anrufen, wenn du reden musst. Um dich auszusprechen.", "time": "21:16", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Kanntest du jemanden von den Beobachtungssoldatinnen in Gaza?", "time": "21:17", "check": "\u2713\u2713"},
+    {"type": "spacer"},
+    {"side": "left", "text": "Da ist jemand, die mit mir in der Grundausbildung war, sie ist seit gestern Morgen nicht erreichbar", "time": "21:50"},
+    {"side": "left", "text": "Sie ist auf der einzigen Basis, von der man nicht weiß, was dort passiert", "time": "21:50"},
+    {"side": "right", "text": "Kann ich anrufen?", "time": "21:50", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Jetzt ja", "time": "21:51"},
+    {"type": "date", "text": "Montag"},
+    {"side": "right", "text": "Sapir, ich wechsle zu einem privaten Chat mit dir", "time": "10:16", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Die Sirenen sind furchtbar", "time": "17:18"},
+    {"side": "left", "text": "Bei mir noch nicht, aber sie kommen näher", "time": "17:18"},
+    {"type": "spacer"},
+    {"side": "left", "text": "Meine Freundin aus Gaza wurde entführt, sie haben ein Foto von ihr geschickt", "time": "17:28"},
+    {"side": "right", "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22", "time": "17:36", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Schrecklich", "time": "17:36", "check": "\u2713\u2713"}
+  ]
+}

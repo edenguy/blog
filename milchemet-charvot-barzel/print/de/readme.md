@@ -236,7 +236,7 @@ Heute gab es zwei Sirenen.
 ![](../../images/009.jpg)
 
 
-![](../../images/010.png)
+![](010_de.jpg)
 
 
 ![](../../images/011.png)
@@ -397,10 +397,10 @@ Ich trete dem Forum „Brüder für die Landwirtschaft" bei. Suche Möglichkeite
 ![](../../images/023.png)
 
 
-![](../../images/024.png)
+![](024_de.jpg)
 
 
-![](../../images/025.png)
+![](025_de.jpg)
 
 
 Trete dem Forum „Brüder für die Landwirtschaft" bei.
@@ -438,10 +438,10 @@ Heute gab es zwei Sirenen.
 
 Anat und Lior schlafen im Schutzraum.
 
-![](../../images/027.png)
+![](027_de.jpg)
 
 
-![](../../images/028.png)
+![](028_de.jpg)
 
 
 ![](../../images/029.jpg)
@@ -507,7 +507,7 @@ Ich möchte mit Lior Schokoladenkugeln machen, aber wir haben keine Petit-Beurre
 
 Noch eine herzzerreißende Nachricht von Sapir.
 
-![](../../images/033.png)
+![](033_de.jpg)
 
 
 ![](../../images/034.jpg)
@@ -536,7 +536,7 @@ Ich kaufe Petit-Beurre. Heute machen wir zusammen Schokoladenkugeln.
 
 Mein Freund Guri findet heraus, dass die Terroristen, die vor 11 Tagen nach Israel eingedrungen sind, unter Drogen standen.
 
-![](../../images/041.png)
+![](041_de.jpg)
 
 
 ![](../../images/042.jpg)
@@ -713,7 +713,7 @@ Ich will hier nicht mehr leben.
 
 Wir haben es versucht. Wirklich versucht.
 
-![](../../images/058.png)
+![](058_de.jpg)
 
 
 Mache für Sapir einen Termin zur Erneuerung ihres amerikanischen Passes im US-Konsulat in der Hayarkon-Straße.
@@ -1065,7 +1065,7 @@ Wir verabreden uns, am Donnerstag mit Sapir zur Trauerbekundung nach Modiin zu f
 
 Vermutlich wird der Marsch der Geiselfamilien, der auf dem Weg nach Jerusalem ist, genau am Donnerstagmittag bei ihnen vorbeikommen.
 
-![](../../images/094.png)
+![](094_de.jpg)
 
 
 Hamas, eine Terrororganisation, hat der israelischen Supermacht den schwersten militärischen Schlag ihrer Geschichte versetzt. Die Täuschung war perfekt. Das Versagen des Geheimdienstes war absolut. Die Folgen waren katastrophal, und nur das Ausmaß der Demütigung übertraf das Versagen. Israel stand kurz vor einem historischen Friedensabkommen mit Saudi-Arabien, das den Friedenskreis mit der sunnitischen Achse geschlossen, die Palästinenser in eine schwarze Kiste eingeschlossen und ins Meer geworfen hätte. Stattdessen haben sie fast uns ins Meer geworfen. Der Übergang, den wir an jenem Schabbat, dem 7. Oktober, durchlebten, ist einer der schärfsten in der Geschichte. Mit einem Schlag verwandelte sich das israelische Imperium von einer selbstzufriedenen, arroganten und selbstsicheren Supermacht, die im Iran, in Syrien und überall dazwischen zuschlug, die ihre Geheimdiensterkenntnisse an alle Verehrer verteilte, die den Takt im gesamten Nahen Osten vorgab und weltweit ein Leuchtturm der Technologie, Stärke und Nachrichtendienste war — zu einem schiffbrüchigen Boot in den Wellen, einer Nation in existenzieller Panik, Bürgern, die versuchen, sich eine Pistole oder ein Messer zusammenzukratzen, um damit unter dem Kopfkissen zu schlafen, selbst wenn sie mitten in Tel Aviv wohnen.

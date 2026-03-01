@@ -1,0 +1,16 @@
+{
+  "chat_name": "Бей-Гель",
+  "chat_status": "_ Ади, _ Эден, _ Анат, _ Жасми...",
+  "direction": "ltr",
+  "avatar_icon": "&#128101;",
+  "messages": [
+    {"side": "left", "sender": "_ Ади", "text": "\u2764\ufe0f\u2764\ufe0f Май приземлилась", "time": "14:50"},
+    {"side": "left", "text": "В стране", "time": "14:50"},
+    {"side": "left", "text": "В Израиле", "time": "14:50"},
+    {"side": "left", "sender": "Тамар Ворсмер", "text": "Честь и хвала Май, которая присоединилась к нам в тяжёлое для всех нас время.", "time": "14:53"},
+    {"side": "left", "sender": "Жасмин", "text": "\ud83d\ude4f Удачи ей", "time": "14:59"},
+    {"side": "left", "sender": "_ Анат, Мами", "text": "Удачи @Май Мэй Бар, береги себя \u2764\ufe0f", "time": "15:05"},
+    {"side": "left", "sender": "Таль Ворсмер", "text": "\ud83d\udcaa\ud83d\udcaa Молодец Май", "time": "15:41"},
+    {"side": "left", "sender": "Ривка Мама", "text": "Браво Май. Мы верим в Май. \ud83d\udc95", "time": "15:43"}
+  ]
+}

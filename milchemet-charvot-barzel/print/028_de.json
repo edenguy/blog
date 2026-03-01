@@ -1,0 +1,13 @@
+{
+  "chat_name": "Bei-Gel",
+  "chat_status": "_ Adi, _ Eden, _ Anat, _ Jasmi...",
+  "direction": "ltr",
+  "avatar_icon": "&#128101;",
+  "messages": [
+    {"side": "right", "text": "\u2764\ufe0f\u2764\ufe0f Ich bin Mais größter Fan.", "time": "15:50", "check": "\u2713\u2713"},
+    {"type": "spacer"},
+    {"side": "left", "sender": "Itay Noyman", "text": "\ud83d\udcaa\ud83d\udcaa Hut ab vor Mai", "time": "15:57"},
+    {"side": "left", "sender": "_ Adi", "quote": {"sender": "Du", "text": "\u2764\ufe0f\u2764\ufe0f Ich bin Mais größter Fan."}, "text": "Und ich bin auch ein Fan", "time": "16:00"},
+    {"side": "right", "text": "Ich bin ein größerer.", "time": "16:00", "check": "\u2713\u2713"}
+  ]
+}

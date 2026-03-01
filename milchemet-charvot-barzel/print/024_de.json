@@ -1,0 +1,14 @@
+{
+  "chat_name": "Barel Klisa Ins...",
+  "chat_status": "",
+  "direction": "ltr",
+  "messages": [
+    {"side": "left", "text": "Was die Grausamkeit betrifft, die vorhin im Gespräch aufkam – den Großteil meiner Kindheit bin ich in Ramla aufgewachsen, und wenn es etwas gab, dem ich immer ausgesetzt war, dann ist es die Gnadenlosigkeit unter Muslimen", "time": "22:38"},
+    {"side": "left", "text": "Das konnten Hundekämpfe sein, bei denen man die Freude in ihren Augen sehen konnte", "time": "22:38"},
+    {"side": "left", "text": "Das konnte Mohammed sein, der den Nachbarschaftskindern eine Show bot, indem er Tauben köpfte oder Böller an verschiedenen Stellen reinsteckte, anzündete und losließ. Erlebnisse mit 7 Jahren.", "time": "22:39"},
+    {"side": "right", "text": "Im Ernst?", "time": "22:39", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "Du", "text": "Im Ernst?"}, "text": "Eine Kindheitserinnerung, die mich bis heute nicht losgelassen hat", "time": "22:40"},
+    {"side": "left", "text": "Lag BaOmer", "time": "22:40"},
+    {"side": "right", "text": "Wow", "time": "22:40", "check": "\u2713\u2713"}
+  ]
+}

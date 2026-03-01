@@ -1,0 +1,13 @@
+{
+  "chat_name": "Bei-Gel",
+  "chat_status": "_ Adi, _ Eden, _ Anat, _ Jasmi...",
+  "direction": "ltr",
+  "avatar_icon": "&#128101;",
+  "messages": [
+    {"side": "right", "text": "\u2764\ufe0f\u2764\ufe0f I'm Mai's number one fan.", "time": "15:50", "check": "\u2713\u2713"},
+    {"type": "spacer"},
+    {"side": "left", "sender": "Itay Noyman", "text": "\ud83d\udcaa\ud83d\udcaa Kudos to Mai", "time": "15:57"},
+    {"side": "left", "sender": "_ Adi", "quote": {"sender": "You", "text": "\u2764\ufe0f\u2764\ufe0f I'm Mai's number one fan."}, "text": "And I'm a fan too", "time": "16:00"},
+    {"side": "right", "text": "I'm more.", "time": "16:00", "check": "\u2713\u2713"}
+  ]
+}

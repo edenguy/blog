@@ -1,0 +1,24 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "online",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "Sapir, how are you?", "time": "21:16", "check": "\u2713\u2713"},
+    {"side": "right", "text": "How are you coping?", "time": "21:16", "check": "\u2713\u2713"},
+    {"side": "right", "text": "You can call me if you need to talk. To unload.", "time": "21:16", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Did you know anyone from the lookout soldiers in Gaza?", "time": "21:17", "check": "\u2713\u2713"},
+    {"type": "spacer"},
+    {"side": "left", "text": "There's someone who was with me in basic training, she's been unreachable since yesterday morning", "time": "21:50"},
+    {"side": "left", "text": "She's at the only base they don't know what's happening with", "time": "21:50"},
+    {"side": "right", "text": "Can I call?", "time": "21:50", "check": "\u2713\u2713"},
+    {"side": "left", "text": "Now yes", "time": "21:51"},
+    {"type": "date", "text": "Monday"},
+    {"side": "right", "text": "Sapir, switching to a private chat with you", "time": "10:16", "check": "\u2713\u2713"},
+    {"side": "left", "text": "The alarms are terrible", "time": "17:18"},
+    {"side": "left", "text": "Not at my place yet but getting closer", "time": "17:18"},
+    {"type": "spacer"},
+    {"side": "left", "text": "My friend from Gaza was kidnapped, they sent a photo of her", "time": "17:28"},
+    {"side": "right", "text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22", "time": "17:36", "check": "\u2713\u2713"},
+    {"side": "right", "text": "Terrible", "time": "17:36", "check": "\u2713\u2713"}
+  ]
+}

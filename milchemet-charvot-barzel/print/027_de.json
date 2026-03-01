@@ -1,0 +1,16 @@
+{
+  "chat_name": "Bei-Gel",
+  "chat_status": "_ Adi, _ Eden, _ Anat, _ Jasmi...",
+  "direction": "ltr",
+  "avatar_icon": "&#128101;",
+  "messages": [
+    {"side": "left", "sender": "_ Adi", "text": "\u2764\ufe0f\u2764\ufe0f Mai ist gelandet", "time": "14:50"},
+    {"side": "left", "text": "Im Land", "time": "14:50"},
+    {"side": "left", "text": "Israel", "time": "14:50"},
+    {"side": "left", "sender": "Tamar Wormser", "text": "Hut ab vor Mai, die in der schweren Zeit für uns alle zu uns gekommen ist.", "time": "14:53"},
+    {"side": "left", "sender": "Jasmin", "text": "\ud83d\ude4f Viel Glück für sie", "time": "14:59"},
+    {"side": "left", "sender": "_ Anat, Mami", "text": "Viel Glück @Mai May Bar, pass auf dich auf \u2764\ufe0f", "time": "15:05"},
+    {"side": "left", "sender": "Tal Wormser", "text": "\ud83d\udcaa\ud83d\udcaa Hut ab, Mai", "time": "15:41"},
+    {"side": "left", "sender": "Rivka Mama", "text": "Bravo für Mai. Wir vertrauen Mai. \ud83d\udc95", "time": "15:43"}
+  ]
+}

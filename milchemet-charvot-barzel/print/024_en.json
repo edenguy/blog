@@ -1,0 +1,14 @@
+{
+  "chat_name": "Barel Klisa Ins...",
+  "chat_status": "",
+  "direction": "ltr",
+  "messages": [
+    {"side": "left", "text": "Regarding the cruelty that came up earlier in the conversation, most of my childhood I grew up in Ramla, and if there was something I was always exposed to, it's the lack of mercy among Muslims", "time": "22:38"},
+    {"side": "left", "text": "It could be dog fights where you could see the enjoyment in their eyes", "time": "22:38"},
+    {"side": "left", "text": "It could be Mohammed putting on a show for the neighborhood kids by decapitating pigeons or sticking firecrackers in them in various places, lighting and releasing them. Experiences of age 7.", "time": "22:39"},
+    {"side": "right", "text": "Serious?", "time": "22:39", "check": "\u2713\u2713"},
+    {"side": "left", "quote": {"sender": "You", "text": "Serious?"}, "text": "A childhood memory that hasn't left me to this day", "time": "22:40"},
+    {"side": "left", "text": "Lag BaOmer", "time": "22:40"},
+    {"side": "right", "text": "Wow", "time": "22:40", "check": "\u2713\u2713"}
+  ]
+}

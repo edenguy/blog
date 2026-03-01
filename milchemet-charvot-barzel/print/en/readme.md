@@ -236,7 +236,7 @@ Today there were two sirens.
 ![](../../images/009.jpg)
 
 
-![](../../images/010.png)
+![](010_en.jpg)
 
 
 ![](../../images/011.png)
@@ -397,10 +397,10 @@ I join the "Brothers of the Farm" forum. Looking for volunteer opportunities in 
 ![](../../images/023.png)
 
 
-![](../../images/024.png)
+![](024_en.jpg)
 
 
-![](../../images/025.png)
+![](025_en.jpg)
 
 
 Joining the Brothers of the Farm forum.
@@ -438,10 +438,10 @@ Today there were two sirens.
 
 Anat and Lior sleep in the safe room.
 
-![](../../images/027.png)
+![](027_en.jpg)
 
 
-![](../../images/028.png)
+![](028_en.jpg)
 
 
 ![](../../images/029.jpg)
@@ -507,7 +507,7 @@ I want to make chocolate balls with Lior, but we don't have Petit Beurre biscuit
 
 Another heartbreaking message from Sapir.
 
-![](../../images/033.png)
+![](033_en.jpg)
 
 
 ![](../../images/034.jpg)
@@ -536,7 +536,7 @@ I buy Petit Beurre biscuits. Today we'll make chocolate balls together.
 
 My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago were drugged.
 
-![](../../images/041.png)
+![](041_en.jpg)
 
 
 ![](../../images/042.jpg)
@@ -713,7 +713,7 @@ I don't want to live here anymore.
 
 We tried. We really tried.
 
-![](../../images/058.png)
+![](058_en.jpg)
 
 
 I book Sapir an appointment to renew her American passport at the US Consulate on Hayarkon Street.
@@ -1065,7 +1065,7 @@ We arrange to go with Sapir to pay a condolence visit in Modi'in on Thursday.
 
 It seems the hostage families' march headed to Jerusalem will pass through there right on Thursday at noon.
 
-![](../../images/094.png)
+![](094_en.jpg)
 
 
 Hamas, a terrorist organization, dealt the Israeli superpower the hardest military blow in its history. The deception was flawless. The intelligence failure was total. The results were catastrophic, and only the magnitude of humiliation exceeded the magnitude of failure. Israel was within reach of a historic peace deal with Saudi Arabia, which would have completed the circle of peace with the Sunni axis, locked the Palestinians in a black box, and thrown it into the sea. Instead, they nearly threw us into the sea. The transition we underwent on that Saturday, October 7th, is one of the sharpest in history. In an instant, the Israeli empire transformed from a smug, arrogant, and confident superpower — one that strikes Iran, Syria, and everything in between, bestows its intelligence on all its suitors, sets the pace for the entire Middle East, and stands as a beacon of technology, power, and intelligence to the world — into a shipwreck tossed among the waves, a nation in existential panic, citizens trying to scrounge themselves a pistol or a knife to sleep with under their pillow at night, even if they live in the heart of Tel Aviv.

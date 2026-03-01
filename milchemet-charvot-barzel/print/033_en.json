@@ -1,0 +1,11 @@
+{
+  "chat_name": "Sapir Eden _",
+  "chat_status": "",
+  "direction": "ltr",
+  "messages": [
+    {"side": "right", "text": "The war will be over soon", "time": "11:00 PM", "check": "\u2713\u2713"},
+    {"side": "left", "text": "The war won't end until they kill all the senior Hamas members and all my friends who are captive come home or they find their bodies", "time": "11:05 PM"},
+    {"side": "left", "text": "That's going to take time", "time": "11:05 PM"},
+    {"side": "left", "text": "I'll talk to my commander, when I have an answer I'll let you know", "time": "11:05 PM"}
+  ]
+}
