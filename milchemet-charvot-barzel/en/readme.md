@@ -55,9 +55,9 @@ There were no sirens for us today.
 
 Anat and the kids sleep in the safe room.
 
-![](../../images/001.jpg)
+![](../images/001.jpg)
 
-![](../../images/002.jpg)
+![](../images/002.jpg)
 
 
 ## Day 2 of the War (The Hardest Day)
@@ -174,16 +174,16 @@ Anat and the kids sleep in the safe room.
 
 Today there were 3 sirens.
 
-![](../../images/003.jpg)
+![](../images/003.jpg)
 
 
-![](../../images/004.jpg)
+![](../images/004.jpg)
 
 
-![](006_en.jpg)
+![](../images/en/006_en.jpg)
 
 
-![](../../images/007.jpg)
+![](../images/007.jpg)
 
 
 ## Day 3 of the War
@@ -230,16 +230,16 @@ Anat and the kids sleep in the safe room.
 
 Today there were two sirens.
 
-![](../../images/008.jpg)
+![](../images/008.jpg)
 
 
-![](../../images/009.jpg)
+![](../images/009.jpg)
 
 
-![](010_en.jpg)
+![](../images/en/010_en.jpg)
 
 
-![](../../images/011.png)
+![](../images/011.png)
 
 
 Day 4 of the War
@@ -270,23 +270,23 @@ Gaalit, a friend from elementary school, calls today to say that Asaf, a classma
 
 Asaf Groman is absolutely shattered.
 
-![](012_en.jpg)
+![](../images/en/012_en.jpg)
 
 
-![](013_en.jpg)
+![](../images/en/013_en.jpg)
 
 
-![](014_en.jpg)
+![](../images/en/014_en.jpg)
 
 
 Noa Marciano, Sapir's kidnapped friend, is being held in Hamas tunnels.
 
-![](../../images/015.png)
+![](../images/015.png)
 
 
 Gaalit takes shelter behind the highway barrier during a siren.
 
-![](../../images/016.jpg)
+![](../images/016.jpg)
 
 
 Day 5 of the War
@@ -350,20 +350,20 @@ Today there were two sirens.
 
 Anat and the kids sleep in the safe room.
 
-![](../../images/017.jpg)
+![](../images/017.jpg)
 
 
-![](018_en.jpg)
+![](../images/en/018_en.jpg)
 
 
-![](../../images/019.jpg)
+![](../images/019.jpg)
 
-![](../../images/020.jpg)
+![](../images/020.jpg)
 
-![](../../images/021.jpg)
+![](../images/021.jpg)
 
 
-![](../../images/022.jpg)
+![](../images/022.jpg)
 
 
 Day 6 of the War
@@ -394,18 +394,18 @@ And I recommend he shave urgently, so a Border Police patrol doesn't stop him.
 
 I join the "Brothers of the Farm" forum. Looking for volunteer opportunities in agriculture. They ask if I can help with milking.
 
-![](../../images/023.png)
+![](../images/023.png)
 
 
-![](024_en.jpg)
+![](../images/en/024_en.jpg)
 
 
-![](025_en.jpg)
+![](../images/en/025_en.jpg)
 
 
 Joining the Brothers of the Farm forum.
 
-![](026_en.jpg)
+![](../images/en/026_en.jpg)
 
 
 Day 7
@@ -438,13 +438,13 @@ Today there were two sirens.
 
 Anat and Lior sleep in the safe room.
 
-![](027_en.jpg)
+![](../images/en/027_en.jpg)
 
 
-![](028_en.jpg)
+![](../images/en/028_en.jpg)
 
 
-![](../../images/029.jpg)
+![](../images/029.jpg)
 
 
 Day 9 of the War
@@ -467,12 +467,12 @@ Today two sirens.
 
 Anat sleeps with Lior in the safe room.
 
-![](../../images/030.jpg)
+![](../images/030.jpg)
 
-![](../../images/031.jpg)
+![](../images/031.jpg)
 
 
-![](../../images/032.jpg)
+![](../images/032.jpg)
 
 
 Day 10 of the War
@@ -507,23 +507,23 @@ I want to make chocolate balls with Lior, but we don't have Petit Beurre biscuit
 
 Another heartbreaking message from Sapir.
 
-![](033_en.jpg)
+![](../images/en/033_en.jpg)
 
 
-![](../../images/034.jpg)
+![](../images/034.jpg)
 
-![](../../images/035.jpg)
+![](../images/035.jpg)
 
-![](../../images/036.jpg)
+![](../images/036.jpg)
 
-![](../../images/037.jpg)
+![](../images/037.jpg)
 
-![](../../images/038.jpg)
+![](../images/038.jpg)
 
-![](../../images/039.jpg)
+![](../images/039.jpg)
 
 
-![](../../images/040.jpg)
+![](../images/040.jpg)
 
 
 Day 11 of the War
@@ -536,17 +536,17 @@ I buy Petit Beurre biscuits. Today we'll make chocolate balls together.
 
 My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago were drugged.
 
-![](041_en.jpg)
+![](../images/en/041_en.jpg)
 
 
-![](../../images/042.jpg)
+![](../images/042.jpg)
 
-![](../../images/043.jpg)
+![](../images/043.jpg)
 
-![](../../images/044.jpg)
+![](../images/044.jpg)
 
 
-![](045_en.jpg)
+![](../images/en/045_en.jpg)
 
 
 Day 12 of the War
@@ -559,7 +559,7 @@ At night, Lior has an anxiety attack. Trembling, shallow breathing.
 
 Anat works with him on breathing exercises.
 
-![](../../images/046.png)
+![](../images/046.png)
 
 
 I come across a security camera video from Kibbutz Be'eri. You can see swarms of them entering — Muslims flooding in.
@@ -586,7 +586,7 @@ Israeli Arabs are giving them food. And shelter.
 
 If there's something stressful... this is it.
 
-![](../../images/047.jpg)
+![](../images/047.jpg)
 
 
 [This is the stuff my nightmares are made of](https://edenguy.wixsite.com/blog/post/%D7%A7%D7%9C%D7%90%D7%A5-%D7%91%D7%9E%D7%98%D7%A2-%D7%94%D7%90%D7%A0%D7%95%D7%A0%D7%95%D7%AA). Dozens of terrorists roaming Israel.
@@ -609,13 +609,13 @@ Home Depot... same.
 
 In the end I consult with Bar-El, my friend Barel who brings me proper bolts, and together we install them.
 
-![](../../images/048.jpg)
+![](../images/048.jpg)
 
-![](../../images/049.jpg)
+![](../images/049.jpg)
 
-![](../../images/050.jpg)
+![](../images/050.jpg)
 
-![](../../images/051.jpg)
+![](../images/051.jpg)
 
 
 Day 14 of the War
@@ -630,7 +630,7 @@ I take comfort in the fact that Rishon LeZion will be a frontline community with
 
 Sapir has a ukulele. She's boosting morale in her unit with her ukulele.
 
-![](../../images/052.jpg)
+![](../images/052.jpg)
 
 
 Sapir tells us they were instructed to prepare mentally for 60 days on base.
@@ -641,7 +641,7 @@ People are talking about Israeli Arabs walking around cities, various cities. Te
 
 Dozens of posts about it on Facebook.
 
-![](../../images/053.jpg)
+![](../images/053.jpg)
 
 
 The shekel is losing value.
@@ -656,7 +656,7 @@ I pick him up at the train station.
 
 Great joy. Finally the prodigal son returns home.
 
-![](../../images/054.jpg)
+![](../images/054.jpg)
 
 
 Idan shares his experiences from his unit.
@@ -689,14 +689,14 @@ Lior asks to join my workout routine in the yard.
 
 We put on his favorite playlist and work out together. Arms day today.
 
-![](../../images/055.jpg)
+![](../images/055.jpg)
 
-![](../../images/056.jpg)
+![](../images/056.jpg)
 
 
 Steak and lobster. On the deck of the aircraft carrier USS Gerald Ford in the Mediterranean, steak and lobster were served last night. The sailors know this meal is served on holidays — or to boost morale before going into action.
 
-![](057_en.jpg)
+![](../images/en/057_en.jpg)
 
 
 Lior woke up tonight from a nightmare.
@@ -713,12 +713,12 @@ I don't want to live here anymore.
 
 We tried. We really tried.
 
-![](058_en.jpg)
+![](../images/en/058_en.jpg)
 
 
 I book Sapir an appointment to renew her American passport at the US Consulate on Hayarkon Street.
 
-![](../../images/059.jpg)
+![](../images/059.jpg)
 
 
 Today is a happy day.
@@ -747,7 +747,7 @@ But it seems to wash over her without leaving residue.
 
 I believe things will surface in years to come.
 
-![](../../images/060.jpg)
+![](../images/060.jpg)
 
 
 Day — I stop counting...
@@ -786,7 +786,7 @@ I was surprised.
 
 Nice to get some attention.
 
-![](../../images/061.jpg)
+![](../images/061.jpg)
 
 
 In honor of my birthday I decide to go for a trail run in the open fields.
@@ -797,7 +797,7 @@ I ignore her.
 
 My sanity matters more.
 
-![](../../images/062.jpg)
+![](../images/062.jpg)
 
 
 At noon, after a work meeting, Lior calls me to come to the kitchen for a moment. I arrive, and they sing Happy Birthday to me — there's even a cake.
@@ -812,10 +812,10 @@ Now the kids are letting out tons of aggression on Hamas. The emotions from the 
 
 It's a great thing. Great satisfaction, kicking Hamas. Therapeutic.
 
-![](../../images/063.png)
+![](../images/063.png)
 
 
-![](../../images/064.png)
+![](../images/064.png)
 
 
 Day 30 of the War
@@ -830,17 +830,17 @@ I'm pleased.
 
 Very.
 
-![](../../images/065.jpg)
+![](../images/065.jpg)
 
 
 I take her and the younger kids for ice cream. At "Andrei."
 
-![](../../images/066.jpg)
+![](../images/066.jpg)
 
 
 Anat loves this photo. Patriotic. Uniform and flag.
 
-![](../../images/068.jpg)
+![](../images/068.jpg)
 
 
 Idan sends me a message on WhatsApp.
@@ -851,7 +851,7 @@ How am I suddenly regressing to day two of the war?
 
 I'm back on high alert, replacing the water in the safe room. Restocking supplies.
 
-![](069_en.jpg)
+![](../images/en/069_en.jpg)
 
 
 I'm spiraling again. Not sleeping well at night.
@@ -878,14 +878,14 @@ Who had even heard of these Houthis until today? Where did this come from? Yemen
 
 For the first time ever near the Middle East: the largest and most expensive warship in the world. 90 aircraft, 4,300 crew members, and armed submarines: The US brings aircraft carriers near Israeli shores in a show of support for the war against Hamas. The carrier "Ford," the largest and most expensive warship in the world, has already been deployed in the Mediterranean, and next week the "Eisenhower" is also expected to arrive.
 
-![](070_en.jpg)
+![](../images/en/070_en.jpg)
 
 
 American Salesforce grants its Israeli employees a war bonus. Employees will receive a one-time grant of 10,000 shekels in their November paycheck.
 
 Nice to know they see us. That they're thinking of us.
 
-![](../../images/071.png)
+![](../images/071.png)
 
 
 Anat can't reach the safe room window to close it. So I install a clothesline with a pulley that makes it easier to close the safe room window.
@@ -900,23 +900,23 @@ Lior joins me, and we work out together.
 
 Lior has a good body. Solid. If he invests just a little in himself and exercises, he turns into a beast.
 
-![](../../images/072.jpg)
+![](../images/072.jpg)
 
-![](../../images/073.jpg)
+![](../images/073.jpg)
 
-![](../../images/074.jpg)
+![](../images/074.jpg)
 
-![](../../images/075.jpg)
+![](../images/075.jpg)
 
-![](../../images/076.jpg)
+![](../images/076.jpg)
 
-![](../../images/077.jpg)
+![](../images/077.jpg)
 
-![](../../images/078.jpg)
+![](../images/078.jpg)
 
-![](../../images/079.jpg)
+![](../images/079.jpg)
 
-![](../../images/080.jpg)
+![](../images/080.jpg)
 
 
 This week I'm finally driving to the office in Tel Aviv.
@@ -925,7 +925,7 @@ A little sanity.
 
 A little gym time with people who have a pulse.
 
-![](../../images/081.jpg)
+![](../images/081.jpg)
 
 
 Really nice to see people.
@@ -938,7 +938,7 @@ On the way back, I'm exposed for the first time to billboard-sized photos of hos
 
 Gut-wrenching.
 
-![](../../images/082.jpg)
+![](../images/082.jpg)
 
 
 Our workplace lets us talk to a professional about the difficulties, crises, anxieties.
@@ -951,7 +951,7 @@ I didn't think one Zoom session could be this effective.
 
 Anat's mom comes for a brief visit and gets a taste of our safe room.
 
-![](../../images/083.jpg)
+![](../images/083.jpg)
 
 
 Anat declares that tonight she will sleep in the bedroom, and Lior will sleep in his own room.
@@ -964,7 +964,7 @@ Lior declares he slept great.
 
 He made Anat swear that if there's a siren, she'll wake him up first and foremost, and not forget about him.
 
-![](../../images/084.jpg)
+![](../images/084.jpg)
 
 
 We're starring in third place. After Sderot.
@@ -975,24 +975,24 @@ Brave Oded comes to rocket-battered Rishon LeZion to visit me.
 
 We prepare delicacies on the grill and discuss war matters.
 
-![](../../images/085.jpg)
+![](../images/085.jpg)
 
 
-![](../../images/086.jpg)
+![](../images/086.jpg)
 
 
 November 7th. One month into the war.
 
 Lior puts on a school shirt for the first time in two months.
 
-![](../../images/087.jpg)
+![](../images/087.jpg)
 
 
 School.
 
 The home front begins returning to routine.
 
-![](../../images/088.jpg)
+![](../images/088.jpg)
 
 
 I drive to the office in Tel Aviv.
@@ -1007,14 +1007,14 @@ Wait — has only a month passed? I swear it feels like half a year.
 
 They hand out dog tags in memory of the captives and the fallen.
 
-![](../../images/089.jpg)
+![](../images/089.jpg)
 
-![](../../images/090.jpg)
+![](../images/090.jpg)
 
 
 Everyone in solidarity.
 
-![](../../images/091.jpg)
+![](../images/091.jpg)
 
 
 The Fifth Week of the War — Noa's Week
@@ -1023,7 +1023,7 @@ The Fifth Week of the War — Noa's Week
 
 Today the terrible day we feared has arrived.
 
-![](../../images/092.png)
+![](../images/092.png)
 
 
 In the morning, Sapir sends me a snuff video published by Hamas, showing that Noa Marciano was killed by IDF bombings.
@@ -1056,7 +1056,7 @@ I can only imagine what our Sapir is going through.
 
 This is a very hard day for me. For us. One of the hardest.
 
-![](../../images/093.jpg)
+![](../images/093.jpg)
 
 
 Since there's no body, the family sits shiva without a funeral.
@@ -1065,17 +1065,17 @@ We arrange to go with Sapir to pay a condolence visit in Modi'in on Thursday.
 
 It seems the hostage families' march headed to Jerusalem will pass through there right on Thursday at noon.
 
-![](094_en.jpg)
+![](../images/en/094_en.jpg)
 
 
 Hamas, a terrorist organization, dealt the Israeli superpower the hardest military blow in its history. The deception was flawless. The intelligence failure was total. The results were catastrophic, and only the magnitude of humiliation exceeded the magnitude of failure. Israel was within reach of a historic peace deal with Saudi Arabia, which would have completed the circle of peace with the Sunni axis, locked the Palestinians in a black box, and thrown it into the sea. Instead, they nearly threw us into the sea. The transition we underwent on that Saturday, October 7th, is one of the sharpest in history. In an instant, the Israeli empire transformed from a smug, arrogant, and confident superpower — one that strikes Iran, Syria, and everything in between, bestows its intelligence on all its suitors, sets the pace for the entire Middle East, and stands as a beacon of technology, power, and intelligence to the world — into a shipwreck tossed among the waves, a nation in existential panic, citizens trying to scrounge themselves a pistol or a knife to sleep with under their pillow at night, even if they live in the heart of Tel Aviv.
 
 Time freezes. The routine of each day feels like October 7th.
 
-![](../../images/095.jpg)
+![](../images/095.jpg)
 
 
-![](../../images/096.jpg)
+![](../images/096.jpg)
 
 
 #### Thursday
@@ -1104,17 +1104,17 @@ On the side sit two large blue crates adorned with the Israeli flag — Noa's pe
 
 Heartrending.
 
-![](../../images/097.jpg)
+![](../images/097.jpg)
 
-![](../../images/098.jpg)
+![](../images/098.jpg)
 
-![](../../images/099.jpg)
+![](../images/099.jpg)
 
-![](../../images/100.jpg)
+![](../images/100.jpg)
 
-![](../../images/101.jpg)
+![](../images/101.jpg)
 
-![](../../images/102.jpg)
+![](../images/102.jpg)
 
 
 #### Friday
@@ -1127,19 +1127,19 @@ So there will be a funeral after all.
 
 The body was found yesterday near Shifa Hospital, a day after finding the body of Yehudit Weiss from Kibbutz Be'eri. Three Palestinians were killed in an IDF strike in Jenin; the force surrounded the hospital in the city. Blinken spoke with Gantz and with the foreign ministers of Egypt and Jordan, and said the US would oppose the forced transfer of Palestinians from Gaza.
 
-![](../../images/103.jpg)
+![](../images/103.jpg)
 
 
 Sapir is on her way from her unit to attend the funeral.
 
-![](../../images/104.jpg)
+![](../images/104.jpg)
 
 
 Sapir drives to Modi'in to attend the funeral, to pay her last respects.
 
 Lior's class sent blessings to soldiers. Warms the heart. The soldiers are happy.
 
-![](../../images/105.jpg)
+![](../images/105.jpg)
 
 
 #### Month 3 of the War
@@ -1150,7 +1150,7 @@ Today, the Noa Marciano memorial path was inaugurated. Sapir went to Modi'in for
 
 The city of Modi'in has a tradition: every fallen soldier who is a native of the city gets a street named after them.
 
-![](../../images/106.jpg)
+![](../images/106.jpg)
 
 
 A friend of mine is hospitalized this week at Ichilov, for emergency surgery.
@@ -1161,15 +1161,15 @@ Dozens, or more, wounded arrive each day. The hospital is overwhelmed. Closes it
 
 The least I can do is donate a pint of blood.
 
-![](../../images/107.jpg)
+![](../images/107.jpg)
 
 
 Volunteer day, persimmon harvesting.
 
-![](../../images/108.jpg)
+![](../images/108.jpg)
 
-![](../../images/109.jpg)
+![](../images/109.jpg)
 
-![](../../images/110.jpg)
+![](../images/110.jpg)
 
-![](../../images/111.jpg)
+![](../images/111.jpg)

@@ -189,23 +189,35 @@ Translate the exported Hebrew post into additional languages (EN, DE, RU, etc.).
 
 1. **Each language gets its own top-level folder**: `<lang>/` (e.g., `he/`, `en/`, `de/`, `ru/`) -- all languages are symmetrical peers
 2. **Markdown is always `readme.md`**: every language folder contains `readme.md` -- not `book-en.md`, not `book.md`, always `readme.md`
-3. **Translated WhatsApp images live in the language folder**: rendered JPGs sit alongside their `readme.md` (e.g., `en/006_en.jpg`)
+3. **Translated WhatsApp images live in `images/<lang>/`**: rendered JPGs sit under the shared images tree (e.g., `images/en/006_en.jpg`)
 4. **Shared images stay in `images/`**: photos, infographics, and any image that doesn't contain translatable text remains in the common `images/` folder and is referenced via `../images/NNN.ext` from any language folder (preserving original extension)
 5. **WhatsApp JSON definitions live in `print/`**: one JSON per WA image per language (e.g., `print/006_en.json`, `print/006_de.json`)
-6. **Never modify the original `images/` folder**: it holds the Hebrew originals; translated versions go in language folders
+6. **Never modify originals**: Hebrew WA originals live in `images/he/`; translated renders go in `images/<lang>/` subfolders. Shared photos stay directly in `images/`
 
 ### Directory Structure
 
 ```
 <post-slug>/
-  images/                # Shared images (photos, infographics) -- NEVER modified
+  images/                # All images live here
     001.jpg              # Photo -- shared by all languages
-    006.jpg              # Hebrew WhatsApp screenshot (original, .jpg)
-    058.png              # Hebrew WhatsApp screenshot (original, .png)
     ...
+    he/                  # Hebrew WhatsApp originals
+      006.jpg
+      058.png
+      ...
+    en/                  # Rendered English WhatsApp images
+      006_en.jpg
+      012_en.jpg
+      ...
+    de/                  # Rendered German WhatsApp images
+      006_de.jpg
+      ...
+    ru/                  # Rendered Russian WhatsApp images
+      006_ru.jpg
+      ...
   print/                 # Build tools + WhatsApp JSON definitions only
     wa_renderer.py       # WhatsApp chat image renderer (Playwright-based)
-    render_all_en.py     # Batch render script: outputs to <root>/<lang>/
+    render_all_en.py     # Batch render script: outputs to images/<lang>/
     postprocess_html.py  # HTML image grid post-processor
     html_to_pdf.py       # Playwright HTML-to-PDF converter
     build-lang.ps1       # PDF build script for translated languages
@@ -219,18 +231,11 @@ Translate the exported Hebrew post into additional languages (EN, DE, RU, etc.).
     readme.md            # Hebrew original source
   en/
     readme.md            # English book text
-    006_en.jpg           # Rendered English WhatsApp images
-    012_en.jpg
-    ...
     book-en.pdf          # Generated PDF (build output)
   de/
     readme.md            # German book text
-    006_de.jpg
-    ...
   ru/
     readme.md            # Russian book text
-    006_ru.jpg
-    ...
 ```
 
 ### How to Translate a Post
@@ -263,7 +268,7 @@ Read every image from `images/` regardless of extension and classify. Chat scree
 
 **Step 3 -- Transcribe and translate chat images:**
 For each WA or MESSENGER image:
-1. Read the original Hebrew image visually
+1. Read the original Hebrew image from `images/he/` visually
 2. Identify every message: sender, side (left=received, right=sent), text, time, features (quotes, forwarded, edited, reactions)
 3. Create a JSON file per language in `print/` (e.g., `print/012_en.json`, `print/012_de.json`, `print/012_ru.json`)
 
@@ -276,19 +281,19 @@ python render_all_en.py en         # just English
 python render_all_en.py de ru      # just German and Russian
 ```
 
-Images are rendered directly into each language folder (e.g., `en/012_en.jpg`).
+Images are rendered into `images/<lang>/` (e.g., `images/en/012_en.jpg`).
 
 **Step 5 -- Update image references in `readme.md`:**
 For each translated chat image, change the reference from the shared original to the local rendered version. The original may be `.jpg` or `.png`; the rendered version is always `.jpg`:
 
 ```markdown
-# Before (shared Hebrew original -- can be .jpg or .png):
-![](../images/006.jpg)
-![](../images/058.png)
+# Before (Hebrew original in images/he/ -- can be .jpg or .png):
+![](../images/he/006.jpg)
+![](../images/he/058.png)
 
-# After (local rendered version -- always .jpg):
-![](006_en.jpg)
-![](058_en.jpg)
+# After (rendered version in images/<lang>/ -- always .jpg):
+![](../images/en/006_en.jpg)
+![](../images/en/058_en.jpg)
 ```
 
 Non-chat images keep their shared path regardless of extension: `![](../images/001.jpg)`, `![](../images/046.png)`
@@ -345,9 +350,9 @@ Each JSON file defines one WhatsApp chat screenshot:
 
 ```powershell
 # Single image (from print/ directory)
-python wa_renderer.py 006_en.json ../en/006_en.jpg [width=420]
+python wa_renderer.py 006_en.json ../images/en/006_en.jpg [width=420]
 
-# Batch render all languages (outputs to <root>/<lang>/)
+# Batch render all languages (outputs to images/<lang>/)
 python render_all_en.py             # en, de, ru
 python render_all_en.py de ru       # specific languages only
 ```
@@ -413,8 +418,8 @@ The `print.css`, `build.ps1`, and `html_to_pdf.py` files are identical across al
 1. Translate Hebrew `he/readme.md` -> `<lang>/readme.md` for each target language
 2. Classify ALL images (both .jpg and .png): WA/MESSENGER (translate) vs PHOTO (keep shared) vs other
 3. Transcribe each WA image, create JSON files in `print/` (`NNN_<lang>.json`)
-4. Run `python render_all_en.py` -- outputs images to `<lang>/NNN_<lang>.jpg`
-5. In each `readme.md`, chat refs use local `NNN_<lang>.jpg` (always .jpg), non-chat refs keep shared `../images/NNN.ext` (original extension)
+4. Run `python render_all_en.py` -- outputs images to `images/<lang>/NNN_<lang>.jpg`
+5. In each `readme.md`, chat refs use `../images/<lang>/NNN_<lang>.jpg` (always .jpg), non-chat refs keep shared `../images/NNN.ext` (original extension)
 6. Run `build-lang.ps1 -Lang <lang> -SourceMd <lang>/readme.md` per language
 
 ---

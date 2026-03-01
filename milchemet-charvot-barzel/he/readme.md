@@ -54,9 +54,9 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ענת והילדים ישנים בממ"ד.
 
-![](images/001.jpg)
+![](../images/001.jpg)
 
-![](images/002.jpg)
+![](../images/002.jpg)
 
 
 ## יום 2 למלחמה (היום הכי קשה)
@@ -173,16 +173,16 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 היום היו 3 אזעקות.
 
-![](images/003.jpg)
+![](../images/003.jpg)
 
 
-![](images/004.jpg)
+![](../images/004.jpg)
 
 
-![](images/006.jpg)
+![](../images/he/006.jpg)
 
 
-![](images/007.jpg)
+![](../images/007.jpg)
 
 
 ## יום 3 למלחמה
@@ -229,16 +229,16 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 היום היו שתי אזעקות.
 
-![](images/008.jpg)
+![](../images/008.jpg)
 
 
-![](images/009.jpg)
+![](../images/009.jpg)
 
 
-![](images/010.png)
+![](../images/he/010.png)
 
 
-![](images/011.png)
+![](../images/011.png)
 
 
 יום 4 למלחמה
@@ -269,23 +269,23 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 אסף גרומן שבור רצחחחח
 
-![](images/012.jpg)
+![](../images/he/012.jpg)
 
 
-![](images/013.jpg)
+![](../images/he/013.jpg)
 
 
-![](images/014.jpg)
+![](../images/he/014.jpg)
 
 
 נועה מרציאנו, החברה החטופה של ספיר, מוחזקת במחילות החמאס
 
-![](images/015.png)
+![](../images/015.png)
 
 
 גאלית מסתתרת בחסות גדר ההפרדה בכביש, בזמן אזעקה.
 
-![](images/016.jpg)
+![](../images/016.jpg)
 
 
 יום 5 למלחמה
@@ -349,20 +349,20 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ענת והילדים ישנים בממ"ד.
 
-![](images/017.jpg)
+![](../images/017.jpg)
 
 
-![](images/018.jpg)
+![](../images/he/018.jpg)
 
 
-![](images/019.jpg)
+![](../images/019.jpg)
 
-![](images/020.jpg)
+![](../images/020.jpg)
 
-![](images/021.jpg)
+![](../images/021.jpg)
 
 
-![](images/022.jpg)
+![](../images/022.jpg)
 
 
 יום 6 למלחמה
@@ -393,18 +393,18 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 אני מצטרף לפורום "אחים למשק". מחפש אפיקי התנדבות בחקלאות. שואלים אם אני יכול לעזור בחליבה.
 
-![](images/023.png)
+![](../images/023.png)
 
 
-![](images/024.png)
+![](../images/he/024.png)
 
 
-![](images/025.png)
+![](../images/he/025.png)
 
 
 מצטרף לפורום אחים למשק.
 
-![](images/026.jpg)
+![](../images/he/026.jpg)
 
 
 יום 7
@@ -437,13 +437,13 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ענת וליאור ישנים בממ"ד.
 
-![](images/027.png)
+![](../images/he/027.png)
 
 
-![](images/028.png)
+![](../images/he/028.png)
 
 
-![](images/029.jpg)
+![](../images/029.jpg)
 
 
 יום 9 למלחמה
@@ -466,12 +466,12 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ענת ישנה עם ליאור בממד.
 
-![](images/030.jpg)
+![](../images/030.jpg)
 
-![](images/031.jpg)
+![](../images/031.jpg)
 
 
-![](images/032.jpg)
+![](../images/032.jpg)
 
 
 יום 10 למלחמה
@@ -506,23 +506,23 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 עוד הודעה מכמירת לב מספיר.
 
-![](images/033.png)
+![](../images/he/033.png)
 
 
-![](images/034.jpg)
+![](../images/034.jpg)
 
-![](images/035.jpg)
+![](../images/035.jpg)
 
-![](images/036.jpg)
+![](../images/036.jpg)
 
-![](images/037.jpg)
+![](../images/037.jpg)
 
-![](images/038.jpg)
+![](../images/038.jpg)
 
-![](images/039.jpg)
+![](../images/039.jpg)
 
 
-![](images/040.jpg)
+![](../images/040.jpg)
 
 
 יום 11 למלחמה
@@ -535,17 +535,17 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 החבר שלי, גורי, מגלה שהמחבלים שחדרו לישראל לפני 11 ימים היו מסוממים.
 
-![](images/041.png)
+![](../images/he/041.png)
 
 
-![](images/042.jpg)
+![](../images/042.jpg)
 
-![](images/043.jpg)
+![](../images/043.jpg)
 
-![](images/044.jpg)
+![](../images/044.jpg)
 
 
-![](images/045.jpg)
+![](../images/he/045.jpg)
 
 
 יום 12 למלחמה
@@ -558,7 +558,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ענת עובדת איתו על תרגילי נשימה.
 
-![](images/046.png)
+![](../images/046.png)
 
 
 אני נתקל בסרטון ווידאו ממצלמת האבטחה של קיבוץ בארי. רואים איך נכנסו לשם ערימות של מוסלמים.
@@ -585,7 +585,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 אם יש משהו מלחיץ... זה זה.
 
-![](images/047.jpg)
+![](../images/047.jpg)
 
 
 [זה החומר ממנו עשויים הסיוטים שלי](https://edenguy.wixsite.com/blog/post/%D7%A7%D7%9C%D7%90%D7%A5-%D7%91%D7%9E%D7%98%D7%A2-%D7%94%D7%90%D7%A0%D7%95%D7%A0%D7%95%D7%AA). עשרות מחבלים מסתובבים בישראל.
@@ -608,13 +608,13 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 בסוף אני מתייעץ עם בר-אל, החבר בראל שמביא לי בריחים בריאים, ויחד אנחנו מתקינים בריחים.
 
-![](images/048.jpg)
+![](../images/048.jpg)
 
-![](images/049.jpg)
+![](../images/049.jpg)
 
-![](images/050.jpg)
+![](../images/050.jpg)
 
-![](images/051.jpg)
+![](../images/051.jpg)
 
 
 יום 14 למלחמה
@@ -629,7 +629,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 לספיר יש יוקליילה. היא מעלה את מוראל הלוחמים ביחידה עם היוקלילה שלה.
 
-![](images/052.jpg)
+![](../images/052.jpg)
 
 
 ספיר מספרת שהורו להם להתכונן נפשית ל-60 יום בבסיס.
@@ -640,7 +640,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 עשרות פוסטים על כך בפייס.
 
-![](images/053.jpg)
+![](../images/053.jpg)
 
 
 השקל מאבד מערכו.
@@ -655,7 +655,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 שמחה גדולה. סוף סוף הבן האובד שב הביתה.
 
-![](images/054.jpg)
+![](../images/054.jpg)
 
 
 עידן משתף מתלאותיו ביחידה.
@@ -688,14 +688,14 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 שמים את הפלייליסט האהוב שלו, ומתאמנים יחד. אימון ידיים היום.
 
-![](images/055.jpg)
+![](../images/055.jpg)
 
-![](images/056.jpg)
+![](../images/056.jpg)
 
 
 סטייק ולובסטר. על סיפון נושאת המטוסים ג׳ראלד פורד בים התיכון הוגשו אתמול בערב סטייק ולובסטר. הימאים יודעים שמגישים מנה כזאת בחגים - או כדי להעלות את המוראל לקראת יציאה לפעולה.
 
-![](images/057.jpg)
+![](../images/he/057.jpg)
 
 
 ליאור התעורר הלילה מחלום בלהות.
@@ -712,12 +712,12 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ניסינו. באמת שניסינו.
 
-![](images/058.png)
+![](../images/he/058.png)
 
 
 קובע לספיר תור לחידוש דרכון אמריקאי בקונסוליה האמריקאנית ברחוב הירקון.
 
-![](images/059.jpg)
+![](../images/059.jpg)
 
 
 היום הוא יום שמח.
@@ -746,7 +746,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 מאמין שדברים יצוצו בעוד שנים.
 
-![](images/060.jpg)
+![](../images/060.jpg)
 
 
 יום - אני מפסיק לספור ...
@@ -785,7 +785,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 נחמד לי לקבל תשומת לב.
 
-![](images/061.jpg)
+![](../images/061.jpg)
 
 
 לכבוד יום הולדתי אני מחליט לצאת לריצת שטח בשטח הפתוח.
@@ -796,7 +796,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 יותר חשובה לי השפיות שלי.
 
-![](images/062.jpg)
+![](../images/062.jpg)
 
 
 בצהריים, לאחר ישיבה בעבודה, ליאור קורא לי לבוא רגע למטבח. אני מגיע, ושרים לי יום הולדת שמייח, גם יש עוגה.
@@ -811,10 +811,10 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 זה אחלה דבר. סיפוק רב, לבעוט בחמאס. תראפואטי.
 
-![](images/063.png)
+![](../images/063.png)
 
 
-![](images/064.png)
+![](../images/064.png)
 
 
 היום ה-30 למלחמה
@@ -829,17 +829,17 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 מאד.
 
-![](images/065.jpg)
+![](../images/065.jpg)
 
 
 אני לוקח אותה, ואת הצעירים לאכול גלידה. ב"אנדרי".
 
-![](images/066.jpg)
+![](../images/066.jpg)
 
 
 ענת אוהבת את התמונה הזו. פטריוטית. מדים ודגל.
 
-![](images/068.jpg)
+![](../images/068.jpg)
 
 
 עידן שולח לי הודעה בווטסאפ.
@@ -850,7 +850,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 אני שוב נכנס לכוננות ספיגה, מחליף את המים בממ"ד. משלים חוסרים.
 
-![](images/069.jpg)
+![](../images/he/069.jpg)
 
 
 אני שוב בסרטים. לא ישן טוב בלילה.
@@ -877,14 +877,14 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 לראשונה אי פעם קרוב למזרח התיכון: כלי השיט הגדול והיקר בעולם. 90 כלי טיס, 4,300 אנשי צוות וצוללות חמושות: ארה"ב מקרבת לחופי ישראל נושאות מטוסים במפגן תמיכה במלחמה מול חמאס נושאת המטוסים "פורד", כלי השיט הגדול והיקר בעולם, כבר הוצבה בים התיכון, ובשבוע הבא צפויה גם לעגון "אייזנהאואר"
 
-![](images/070.jpg)
+![](../images/he/070.jpg)
 
 
 סיילספורס האמריקאית, מעניקה לעובדיה הישראלים בונוס מלחמה. עובדי החברה יקבלו מענק חד-פעמי בגובה של 10,000 שקל למשכורת של חודש נובמבר
 
 כיף לדעת שרואים אותנו. שחושבים עלינו.
 
-![](images/071.png)
+![](../images/071.png)
 
 
 ענת לא מגיעה לחלון הממ"ד לסגור אותו. לכן אני מתקין מיתר כביסה עם גלגלת, שמקל על סגירת חלון הממ"ד.
@@ -899,23 +899,23 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 לליאור יש גוף טוב. מוצק. אם הוא טיפה משקיע בעצמו ומתעמל, הוא הופך למפלצת.
 
-![](images/072.jpg)
+![](../images/072.jpg)
 
-![](images/073.jpg)
+![](../images/073.jpg)
 
-![](images/074.jpg)
+![](../images/074.jpg)
 
-![](images/075.jpg)
+![](../images/075.jpg)
 
-![](images/076.jpg)
+![](../images/076.jpg)
 
-![](images/077.jpg)
+![](../images/077.jpg)
 
-![](images/078.jpg)
+![](../images/078.jpg)
 
-![](images/079.jpg)
+![](../images/079.jpg)
 
-![](images/080.jpg)
+![](../images/080.jpg)
 
 
 השבוע סוף סוף אני נוסע למשרד בתל אביב.
@@ -924,7 +924,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 קצת חדר כושר עם אנשים עם דופק.
 
-![](images/081.jpg)
+![](../images/081.jpg)
 
 
 מאד נחמד לי להפגש עם אנשים.
@@ -937,7 +937,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 מטלטל.
 
-![](images/082.jpg)
+![](../images/082.jpg)
 
 
 מקום העבודה מאפשר לנו לדבר עם איש מקצוע על הקשיים, המשברים, החרדות.
@@ -950,7 +950,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 אמא של ענת מגיעה לביקור קצרצר, וטועמת את טעמו של הממ"ד שלנו.
 
-![](images/083.jpg)
+![](../images/083.jpg)
 
 
 ענת מכריזה שהלילה היא תישן בחדר השינה, וליאור ישן בחדר שלו.
@@ -963,7 +963,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 השביע את ענת שאם יש אזעקה, היא מעירה אותו דבר ראשון, ולא שוכחת ממנו.
 
-![](images/084.jpg)
+![](../images/084.jpg)
 
 
 אנחנו מככבים במקום 3. אחרי שדרות.
@@ -974,24 +974,24 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 אנחנו מכינים מטעמים על המנגל, ומדסקסים ענייני מלחמה.
 
-![](images/085.jpg)
+![](../images/085.jpg)
 
 
-![](images/086.jpg)
+![](../images/086.jpg)
 
 
 7 בנובמבר. חודש למלחמה.
 
 ליאור לובש חולצת בית ספר פעם ראשונה מזה חודשיים.
 
-![](images/087.jpg)
+![](../images/087.jpg)
 
 
 בית ספר.
 
 העורף מתחיל לחזור לשגרה.
 
-![](images/088.jpg)
+![](../images/088.jpg)
 
 
 אני נוסע למשרד בתל אביב.
@@ -1006,14 +1006,14 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 מחלקים לנו דיסקיות לזכר השבויים והנופלים.
 
-![](images/089.jpg)
+![](../images/089.jpg)
 
-![](images/090.jpg)
+![](../images/090.jpg)
 
 
 כולם בסולידריות
 
-![](images/091.jpg)
+![](../images/091.jpg)
 
 
 השבוע החמישי למלחמה - שבוע נועה
@@ -1022,7 +1022,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 היום הנוראי ממנו חששנו הגיע.
 
-![](images/092.png)
+![](../images/092.png)
 
 
 על הבוקר, ספיר שולחת לי ווידאו סנאף שפרסם החמאס, המראה שנועה מרציאנו נהרגה מהפצצות צה"ל.
@@ -1055,7 +1055,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 זה יום מאד קשה עבורי. עבורנו. אחד הקשים.
 
-![](images/093.jpg)
+![](../images/093.jpg)
 
 
 מאחר ואין גופה, המשפחה יושבת שבעה, בלי הלוויה.
@@ -1064,17 +1064,17 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 כנראה שהצעדה של משפחות החטופים שהיא בדרך לירושלים תעבור אצלם בדיוק בחמישי בצהרים
 
-![](images/094.png)
+![](../images/he/094.png)
 
 
 חמאס, ארגון טרור, הנחית על המעצמה הישראלית את המכה הצבאית הקשה בתולדותיה. תרגיל ההונאה היה מושלם. ההחמצה של המודיעין הייתה מוחלטת. התוצאות היו הרות אסון, ורק עוצמת ההשפלה גברה על הכישלון. ישראל עמדה במרחק נגיעה מהסכם שלום היסטורי עם סעודיה, שהיה משלים את מעגל השלום עם הציר הסוני, כולא את הפלסטינים בתוך קופסה שחורה וזורק אותה לים.במקום זה, הם כמעט זרקו אותנו לים. המעבר שעברנו במהלך אותה שבת, 7 באוקטובר, הוא אחד המעברים החדים בהיסטוריה. בבת אחת הפכה האימפריה הישראלית ממעצמה שאננה, יהירה ובוטחת, שמפליאה את מכותיה באיראן, בסוריה ובכל מה שביניהן, שמעניקה את חסדי המודיעין שלה לכל מחזריה, שמכתיבה את הקצב במזרח התיכון כולו ומהווה מגדלור של טכנולוגיה, עוצמה ומודיעין לעולם כולו, לספינה טרופה בין הגלים, אומה בפאניקה קיומית, אזרחים שמנסים לקושש לעצמם אקדח או סכין כדי לישון איתם תחת הכרית בלילה, גם אם הם גרים בלב תל אביב.
 
 הזמן קופא. מלכת כל יום מרגיש כמו ה-7 באוקט.
 
-![](images/095.jpg)
+![](../images/095.jpg)
 
 
-![](images/096.jpg)
+![](../images/096.jpg)
 
 
 #### יום ה'
@@ -1103,17 +1103,17 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 מכמיר לב.
 
-![](images/097.jpg)
+![](../images/097.jpg)
 
-![](images/098.jpg)
+![](../images/098.jpg)
 
-![](images/099.jpg)
+![](../images/099.jpg)
 
-![](images/100.jpg)
+![](../images/100.jpg)
 
-![](images/101.jpg)
+![](../images/101.jpg)
 
-![](images/102.jpg)
+![](../images/102.jpg)
 
 
 #### יום ו'
@@ -1126,19 +1126,19 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 הגופה אותרה אתמול סמוך לבית החולים שיפא, יום לאחר מציאת גופתה של יהודית וייס מקיבוץ בארי. שלושה פלסטינים נהרגו בתקיפת צה"ל בג'נין, הכוח כיתר את בית החולים בעיר. בלינקן שוחח עם גנץ ועם שרי החוץ של מצרים ושל ירדן, ואמר כי ארה"ב תתנגד להעברה כפויה של פלסטינים מעזה
 
-![](images/103.jpg)
+![](../images/103.jpg)
 
 
 ספיר בדרך מהיחידה שלה, להשתתף בהלוויה.
 
-![](images/104.jpg)
+![](../images/104.jpg)
 
 
 ספיר נוסעת למודיעין, להשתתף בהלוויה, לחלוק כבוד אחרון.
 
 הכיתה של ליאור שלחו לחיילים ברכות. מחמם את הלב. החיילים מרוצים.
 
-![](images/105.jpg)
+![](../images/105.jpg)
 
 
 #### החודש ה-3 למלחמה
@@ -1149,7 +1149,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 בעיר מודיעין יש מסורת, עלפיה כל חייל בן העיר שנופל, מקבל רחוב על שמו.
 
-![](images/106.jpg)
+![](../images/106.jpg)
 
 
 חבר שלי מתאשפז השבוע באיכילוב, לניתוח דחוף.
@@ -1160,17 +1160,17 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 המינימום שאני יכול הוא לתרום מנת דם.
 
-![](images/107.jpg)
+![](../images/107.jpg)
 
 
 יום התנדבות, קטיף אפרסמונים
 
-![](images/108.jpg)
+![](../images/108.jpg)
 
-![](images/109.jpg)
+![](../images/109.jpg)
 
-![](images/110.jpg)
+![](../images/110.jpg)
 
-![](images/111.jpg)
+![](../images/111.jpg)
 
 

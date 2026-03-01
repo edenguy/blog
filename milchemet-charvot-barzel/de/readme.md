@@ -55,9 +55,9 @@ Heute hatten wir keine Sirenen.
 
 Anat und die Kinder schlafen im Schutzraum.
 
-![](../../images/001.jpg)
+![](../images/001.jpg)
 
-![](../../images/002.jpg)
+![](../images/002.jpg)
 
 
 ## Tag 2 des Krieges (der schwerste Tag)
@@ -174,16 +174,16 @@ Anat und die Kinder schlafen im Schutzraum.
 
 Heute gab es 3 Sirenen.
 
-![](../../images/003.jpg)
+![](../images/003.jpg)
 
 
-![](../../images/004.jpg)
+![](../images/004.jpg)
 
 
-![](006_de.jpg)
+![](../images/de/006_de.jpg)
 
 
-![](../../images/007.jpg)
+![](../images/007.jpg)
 
 
 ## Tag 3 des Krieges
@@ -230,16 +230,16 @@ Anat und die Kinder schlafen im Schutzraum.
 
 Heute gab es zwei Sirenen.
 
-![](../../images/008.jpg)
+![](../images/008.jpg)
 
 
-![](../../images/009.jpg)
+![](../images/009.jpg)
 
 
-![](010_de.jpg)
+![](../images/de/010_de.jpg)
 
 
-![](../../images/011.png)
+![](../images/011.png)
 
 
 Tag 4 des Krieges
@@ -270,23 +270,23 @@ Galit, eine Freundin aus der Grundschule, ruft heute an und erzählt, dass Assaf
 
 Assaf Groman ist völlig am Boden zerstört.
 
-![](012_de.jpg)
+![](../images/de/012_de.jpg)
 
 
-![](013_de.jpg)
+![](../images/de/013_de.jpg)
 
 
-![](014_de.jpg)
+![](../images/de/014_de.jpg)
 
 
 Noa Marciano, Sapirs entführte Freundin, wird in den Hamas-Tunneln festgehalten.
 
-![](../../images/015.png)
+![](../images/015.png)
 
 
 Galit versteckt sich hinter dem Grenzzaun an der Straße während einer Sirene.
 
-![](../../images/016.jpg)
+![](../images/016.jpg)
 
 
 Tag 5 des Krieges
@@ -350,20 +350,20 @@ Heute gab es zwei Sirenen.
 
 Anat und die Kinder schlafen im Schutzraum.
 
-![](../../images/017.jpg)
+![](../images/017.jpg)
 
 
-![](018_de.jpg)
+![](../images/de/018_de.jpg)
 
 
-![](../../images/019.jpg)
+![](../images/019.jpg)
 
-![](../../images/020.jpg)
+![](../images/020.jpg)
 
-![](../../images/021.jpg)
+![](../images/021.jpg)
 
 
-![](../../images/022.jpg)
+![](../images/022.jpg)
 
 
 Tag 6 des Krieges
@@ -394,18 +394,18 @@ Und ich empfehle ihm, sich dringend zu rasieren, damit ihn nicht eine Grenzpoliz
 
 Ich trete dem Forum „Brüder für die Landwirtschaft" bei. Suche Möglichkeiten für landwirtschaftliche Freiwilligenarbeit. Man fragt mich, ob ich beim Melken helfen kann.
 
-![](../../images/023.png)
+![](../images/023.png)
 
 
-![](024_de.jpg)
+![](../images/de/024_de.jpg)
 
 
-![](025_de.jpg)
+![](../images/de/025_de.jpg)
 
 
 Trete dem Forum „Brüder für die Landwirtschaft" bei.
 
-![](026_de.jpg)
+![](../images/de/026_de.jpg)
 
 
 Tag 7
@@ -438,13 +438,13 @@ Heute gab es zwei Sirenen.
 
 Anat und Lior schlafen im Schutzraum.
 
-![](027_de.jpg)
+![](../images/de/027_de.jpg)
 
 
-![](028_de.jpg)
+![](../images/de/028_de.jpg)
 
 
-![](../../images/029.jpg)
+![](../images/029.jpg)
 
 
 Tag 9 des Krieges
@@ -467,12 +467,12 @@ Heute zwei Sirenen.
 
 Anat schläft mit Lior im Schutzraum.
 
-![](../../images/030.jpg)
+![](../images/030.jpg)
 
-![](../../images/031.jpg)
+![](../images/031.jpg)
 
 
-![](../../images/032.jpg)
+![](../images/032.jpg)
 
 
 Tag 10 des Krieges
@@ -507,23 +507,23 @@ Ich möchte mit Lior Schokoladenkugeln machen, aber wir haben keine Petit-Beurre
 
 Noch eine herzzerreißende Nachricht von Sapir.
 
-![](033_de.jpg)
+![](../images/de/033_de.jpg)
 
 
-![](../../images/034.jpg)
+![](../images/034.jpg)
 
-![](../../images/035.jpg)
+![](../images/035.jpg)
 
-![](../../images/036.jpg)
+![](../images/036.jpg)
 
-![](../../images/037.jpg)
+![](../images/037.jpg)
 
-![](../../images/038.jpg)
+![](../images/038.jpg)
 
-![](../../images/039.jpg)
+![](../images/039.jpg)
 
 
-![](../../images/040.jpg)
+![](../images/040.jpg)
 
 
 Tag 11 des Krieges
@@ -536,17 +536,17 @@ Ich kaufe Petit-Beurre. Heute machen wir zusammen Schokoladenkugeln.
 
 Mein Freund Guri findet heraus, dass die Terroristen, die vor 11 Tagen nach Israel eingedrungen sind, unter Drogen standen.
 
-![](041_de.jpg)
+![](../images/de/041_de.jpg)
 
 
-![](../../images/042.jpg)
+![](../images/042.jpg)
 
-![](../../images/043.jpg)
+![](../images/043.jpg)
 
-![](../../images/044.jpg)
+![](../images/044.jpg)
 
 
-![](045_de.jpg)
+![](../images/de/045_de.jpg)
 
 
 Tag 12 des Krieges
@@ -559,7 +559,7 @@ Nachts bekommt Lior eine Panikattacke. Zittern, flache Atmung.
 
 Anat macht mit ihm Atemübungen.
 
-![](../../images/046.png)
+![](../images/046.png)
 
 
 Ich stoße auf ein Überwachungskamera-Video vom Kibbuz Be'eri. Man sieht, wie Scharen dort eindrangen.
@@ -586,7 +586,7 @@ Israelische Araber geben ihnen Essen. Und Unterschlupf.
 
 Wenn es etwas gibt, das einem Angst macht... dann das.
 
-![](../../images/047.jpg)
+![](../images/047.jpg)
 
 
 [Das ist der Stoff, aus dem meine Albträume sind](https://edenguy.wixsite.com/blog/post/%D7%A7%D7%9C%D7%90%D7%A5-%D7%91%D7%9E%D7%98%D7%A2-%D7%94%D7%90%D7%A0%D7%95%D7%A0%D7%95%D7%AA). Dutzende Terroristen bewegen sich frei in Israel.
@@ -609,13 +609,13 @@ Home Depot... auch nicht.
 
 Am Ende berate ich mich mit Bar-El, dem Freund Barel, der mir solide Riegel bringt, und zusammen installieren wir die Riegel.
 
-![](../../images/048.jpg)
+![](../images/048.jpg)
 
-![](../../images/049.jpg)
+![](../images/049.jpg)
 
-![](../../images/050.jpg)
+![](../images/050.jpg)
 
-![](../../images/051.jpg)
+![](../images/051.jpg)
 
 
 Tag 14 des Krieges
@@ -630,7 +630,7 @@ Ich tröste mich damit, dass Rischon LeZion in anderthalb Wochen eine Frontlinie
 
 Sapir hat eine Ukulele. Sie hebt die Moral der Kämpfer in ihrer Einheit mit ihrer Ukulele.
 
-![](../../images/052.jpg)
+![](../images/052.jpg)
 
 
 Sapir erzählt, dass man ihnen gesagt hat, sie sollen sich mental auf 60 Tage auf dem Stützpunkt vorbereiten.
@@ -641,7 +641,7 @@ Es wird darüber geredet, dass israelische Araber in Städten umhergehen, auch i
 
 Dutzende Posts darüber auf Facebook.
 
-![](../../images/053.jpg)
+![](../images/053.jpg)
 
 
 Der Schekel verliert an Wert.
@@ -656,7 +656,7 @@ Ich hole ihn am Bahnhof ab.
 
 Große Freude. Endlich kehrt der verlorene Sohn nach Hause zurück.
 
-![](../../images/054.jpg)
+![](../images/054.jpg)
 
 
 Idan erzählt von seinen Erlebnissen in der Einheit.
@@ -689,14 +689,14 @@ Lior bittet darum, bei meiner Trainingsroutine im Garten mitzumachen.
 
 Wir legen seine Lieblings-Playlist auf und trainieren zusammen. Heute Arm-Training.
 
-![](../../images/055.jpg)
+![](../images/055.jpg)
 
-![](../../images/056.jpg)
+![](../images/056.jpg)
 
 
 Steak und Lobster. Auf dem Deck des Flugzeugträgers Gerald Ford im Mittelmeer wurden gestern Abend Steak und Lobster serviert. Die Seeleute wissen, dass so ein Gericht an Feiertagen serviert wird — oder um die Moral vor einem Einsatz zu heben.
 
-![](057_de.jpg)
+![](../images/de/057_de.jpg)
 
 
 Lior wachte heute Nacht aus einem Albtraum auf.
@@ -713,12 +713,12 @@ Ich will hier nicht mehr leben.
 
 Wir haben es versucht. Wirklich versucht.
 
-![](058_de.jpg)
+![](../images/de/058_de.jpg)
 
 
 Mache für Sapir einen Termin zur Erneuerung ihres amerikanischen Passes im US-Konsulat in der Hayarkon-Straße.
 
-![](../../images/059.jpg)
+![](../images/059.jpg)
 
 
 Heute ist ein glücklicher Tag.
@@ -747,7 +747,7 @@ Aber es scheint an ihr abzuprallen, ohne Spuren zu hinterlassen.
 
 Ich glaube, dass Dinge in einigen Jahren auftauchen werden.
 
-![](../../images/060.jpg)
+![](../images/060.jpg)
 
 
 Tag — ich höre auf zu zählen...
@@ -786,7 +786,7 @@ Vergessen.
 
 Es ist schön, Aufmerksamkeit zu bekommen.
 
-![](../../images/061.jpg)
+![](../images/061.jpg)
 
 
 Zu Ehren meines Geburtstags beschließe ich, einen Geländelauf im offenen Feld zu machen.
@@ -797,7 +797,7 @@ Ich ignoriere das.
 
 Meine geistige Gesundheit ist mir wichtiger.
 
-![](../../images/062.jpg)
+![](../images/062.jpg)
 
 
 Mittags, nach einem Arbeitsmeeting, ruft Lior mich in die Küche. Ich komme, und sie singen mir „Happy Birthday"; es gibt auch eine Torte.
@@ -812,10 +812,10 @@ Jetzt lassen die Kinder jede Menge Aggressionen an Hamas aus. Die Emotionen des 
 
 Das ist eine tolle Sache. Große Befriedigung, Hamas zu treten. Therapeutisch.
 
-![](../../images/063.png)
+![](../images/063.png)
 
 
-![](../../images/064.png)
+![](../images/064.png)
 
 
 Tag 30 des Krieges
@@ -830,17 +830,17 @@ Ich bin zufrieden.
 
 Sehr.
 
-![](../../images/065.jpg)
+![](../images/065.jpg)
 
 
 Ich nehme sie und die Jüngeren zum Eisessen. Bei „Andiamo".
 
-![](../../images/066.jpg)
+![](../images/066.jpg)
 
 
 Anat liebt dieses Foto. Patriotisch. Uniform und Flagge.
 
-![](../../images/068.jpg)
+![](../images/068.jpg)
 
 
 Idan schickt mir eine Nachricht auf WhatsApp.
@@ -851,7 +851,7 @@ Wieso wieder ein Rückfall in Tag zwei des Krieges?
 
 Ich gehe wieder in volle Alarmbereitschaft, wechsle das Wasser im Schutzraum aus. Fülle Vorräte auf.
 
-![](069_de.jpg)
+![](../images/de/069_de.jpg)
 
 
 Ich drehe wieder am Rad. Schlafe nachts nicht gut.
@@ -878,14 +878,14 @@ Wer hatte je von diesen Huthi gehört, bis heute? Woher kam das? Jemen? Ist das 
 
 Zum ersten Mal überhaupt in der Nähe des Nahen Ostens: das größte und teuerste Kriegsschiff der Welt. 90 Flugzeuge, 4.300 Besatzungsmitglieder und bewaffnete U-Boote: Die USA bringen Flugzeugträger vor Israels Küste in einer Demonstration der Unterstützung im Krieg gegen Hamas. Der Flugzeugträger „Ford", das größte und teuerste Kriegsschiff der Welt, wurde bereits im Mittelmeer stationiert, und nächste Woche soll auch die „Eisenhower" ankern.
 
-![](070_de.jpg)
+![](../images/de/070_de.jpg)
 
 
 Salesforce, das amerikanische Unternehmen, gewährt seinen israelischen Mitarbeitern einen Kriegsbonus. Die Mitarbeiter des Unternehmens erhalten eine einmalige Prämie von 10.000 Schekel zum November-Gehalt.
 
 Schön zu wissen, dass man uns sieht. Dass man an uns denkt.
 
-![](../../images/071.png)
+![](../images/071.png)
 
 
 Anat erreicht das Fenster des Schutzraums nicht, um es zu schließen. Deshalb installiere ich eine Wäscheleine mit Umlenkrolle, die das Schließen des Schutzraumfensters erleichtert.
@@ -900,23 +900,23 @@ Lior schließt sich mir an, und wir trainieren zusammen.
 
 Lior hat einen guten Körper. Kräftig. Wenn er ein bisschen in sich investiert und trainiert, wird er zum Monster.
 
-![](../../images/072.jpg)
+![](../images/072.jpg)
 
-![](../../images/073.jpg)
+![](../images/073.jpg)
 
-![](../../images/074.jpg)
+![](../images/074.jpg)
 
-![](../../images/075.jpg)
+![](../images/075.jpg)
 
-![](../../images/076.jpg)
+![](../images/076.jpg)
 
-![](../../images/077.jpg)
+![](../images/077.jpg)
 
-![](../../images/078.jpg)
+![](../images/078.jpg)
 
-![](../../images/079.jpg)
+![](../images/079.jpg)
 
-![](../../images/080.jpg)
+![](../images/080.jpg)
 
 
 Diese Woche fahre ich endlich ins Büro nach Tel Aviv.
@@ -925,7 +925,7 @@ Ein bisschen Normalität.
 
 Ein bisschen Fitnessstudio mit Menschen mit Puls.
 
-![](../../images/081.jpg)
+![](../images/081.jpg)
 
 
 Es ist sehr schön, Menschen zu treffen.
@@ -938,7 +938,7 @@ Auf dem Rückweg sehe ich zum ersten Mal Plakatwände mit Fotos der Entführten.
 
 Aufwühlend.
 
-![](../../images/082.jpg)
+![](../images/082.jpg)
 
 
 Der Arbeitgeber ermöglicht es uns, mit einem Fachmann über die Schwierigkeiten, Krisen und Ängste zu sprechen.
@@ -951,7 +951,7 @@ Ich hätte nicht gedacht, dass ein einziges Zoom-Gespräch so effektiv sein kann
 
 Anats Mutter kommt zu einem kurzen Besuch und probiert unseren Schutzraum aus.
 
-![](../../images/083.jpg)
+![](../images/083.jpg)
 
 
 Anat erklärt, dass sie heute Nacht im Schlafzimmer schlafen wird und Lior in seinem Zimmer.
@@ -964,7 +964,7 @@ Lior erklärt, er habe hervorragend geschlafen.
 
 Er ließ Anat schwören, dass sie ihn als Allererstes weckt, wenn es eine Sirene gibt, und ihn nicht vergisst.
 
-![](../../images/084.jpg)
+![](../images/084.jpg)
 
 
 Wir belegen Platz 3. Nach Sderot.
@@ -975,24 +975,24 @@ Der tapfere Oded kommt ins raketengebeutelte Rischon LeZion, um mich zu besuchen
 
 Wir bereiten Leckereien auf dem Grill zu und diskutieren über Kriegsangelegenheiten.
 
-![](../../images/085.jpg)
+![](../images/085.jpg)
 
 
-![](../../images/086.jpg)
+![](../images/086.jpg)
 
 
 7. November. Ein Monat Krieg.
 
 Lior zieht zum ersten Mal seit zwei Monaten sein Schulhemd an.
 
-![](../../images/087.jpg)
+![](../images/087.jpg)
 
 
 Schule.
 
 Die Heimatfront beginnt, zur Normalität zurückzukehren.
 
-![](../../images/088.jpg)
+![](../images/088.jpg)
 
 
 Ich fahre ins Büro nach Tel Aviv.
@@ -1007,14 +1007,14 @@ Was, erst ein Monat ist vergangen? Ich schwöre, es fühlt sich an wie ein halbe
 
 Man verteilt Anstecker zum Gedenken an die Gefangenen und Gefallenen.
 
-![](../../images/089.jpg)
+![](../images/089.jpg)
 
-![](../../images/090.jpg)
+![](../images/090.jpg)
 
 
 Alle in Solidarität.
 
-![](../../images/091.jpg)
+![](../images/091.jpg)
 
 
 Die fünfte Kriegswoche — die Noa-Woche
@@ -1023,7 +1023,7 @@ Die fünfte Kriegswoche — die Noa-Woche
 
 Der schreckliche Tag, den wir gefürchtet hatten, ist gekommen.
 
-![](../../images/092.png)
+![](../images/092.png)
 
 
 Am Morgen schickt Sapir mir ein Snuff-Video, das die Hamas veröffentlicht hat und das zeigt, dass Noa Marciano durch IDF-Bombardierung getötet wurde.
@@ -1056,7 +1056,7 @@ Ich kann mir nur vorstellen, was unsere Sapirchen durchmacht.
 
 Das ist ein sehr schwerer Tag für mich. Für uns. Einer der schwersten.
 
-![](../../images/093.jpg)
+![](../images/093.jpg)
 
 
 Da es keine Leiche gibt, sitzt die Familie Schiwa, ohne Beerdigung.
@@ -1065,17 +1065,17 @@ Wir verabreden uns, am Donnerstag mit Sapir zur Trauerbekundung nach Modiin zu f
 
 Vermutlich wird der Marsch der Geiselfamilien, der auf dem Weg nach Jerusalem ist, genau am Donnerstagmittag bei ihnen vorbeikommen.
 
-![](094_de.jpg)
+![](../images/de/094_de.jpg)
 
 
 Hamas, eine Terrororganisation, hat der israelischen Supermacht den schwersten militärischen Schlag ihrer Geschichte versetzt. Die Täuschung war perfekt. Das Versagen des Geheimdienstes war absolut. Die Folgen waren katastrophal, und nur das Ausmaß der Demütigung übertraf das Versagen. Israel stand kurz vor einem historischen Friedensabkommen mit Saudi-Arabien, das den Friedenskreis mit der sunnitischen Achse geschlossen, die Palästinenser in eine schwarze Kiste eingeschlossen und ins Meer geworfen hätte. Stattdessen haben sie fast uns ins Meer geworfen. Der Übergang, den wir an jenem Schabbat, dem 7. Oktober, durchlebten, ist einer der schärfsten in der Geschichte. Mit einem Schlag verwandelte sich das israelische Imperium von einer selbstzufriedenen, arroganten und selbstsicheren Supermacht, die im Iran, in Syrien und überall dazwischen zuschlug, die ihre Geheimdiensterkenntnisse an alle Verehrer verteilte, die den Takt im gesamten Nahen Osten vorgab und weltweit ein Leuchtturm der Technologie, Stärke und Nachrichtendienste war — zu einem schiffbrüchigen Boot in den Wellen, einer Nation in existenzieller Panik, Bürgern, die versuchen, sich eine Pistole oder ein Messer zusammenzukratzen, um damit unter dem Kopfkissen zu schlafen, selbst wenn sie mitten in Tel Aviv wohnen.
 
 Die Zeit friert ein. Jeder Tag fühlt sich an wie der 7. Oktober.
 
-![](../../images/095.jpg)
+![](../images/095.jpg)
 
 
-![](../../images/096.jpg)
+![](../images/096.jpg)
 
 
 #### Donnerstag
@@ -1104,17 +1104,17 @@ An der Seite stehen zwei große blaue Kisten, geschmückt mit der israelischen F
 
 Herzzerreißend.
 
-![](../../images/097.jpg)
+![](../images/097.jpg)
 
-![](../../images/098.jpg)
+![](../images/098.jpg)
 
-![](../../images/099.jpg)
+![](../images/099.jpg)
 
-![](../../images/100.jpg)
+![](../images/100.jpg)
 
-![](../../images/101.jpg)
+![](../images/101.jpg)
 
-![](../../images/102.jpg)
+![](../images/102.jpg)
 
 
 #### Freitag
@@ -1127,19 +1127,19 @@ Also gibt es doch eine Beerdigung.
 
 Der Leichnam wurde gestern in der Nähe des Shifa-Krankenhauses gefunden, einen Tag nach der Bergung des Leichnams von Yehudit Weiss aus dem Kibbuz Be'eri. Drei Palästinenser wurden bei einem IDF-Angriff in Dschenin getötet, die Truppe umstellte das Krankenhaus der Stadt. Blinken sprach mit Gantz und den Außenministern Ägyptens und Jordaniens und sagte, die USA würden sich gegen eine erzwungene Umsiedlung von Palästinensern aus Gaza aussprechen.
 
-![](../../images/103.jpg)
+![](../images/103.jpg)
 
 
 Sapir ist auf dem Weg von ihrer Einheit, um an der Beerdigung teilzunehmen.
 
-![](../../images/104.jpg)
+![](../images/104.jpg)
 
 
 Sapir fährt nach Modiin, um an der Beerdigung teilzunehmen und letzte Ehre zu erweisen.
 
 Die Klasse von Lior hat Grüße an die Soldaten geschickt. Herzerwärmend. Die Soldaten freuen sich.
 
-![](../../images/105.jpg)
+![](../images/105.jpg)
 
 
 #### Der 3. Kriegsmonat
@@ -1150,7 +1150,7 @@ Heute wurde der Noa-Marciano-Weg eingeweiht. Sapir ist nach Modiin gefahren, zur
 
 In der Stadt Modiin gibt es eine Tradition, nach der jeder gefallene Soldat, der aus der Stadt stammt, eine Straße nach seinem Namen bekommt.
 
-![](../../images/106.jpg)
+![](../images/106.jpg)
 
 
 Ein Freund von mir wird diese Woche im Ichilov-Krankenhaus für eine Notoperation eingeliefert.
@@ -1161,15 +1161,15 @@ Dutzende oder mehr Verwundete kommen pro Tag an. Das Krankenhaus ist überflutet
 
 Das Mindeste, was ich tun kann, ist eine Blutspende.
 
-![](../../images/107.jpg)
+![](../images/107.jpg)
 
 
 Freiwilligentag, Kaki-Ernte
 
-![](../../images/108.jpg)
+![](../images/108.jpg)
 
-![](../../images/109.jpg)
+![](../images/109.jpg)
 
-![](../../images/110.jpg)
+![](../images/110.jpg)
 
-![](../../images/111.jpg)
+![](../images/111.jpg)
