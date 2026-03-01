@@ -5,7 +5,7 @@
   "messages": [
     {"side": "left", "sender": "Sapir Eden _", "text": "How many minutes", "time": "17:38"},
     {"type": "spacer"},
-    {"side": "left", "text": "An infiltration threat was announced for a settlement in the sector", "time": "22:31"},
+    {"side": "left", "text": "There's an infiltration alert at a settlement in the sector", "time": "22:31"},
     {"side": "left", "text": "They gathered everyone, it's probably nothing", "time": "22:31"},
     {"side": "right", "text": "Update me", "time": "22:35", "check": "\u2713\u2713"},
     {"side": "left", "sender": "Sapir Eden _", "text": "Weakling", "time": "22:35", "reaction": "\u2764\ufe0f"}

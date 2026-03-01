@@ -6,11 +6,11 @@
     {"side": "left", "quote": {"sender": "You", "text": "Did you see the photo?"}, "text": "Yes", "time": "18:45"},
     {"side": "right", "text": "Does she look normal?", "time": "18:45", "check": "\u2713\u2713"},
     {"side": "right", "text": "Or did they abuse her?", "time": "18:46"},
-    {"side": "left", "text": "That's when they had just taken them", "time": "18:46"},
+    {"side": "left", "text": "That was right when they took them", "time": "18:46"},
     {"side": "left", "text": "She's handcuffed and pressed against a wall next to her friend", "time": "18:46"},
     {"side": "right", "text": "Her parents must be happy she's alive, at least.", "time": "18:46", "check": "\u2713\u2713"},
     {"side": "left", "text": "Who knows if she's still alive", "time": "18:46"},
-    {"side": "left", "text": "It's impossible to know what they're doing to her there", "time": "18:47"},
+    {"side": "left", "text": "No way to know what they're doing to her there", "time": "18:47"},
     {"side": "left", "text": "Now they'll know everything about us", "time": "18:47"},
     {"side": "right", "text": "True, but she's worth much more to them alive than dead. She's a bargaining chip", "time": "18:47", "check": "\u2713\u2713"},
     {"side": "left", "text": "If they shot the cameras, they already know enough anyway", "time": "18:47"}

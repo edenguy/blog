@@ -3,8 +3,8 @@
   "chat_status": "online",
   "direction": "ltr",
   "messages": [
-    {"side": "left", "text": "OK so it's already published and known that they arrived loaded with cocaine. And wired.\nThere were terrorists who were shot tons of bullets and kept running as if nothing.", "time": "22:18"},
-    {"side": "left", "text": "They also found tons of drugs in vehicles and they too were wired. What madness, wow.", "time": "22:18"},
+    {"side": "left", "text": "OK so it's already out there that they came loaded with cocaine. And wired.\nThere were terrorists who took tons of bullets and kept running like nothing happened.", "time": "22:18"},
+    {"side": "left", "text": "They also found tons of drugs in vehicles and they were wired too. What madness, wow.", "time": "22:18"},
     {"side": "right", "text": "Belgium?", "time": "22:23", "check": "\u2713\u2713"},
     {"side": "right", "text": "Are we talking about Belgium now?", "time": "22:23", "check": "\u2713\u2713"},
     {"side": "left", "text": "No no", "time": "22:25"},
@@ -15,10 +15,10 @@
     {"side": "left", "text": "Very", "time": "22:28"},
     {"side": "left", "text": "Some of them. Definitely not all.", "time": "22:28"},
     {"side": "left", "text": "I'm not sure it's cocaine.", "time": "22:28"},
-    {"side": "left", "text": "Maybe it's something else but war drugs.", "time": "22:28"},
-    {"side": "left", "text": "It disconnects you, it's speed, I have no idea what specifically they brought with them, but stuff that helps you commit such atrocities.", "time": "22:28"},
+    {"side": "left", "text": "Maybe something else, but definitely war drugs.", "time": "22:28"},
+    {"side": "left", "text": "It disconnects you, it's speed, I have no idea what specifically they brought with them, but stuff that helps you do things like that.", "time": "22:28"},
     {"side": "left", "text": "At age 20.", "time": "22:28"},
     {"side": "right", "text": "Shocking.", "time": "22:29", "check": "\u2713\u2713"},
-    {"side": "right", "text": "They engineered this attack from every possible angle.", "time": "22:29", "check": "\u2713\u2713"}
+    {"side": "right", "text": "They planned this from every angle.", "time": "22:29", "check": "\u2713\u2713"}
   ]
 }

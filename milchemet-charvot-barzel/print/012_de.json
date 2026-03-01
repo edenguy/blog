@@ -12,7 +12,7 @@
     {"side": "right", "text": "Warum schicken sie nur manche und nicht alle?", "time": "18:43", "check": "\u2713\u2713"},
     {"side": "right", "text": "Hast du das Foto gesehen?", "time": "18:43", "check": "\u2713\u2713"},
     {"side": "left", "quote": {"sender": "Du", "text": "Warum schicken sie nur manche und nicht alle?"}, "text": "Wei\u00df nicht", "time": "18:45"},
-    {"side": "left", "text": "Dass wir in Ungewissheit bleiben", "time": "18:45"},
+    {"side": "left", "text": "Damit wir im Ungewissen bleiben", "time": "18:45"},
     {"side": "left", "quote": {"sender": "Du", "text": "Hast du das Foto gesehen?"}, "text": "Ja", "time": "18:45"}
   ]
 }

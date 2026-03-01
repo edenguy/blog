@@ -5,8 +5,8 @@
   "messages": [
     {"side": "left", "sender": "Sapir Eden _", "text": "Wie viele Minuten", "time": "17:38"},
     {"type": "spacer"},
-    {"side": "left", "text": "Eine Infiltrationswarnung wurde f\u00fcr eine Siedlung im Sektor ausgegeben", "time": "22:31"},
-    {"side": "left", "text": "Sie haben alle versammelt, es ist wahrscheinlich nichts", "time": "22:31"},
+    {"side": "left", "text": "Infiltrationsalarm f\u00fcr eine Siedlung im Abschnitt", "time": "22:31"},
+    {"side": "left", "text": "Die haben alle zusammengerufen, ist wahrscheinlich nichts", "time": "22:31"},
     {"side": "right", "text": "Halt mich auf dem Laufenden", "time": "22:35", "check": "\u2713\u2713"},
     {"side": "left", "sender": "Sapir Eden _", "text": "Schw\u00e4chling", "time": "22:35", "reaction": "\u2764\ufe0f"}
   ]
