@@ -242,7 +242,7 @@ Today there were two sirens.
 ![](../images/011.png)
 
 
-Day 4 of the War
+## Day 4 of the War
 
 Idan came home today to return the car, changed his underwear, and ran back to his unit. Spent ten minutes at home.
 
@@ -289,7 +289,7 @@ Gaalit takes shelter behind the highway barrier during a siren.
 ![](../images/016.jpg)
 
 
-Day 5 of the War
+## Day 5 of the War
 
 Heading out early in the morning for shopping.
 
@@ -409,7 +409,7 @@ Joining the Brothers of the Farm forum.
 
 <video src="../videos/006.mp4" controls></video>
 
-Day 7
+## Day 7 of the War
 
 07:00 — Adi (my sister) calls.
 
@@ -448,7 +448,7 @@ Anat and Lior sleep in the safe room.
 ![](../images/029.jpg)
 
 
-Day 9 of the War
+## Day 9 of the War
 
 Okay, today is really rainy. I call Leket Israel and schedule for tomorrow. Tomorrow for sure.
 
@@ -530,7 +530,7 @@ Another heartbreaking message from Sapir.
 ![](../images/040.jpg)
 
 
-Day 11 of the War
+## Day 11 of the War
 
 Lior sends me to his school to bring back the books and notebooks he left there before the war.
 
@@ -554,7 +554,7 @@ My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago 
 
 <video src="../videos/001.mp4" controls></video>
 
-Day 12 of the War
+## Day 12 of the War
 
 Hamas announced today that a senior member of its military wing, Ayman Nofal, was eliminated by the IDF in central Gaza — the highest-ranking elimination so far. He was responsible for coordination between the different battalions of terror organizations in the Strip.
 
@@ -575,7 +575,7 @@ It was like an annual field trip. Everyone crossed the border into Israel, grabb
 
 <video src="../videos/005.mp4" controls></video>
 
-Day 13 of the War — Shuki learns to run with us to the safe room.
+## Day 13 of the War — Shuki learns to run with us to the safe room.
 
 We're not sure if the trigger is the siren, or if he sees all of us running in a panic to the safe room.
 
@@ -625,7 +625,7 @@ In the end I consult with Bar-El, my friend Barel who brings me proper bolts, an
 ![](../images/051.jpg)
 
 
-Day 14 of the War
+## Day 14 of the War
 
 I'm considering getting a gun license.
 
@@ -682,7 +682,7 @@ On day 13 of the war, Iran and the US entered it. Tehran almost literally fulfil
 
 American soldiers will not fight on the ground in Israel and for it, but the US will help deal with missile barrages from the far flanks of the radical Shiite axis.
 
-Day 16 of the War
+## Day 16 of the War
 
 This morning we got a siren at 09:00 AM. That's unusual.
 
@@ -757,7 +757,7 @@ I think this stuff will surface years from now.
 ![](../images/060.jpg)
 
 
-Day — I stop counting...
+## Day — I stop counting...
 
 IQ in the general population averages 100, standard deviation of 15.
 
@@ -825,7 +825,7 @@ It's a great thing. Great satisfaction, kicking Hamas. Therapeutic.
 ![](../images/064.png)
 
 
-Day 30 of the War
+## Day 30 of the War
 
 Sapir comes home for a day and a half. First time she's gotten this much time away from the command post.
 
@@ -988,7 +988,7 @@ We grill some food and talk war.
 ![](../images/086.jpg)
 
 
-November 7th. One month into the war.
+## November 7th. One month into the war.
 
 Lior puts on a school shirt for the first time in two months.
 
@@ -1025,7 +1025,7 @@ Everyone in solidarity.
 
 <video src="../videos/004.mp4" controls></video>
 
-The Fifth Week of the War — Noa's Week
+## The Fifth Week of the War — Noa's Week
 
 #### Wednesday, Nov 14. Anat's Birthday.
 
@@ -1129,7 +1129,7 @@ Heartrending.
 
 We wake up on Friday morning, and here comes the news:
 
-Day 42 of fighting | The IDF has returned the body of soldier Noa Marciano, who was killed in Hamas captivity, to Israel.
+## Day 42 of fighting | The IDF has returned the body of soldier Noa Marciano, who was killed in Hamas captivity, to Israel.
 
 So there will be a funeral after all.
 
@@ -1150,9 +1150,9 @@ Lior's class sent blessings to soldiers. Warms the heart. The soldiers are happy
 ![](../images/105.jpg)
 
 
-#### Month 3 of the War
+## Month 3 of the War
 
-Day 78 of the war.
+## Day 78 of the war.
 
 Today they dedicated the Noa Marciano memorial path. Sapir went to Modi'in for the dedication ceremony.
 
@@ -1172,7 +1172,7 @@ The least I can do is donate a pint of blood.
 ![](../images/107.jpg)
 
 
-Volunteer day, persimmon harvesting.
+## Volunteer day, persimmon harvesting.
 
 ![](../images/108.jpg)
 
