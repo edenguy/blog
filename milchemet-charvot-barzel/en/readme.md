@@ -476,7 +476,7 @@ Anat sleeps with Lior in the safe room.
 ![](../images/032.jpg)
 
 
-Day 10 of the War
+## Day 10 of the War
 
 Today is the day I'm a farmer for a day.
 
@@ -777,7 +777,7 @@ And I'm tired of updating the diary.
 
 Anat and Lior still sleep in the safe room.
 
-Oct 31 — Day 20 of the War
+## Oct 31 — Day 20 of the War
 
 Waking up on the morning of October 31st. Rubbing my eyes and going downstairs to the living room.
 

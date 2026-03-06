@@ -242,7 +242,7 @@ Heute gab es zwei Sirenen.
 ![](../images/011.png)
 
 
-Tag 4 des Krieges
+## Tag 4 des Krieges
 
 Idan kam kurz nach Hause, Auto zurückbringen, Unterwäsche wechseln, und rannte zurück zur Einheit. Zehn Minuten war er da.
 
@@ -289,7 +289,7 @@ Galit versteckt sich hinter dem Grenzzaun an der Straße während einer Sirene.
 ![](../images/016.jpg)
 
 
-Tag 5 des Krieges
+## Tag 5 des Krieges
 
 Gehe früh morgens einkaufen.
 
@@ -366,7 +366,7 @@ Anat und die Kinder schlafen im Schutzraum.
 ![](../images/022.jpg)
 
 
-Tag 6 des Krieges
+## Tag 6 des Krieges
 
 Wache um 3 Uhr morgens auf. Kann nicht einschlafen. Der Schlaf flieht.
 
@@ -409,7 +409,7 @@ Trete dem Forum „Brüder in der Landwirtschaft" bei.
 
 <video src="../videos/006.mp4" controls></video>
 
-Tag 7
+## Tag 7 des Krieges
 
 07:00 Uhr, Adi (meine Schwester) ruft an.
 
@@ -448,7 +448,7 @@ Anat und Lior schlafen im Schutzraum.
 ![](../images/029.jpg)
 
 
-Tag 9 des Krieges
+## Tag 9 des Krieges
 
 OK, heute regnet es richtig. Rufe bei Leket Israel an und mache einen Termin für morgen. Morgen ganz sicher.
 
@@ -476,7 +476,7 @@ Anat schläft mit Lior im Schutzraum.
 ![](../images/032.jpg)
 
 
-Tag 10 des Krieges
+## Tag 10 des Krieges
 
 Heute ist der Tag, an dem ich für einen Tag Bauer bin.
 
@@ -530,7 +530,7 @@ Noch eine herzzerreißende Nachricht von Sapir.
 ![](../images/040.jpg)
 
 
-Tag 11 des Krieges
+## Tag 11 des Krieges
 
 Lior schickt mich zu seiner Schule, um Bücher und Hefte zu holen, die er dort vor dem Krieg gelassen hat.
 
@@ -554,7 +554,7 @@ Mein Kumpel Guri findet raus, dass die Terroristen, die vor 11 Tagen nach Israel
 
 <video src="../videos/001.mp4" controls></video>
 
-Tag 12 des Krieges
+## Tag 12 des Krieges
 
 Die Hamas gab heute bekannt, dass ihr hochrangiger Kommandeur Ayman Nofal von der IDF im Zentrum des Gazastreifens getötet wurde — die bisher größte gezielte Tötung. Er koordinierte die verschiedenen Bataillone der Terrororganisationen im Streifen.
 
@@ -575,7 +575,7 @@ Es war wie ein Schulausflug. Jeder marschierte rein, überquerte die Grenze nach
 
 <video src="../videos/005.mp4" controls></video>
 
-Tag 13 des Krieges. Shuki lernt, mit uns in den Schutzraum zu rennen.
+## Tag 13 des Krieges. Shuki lernt, mit uns in den Schutzraum zu rennen.
 
 Wir sind nicht sicher, ob er auf die Sirene reagiert oder darauf, dass er uns alle panisch zum Schutzraum rennen sieht.
 
@@ -625,7 +625,7 @@ Am Ende rufe ich Bar-El an, den Freund Barel, der mir solide Riegel bringt. Zusa
 ![](../images/051.jpg)
 
 
-Tag 14 des Krieges
+## Tag 14 des Krieges
 
 Ich erwäge, einen Waffenschein zu beantragen.
 
@@ -653,7 +653,7 @@ Dutzende Posts darüber auf Facebook.
 
 Der Schekel verliert an Wert.
 
-Tag 15 des Krieges
+## Tag 15 des Krieges
 
 Heute ist ein Festtag zu Hause.
 
@@ -682,7 +682,7 @@ Am Tag 13 des Krieges traten Iran und die USA in den Krieg ein. In Teheran setzt
 
 Amerikanische Soldaten werden nicht am Boden in Israel und für Israel kämpfen, aber die USA werden bei der Abwehr von Raketensalven aus den entfernten Flanken der radikalen schiitischen Achse helfen.
 
-Tag 16 des Krieges
+## Tag 16 des Krieges
 
 Heute Morgen hatten wir um 09:00 Uhr eine Sirene. Das ist ungewöhnlich.
 
@@ -710,7 +710,7 @@ Lior wachte heute Nacht aus einem Albtraum auf.
 
 In seinem Traum isst er einen Keks. Einen Granola-Keks, den er mit Mama und Itai gebacken hat. Dann eine Sirene. Aber eine spezielle — nur eine halbe Minute bis zum Schutzraum statt anderthalb. Lior rast zum Schutzraum, den Keks im Mund. Vor lauter Stress verschluckt er sich an dem trockenen Keks. Papa (ich) macht den Heimlich-Griff, rettet ihn, der Keks fliegt ihm aus dem Hals. Mama sieht den Keks unversehrt aus Liors Hals fliegen und kippt um. Und dann bin ich aufgewacht.
 
-Tag 17 des Krieges
+## Tag 17 des Krieges
 
 Wache um 02:00 Uhr auf und kann nicht wieder einschlafen.
 
@@ -757,7 +757,7 @@ Ich glaub, das kommt alles in ein paar Jahren hoch.
 ![](../images/060.jpg)
 
 
-Tag — ich höre auf zu zählen...
+## Tag — ich höre auf zu zählen...
 
 Der Durchschnitts-IQ in der Bevölkerung liegt bei 100 mit einer Standardabweichung von 15.
 
@@ -777,7 +777,7 @@ Und ich habe keine Lust mehr, das Tagebuch zu aktualisieren.
 
 Anat und Lior schlafen immer noch im Schutzraum.
 
-31. Oktober, Tag 20 des Krieges
+## 31. Oktober, Tag 20 des Krieges
 
 Wache am Morgen des 31. Oktober auf. Reib mir die Augen, geh runter ins Wohnzimmer.
 
@@ -825,7 +825,7 @@ Das ist eine tolle Sache. Große Befriedigung, Hamas zu treten. Therapeutisch.
 ![](../images/064.png)
 
 
-Tag 30 des Krieges
+## Tag 30 des Krieges
 
 Sapir kommt für anderthalb Tage nach Hause. Zum ersten Mal so lange weg von der Kommandozentrale.
 
@@ -988,7 +988,7 @@ Wir machen was Leckeres auf dem Grill und quatschen über den Krieg.
 ![](../images/086.jpg)
 
 
-7. November. Ein Monat Krieg.
+## 7. November. Ein Monat Krieg.
 
 Lior zieht zum ersten Mal seit zwei Monaten sein Schulhemd an.
 
@@ -1025,7 +1025,7 @@ Alle in Solidarität.
 
 <video src="../videos/004.mp4" controls></video>
 
-Die fünfte Kriegswoche — die Noa-Woche
+## Die fünfte Kriegswoche — die Noa-Woche
 
 #### Mittwoch, 14. November. Anats Geburtstag.
 
@@ -1129,7 +1129,7 @@ Herzzerreißend.
 
 Wir wachen am Freitagmorgen auf, und da kommt die Nachricht:
 
-Tag 42 der Kämpfe | Die IDF hat den Leichnam der Soldatin Noa Marciano nach Israel überführt, die in Hamas-Gefangenschaft getötet wurde.
+## Tag 42 der Kämpfe | Die IDF hat den Leichnam der Soldatin Noa Marciano nach Israel überführt, die in Hamas-Gefangenschaft getötet wurde.
 
 Also gibt es doch eine Beerdigung.
 
@@ -1152,7 +1152,7 @@ Die Klasse von Lior hat Grüße an die Soldaten geschickt. Wärmt das Herz. Die 
 
 #### Der 3. Kriegsmonat
 
-Tag 78 des Krieges.
+## Tag 78 des Krieges.
 
 Heute wurde der Noa-Marciano-Weg eingeweiht. Sapir ist nach Modiin gefahren, zur Einweihungszeremonie.
 
@@ -1172,7 +1172,7 @@ Das Mindeste, was ich tun kann: Blut spenden.
 ![](../images/107.jpg)
 
 
-Freiwilligentag, Kaki-Ernte
+## Freiwilligentag, Kaki-Ernte
 
 ![](../images/108.jpg)
 
