@@ -407,6 +407,7 @@ Joining the Brothers of the Farm forum.
 
 ![](whatsapp/026_en.jpg)
 
+<video src="../videos/006.mp4" controls></video>
 
 Day 7
 
@@ -509,6 +510,9 @@ Another heartbreaking message from Sapir.
 
 ![](whatsapp/033_en.jpg)
 
+<video src="../videos/002.mp4" controls></video>
+
+<video src="../videos/003.mp4" controls></video>
 
 ![](../images/034.jpg)
 
@@ -548,6 +552,7 @@ My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago 
 
 ![](whatsapp/045_en.jpg)
 
+<video src="../videos/001.mp4" controls></video>
 
 Day 12 of the War
 
@@ -1018,6 +1023,7 @@ Everyone in solidarity.
 
 ![](../images/091.jpg)
 
+<video src="../videos/004.mp4" controls></video>
 
 The Fifth Week of the War — Noa's Week
 

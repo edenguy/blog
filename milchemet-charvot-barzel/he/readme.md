@@ -406,6 +406,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](whatsapp/026.jpg)
 
+<video src="../videos/006.mp4" controls></video>
 
 יום 7
 
@@ -508,6 +509,9 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](whatsapp/033.png)
 
+<video src="../videos/002.mp4" controls></video>
+
+<video src="../videos/003.mp4" controls></video>
 
 ![](../images/034.jpg)
 
@@ -547,6 +551,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](whatsapp/045.jpg)
 
+<video src="../videos/001.mp4" controls></video>
 
 יום 12 למלחמה
 
@@ -1017,6 +1022,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](../images/091.jpg)
 
+<video src="../videos/004.mp4" controls></video>
 
 השבוע החמישי למלחמה - שבוע נועה
 

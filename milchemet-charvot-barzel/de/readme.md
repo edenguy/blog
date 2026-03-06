@@ -407,6 +407,7 @@ Trete dem Forum „Brüder in der Landwirtschaft" bei.
 
 ![](whatsapp/026_de.jpg)
 
+<video src="../videos/006.mp4" controls></video>
 
 Tag 7
 
@@ -509,6 +510,9 @@ Noch eine herzzerreißende Nachricht von Sapir.
 
 ![](whatsapp/033_de.jpg)
 
+<video src="../videos/002.mp4" controls></video>
+
+<video src="../videos/003.mp4" controls></video>
 
 ![](../images/034.jpg)
 
@@ -548,6 +552,7 @@ Mein Kumpel Guri findet raus, dass die Terroristen, die vor 11 Tagen nach Israel
 
 ![](whatsapp/045_de.jpg)
 
+<video src="../videos/001.mp4" controls></video>
 
 Tag 12 des Krieges
 
@@ -1018,6 +1023,7 @@ Alle in Solidarität.
 
 ![](../images/091.jpg)
 
+<video src="../videos/004.mp4" controls></video>
 
 Die fünfte Kriegswoche — die Noa-Woche
 
