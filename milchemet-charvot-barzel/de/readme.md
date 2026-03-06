@@ -407,7 +407,7 @@ Trete dem Forum „Brüder in der Landwirtschaft" bei.
 
 ![](whatsapp/026_de.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4" controls></video>
+[▶ Video ansehen](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4)
 
 ## Tag 7 des Krieges
 
@@ -510,9 +510,7 @@ Noch eine herzzerreißende Nachricht von Sapir.
 
 ![](whatsapp/033_de.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4" controls></video>
-
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4" controls></video>
+[▶ Video 1 ansehen](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4) · [▶ Video 2 ansehen](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4)
 
 ![](../images/034.jpg)
 
@@ -552,7 +550,7 @@ Mein Kumpel Guri findet raus, dass die Terroristen, die vor 11 Tagen nach Israel
 
 ![](whatsapp/045_de.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4" controls></video>
+[▶ Video ansehen](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4)
 
 ## Tag 12 des Krieges
 
@@ -573,7 +571,7 @@ Es sah aus wie ein Marktplatz in Gaza. Kämpfer, Kinder, Alte und Behinderte, Ju
 
 Es war wie ein Schulausflug. Jeder marschierte rein, überquerte die Grenze nach Israel, nahm sich ein Souvenir mit — einen Juden zum Anbinden im Wohnzimmer — und ging zurück nach Gaza, nachdem er die Bewohner misshandelt hatte.
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4" controls></video>
+[▶ Video ansehen: Be'eri Sicherheitskamera](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4)
 
 ## Tag 13 des Krieges. Shuki lernt, mit uns in den Schutzraum zu rennen.
 
@@ -1023,7 +1021,7 @@ Alle in Solidarität.
 
 ![](../images/091.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4" controls></video>
+[▶ Video ansehen](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4)
 
 ## Die fünfte Kriegswoche — die Noa-Woche
 

@@ -407,7 +407,7 @@ Joining the Brothers of the Farm forum.
 
 ![](whatsapp/026_en.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4" controls></video>
+[▶ Watch video](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4)
 
 ## Day 7 of the War
 
@@ -510,9 +510,7 @@ Another heartbreaking message from Sapir.
 
 ![](whatsapp/033_en.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4" controls></video>
-
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4" controls></video>
+[▶ Watch video 1](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4) · [▶ Watch video 2](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4)
 
 ![](../images/034.jpg)
 
@@ -552,7 +550,7 @@ My friend Guri discovers that the terrorists who infiltrated Israel 11 days ago 
 
 ![](whatsapp/045_en.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4" controls></video>
+[▶ Watch video](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4)
 
 ## Day 12 of the War
 
@@ -573,7 +571,7 @@ It looked like a public square in Gaza. Fighters, children, elderly, disabled, t
 
 It was like an annual field trip. Everyone crossed the border into Israel, grabbed a little Jew as a souvenir to tie up in their living room, and went back to Gaza, after brutalizing the locals.
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4" controls></video>
+[▶ Watch video: Be'eri security camera footage](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4)
 
 ## Day 13 of the War — Shuki learns to run with us to the safe room.
 
@@ -1023,7 +1021,7 @@ Everyone in solidarity.
 
 ![](../images/091.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4" controls></video>
+[▶ Watch video](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4)
 
 ## The Fifth Week of the War — Noa's Week
 

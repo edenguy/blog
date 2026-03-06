@@ -406,7 +406,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](whatsapp/026.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4" controls></video>
+[▶ צפה בוידאו](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4)
 
 ## יום 7 למלחמה
 
@@ -509,9 +509,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](whatsapp/033.png)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4" controls></video>
-
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4" controls></video>
+[▶ צפה בוידאו 1](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4) · [▶ צפה בוידאו 2](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4)
 
 ![](../images/034.jpg)
 
@@ -551,7 +549,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](whatsapp/045.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4" controls></video>
+[▶ צפה בוידאו](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4)
 
 ## יום 12 למלחמה
 
@@ -572,7 +570,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 זה היה כמו יום של טיול שנתי. כל אחד נכנס וחוצה את הגבול לישראל, לוקח איתו יהודון מזכרת, לקשור בסלון, וחוזר לעזה, אחרי התעללות בתושבים המקומיים.
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4" controls></video>
+[▶ צפה בוידאו: מצלמת אבטחה קיבוץ בארי](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4)
 
 ## יום 13 למלחמה שוקי לומד לרוץ איתנו לממד.
 
@@ -1022,7 +1020,7 @@ original_url: "https://edenguy.wixsite.com/blog/post/%D7%9E%D7%9C%D7%97%D7%9E%D7
 
 ![](../images/091.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4" controls></video>
+[▶ צפה בוידאו](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4)
 
 ## השבוע החמישי למלחמה - שבוע נועה
 

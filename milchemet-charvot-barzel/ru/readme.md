@@ -407,7 +407,7 @@ React, AWS.
 
 ![](whatsapp/026_ru.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4" controls></video>
+[▶ Смотреть видео](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/006.mp4)
 
 ## День 7-й войны
 
@@ -510,9 +510,7 @@ React, AWS.
 
 ![](whatsapp/033_ru.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4" controls></video>
-
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4" controls></video>
+[▶ Смотреть видео 1](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/002.mp4) · [▶ Смотреть видео 2](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/003.mp4)
 
 ![](../images/034.jpg)
 
@@ -552,7 +550,7 @@ React, AWS.
 
 ![](whatsapp/045_ru.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4" controls></video>
+[▶ Смотреть видео](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/001.mp4)
 
 ## День 12-й войны
 
@@ -573,7 +571,7 @@ React, AWS.
 
 Это было как школьная экскурсия. Каждый входит и пересекает границу в Израиль, берёт с собой еврейчика на сувенир, чтобы привязать в гостиной, и возвращается в Газу после издевательств над местными жителями.
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4" controls></video>
+[▶ Смотреть видео: камера безопасности кибуца Беэри](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/005.mp4)
 
 ## День 13-й войны. Шуки учится бежать с нами в бомбоубежище.
 
@@ -1023,7 +1021,7 @@ IQ населения распределён со средним 100 и стан
 
 ![](../images/091.jpg)
 
-<video src="https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4" controls></video>
+[▶ Смотреть видео](https://edenguy.github.io/blog/milchemet-charvot-barzel/videos/004.mp4)
 
 ## Пятая неделя войны — неделя Ноа
 
