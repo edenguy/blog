@@ -568,6 +568,8 @@ It looked like a public square in Gaza. Fighters, children, elderly, disabled, t
 
 It was like an annual field trip. Everyone crossed the border into Israel, grabbed a little Jew as a souvenir to tie up in their living room, and went back to Gaza, after brutalizing the locals.
 
+<video src="../videos/005.mp4" controls></video>
+
 Day 13 of the War — Shuki learns to run with us to the safe room.
 
 We're not sure if the trigger is the siren, or if he sees all of us running in a panic to the safe room.

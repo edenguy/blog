@@ -568,6 +568,8 @@ Es sah aus wie ein Marktplatz in Gaza. Kämpfer, Kinder, Alte und Behinderte, Ju
 
 Es war wie ein Schulausflug. Jeder marschierte rein, überquerte die Grenze nach Israel, nahm sich ein Souvenir mit — einen Juden zum Anbinden im Wohnzimmer — und ging zurück nach Gaza, nachdem er die Bewohner misshandelt hatte.
 
+<video src="../videos/005.mp4" controls></video>
+
 Tag 13 des Krieges. Shuki lernt, mit uns in den Schutzraum zu rennen.
 
 Wir sind nicht sicher, ob er auf die Sirene reagiert oder darauf, dass er uns alle panisch zum Schutzraum rennen sieht.
