@@ -10,15 +10,12 @@
   <style>
     :root {
       --bg: #f5f2eb;
-      --bg-pattern: radial-gradient(ellipse at 20% 20%, rgba(196,165,116,.08) 0%, transparent 50%),
-                    radial-gradient(ellipse at 80% 80%, rgba(139,69,19,.05) 0%, transparent 50%);
       --text: #1a1a1a;
       --muted: #5c5c5c;
       --accent: #6b4423;
       --accent-light: #a67c52;
       --card-bg: #fffefc;
       --shadow: 0 4px 20px rgba(0,0,0,.06);
-      --shadow-hover: 0 8px 30px rgba(0,0,0,.1);
       --radius: 10px;
     }
     * { box-sizing: border-box; }
@@ -31,7 +28,6 @@
       background: var(--bg);
       margin: 0;
       padding: 0;
-      direction: rtl;
     }
     .container { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem; }
     header {
@@ -40,91 +36,49 @@
       border-bottom: 2px solid var(--accent-light);
       margin-bottom: 2rem;
     }
-    header h1 {
-      font-size: 2.2rem;
-      font-weight: 700;
-      margin: 0 0 0.5rem;
-      color: var(--text);
-    }
-    .meta {
-      font-size: 0.95rem;
-      color: var(--muted);
-    }
+    header h1 { font-size: 2.2rem; font-weight: 700; margin: 0 0 0.5rem; color: var(--text); }
+    .lang-nav { font-size: 0.9rem; margin-bottom: 0.5rem; }
+    .lang-nav a { color: var(--accent); text-decoration: none; }
+    .lang-nav a:hover { text-decoration: underline; }
+    .meta { font-size: 0.95rem; color: var(--muted); }
     .meta a { color: var(--accent); text-decoration: none; }
     .meta a:hover { text-decoration: underline; }
     article { margin-bottom: 3rem; }
     h1 { font-size: 1.8rem; margin: 2rem 0 1rem; }
-    h2.day {
-      font-size: 1.4rem;
-      font-weight: 600;
-      margin: 2.5rem 0 1rem;
-      padding: 0.5rem 0;
-      border-bottom: 1px solid var(--accent-light);
-      color: var(--accent);
-    }
+    h2.day { font-size: 1.4rem; font-weight: 600; margin: 2.5rem 0 1rem; padding: 0.5rem 0; border-bottom: 1px solid var(--accent-light); color: var(--accent); }
     h4 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; color: var(--muted); }
     p { margin: 0 0 1rem; text-align: justify; }
-    .img-wrap, .video-wrap {
-      margin: 1.5rem 0;
-      border-radius: var(--radius);
-      overflow: hidden;
-      box-shadow: var(--shadow);
-      background: var(--card-bg);
-    }
-    .img-wrap img, .video-wrap video {
-      display: block;
-      width: 100%;
-      max-width: 100%;
-      height: auto;
-    }
+    .img-wrap, .video-wrap { margin: 1.5rem 0; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); background: var(--card-bg); }
+    .img-wrap img, .video-wrap video { display: block; width: 100%; max-width: 100%; height: auto; }
     .video-wrap video { max-height: 480px; }
-    .video-group {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 1rem;
-      margin: 1.5rem 0;
-    }
-    .video-wrap figcaption, .img-wrap figcaption {
-      font-size: 0.85rem;
-      color: var(--muted);
-      padding: 0.5rem 1rem;
-      background: #f5f5f5;
-    }
-    .img-wrap.wa { max-width: 420px; margin-right: auto; margin-left: 0; }
+    .video-group { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+    .video-wrap figcaption, .img-wrap figcaption { font-size: 0.85rem; color: var(--muted); padding: 0.5rem 1rem; background: #f5f5f5; }
+    .img-wrap.wa { max-width: 420px; }
+    body[dir="rtl"] .img-wrap.wa { margin-right: auto; margin-left: 0; }
+    body[dir="ltr"] .img-wrap.wa { margin-left: auto; margin-right: 0; }
     .diary-list { margin: 1rem 0; padding-right: 1.5rem; }
+    body[dir="ltr"] .diary-list { padding-right: 0; padding-left: 1.5rem; }
     .diary-list li { margin-bottom: 0.5rem; }
     .guidelines { margin: 1rem 0; padding-right: 1.5rem; list-style: none; }
+    body[dir="ltr"] .guidelines { padding-right: 0; padding-left: 1.5rem; }
     .guidelines li::before { content: "◾ "; color: var(--accent); margin-left: 0.25rem; }
-    .code-block {
-      background: #2d2d2d;
-      color: #f8f8f2;
-      padding: 1rem 1.25rem;
-      border-radius: var(--radius);
-      overflow-x: auto;
-      font-family: "Consolas", "Monaco", monospace;
-      font-size: 0.9rem;
-      line-height: 1.5;
-      margin: 1.5rem 0;
-    }
+    .code-block { background: #2d2d2d; color: #f8f8f2; padding: 1rem 1.25rem; border-radius: var(--radius); overflow-x: auto; font-family: Consolas, Monaco, monospace; font-size: 0.9rem; line-height: 1.5; margin: 1.5rem 0; }
     .code-block code { white-space: pre-wrap; word-break: break-word; }
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
-    footer {
-      text-align: center;
-      padding: 2rem 0;
-      font-size: 0.9rem;
-      color: var(--muted);
-      border-top: 1px solid var(--accent-light);
-    }
-    @media (max-width: 600px) {
-      body { font-size: 16px; }
-      .container { padding: 1rem; }
-    }
-  </style>
+    footer { text-align: center; padding: 2rem 0; font-size: 0.9rem; color: var(--muted); border-top: 1px solid var(--accent-light); }
+    @media (max-width: 600px) { body { font-size: 16px; } .container { padding: 1rem; } }
+</style>
 </head>
-<body>
+<body dir="rtl">
   <div class="container">
     <header>
+    <nav class="lang-nav">
+      <strong>עברית</strong> ·
+      <a href="en/index.html">English</a> ·
+      <a href="de/index.html">Deutsch</a> ·
+      <a href="ru/index.html">Русский</a>
+    </nav>
       <h1>חרבות ברזל, יומן מהעורף</h1>
       <p class="meta">גיא עדן · אוקטובר 2023 · <a href="https://edenguy.wixsite.com/blog/post/milchamot-charvot-barzel-min-haaoref" target="_blank" rel="noopener">המקור בוויקס</a></p>
     </header>
