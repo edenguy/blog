@@ -393,14 +393,25 @@ xychart-beta horizontal
 
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   mermaid.initialize({
     startOnLoad: true,
-    theme: isDark ? 'dark' : 'default',
-    themeVariables: { fontFamily: 'inherit' },
+    theme: 'default',
+    themeVariables: {
+      fontFamily: 'inherit',
+      primaryTextColor: '#1c1917',
+      textColor: '#1c1917',
+      lineColor: '#57534e',
+      nodeTextColor: '#1c1917'
+    },
     flowchart: { htmlLabels: true, curve: 'basis' },
     securityLevel: 'loose'
   });
 </script>
+<style>
+  .mermaid { background: #ffffff; padding: 20px 12px; border-radius: 8px; }
+  .mermaid svg { max-width: 100%; height: auto; }
+  .mermaid text, .mermaid .nodeLabel, .mermaid .edgeLabel { color: #1c1917 !important; fill: #1c1917 !important; }
+  .mermaid .edgeLabel { background: #ffffff !important; }
+</style>
 </body>
 </html>
