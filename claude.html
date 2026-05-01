@@ -157,11 +157,28 @@
   .cards {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 28px;
+    gap: 48px;
     margin-top: 80px;
+    position: relative;
+  }
+  /* subtle vertical divider between the two cards on desktop */
+  .cards::before {
+    content: '';
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    left: 50%;
+    width: 1px;
+    background: linear-gradient(180deg, transparent, var(--card-border) 20%, var(--card-border) 80%, transparent);
+    pointer-events: none;
   }
   @media (max-width: 840px) {
-    .cards { grid-template-columns: 1fr; }
+    .cards { grid-template-columns: 1fr; gap: 60px; }
+    /* on mobile the vertical rule becomes a horizontal one between stacked cards */
+    .cards::before {
+      top: 50%; bottom: auto; left: 15%; right: 15%; width: auto; height: 1px;
+      background: linear-gradient(90deg, transparent, var(--card-border) 20%, var(--card-border) 80%, transparent);
+    }
   }
 
   .card {
@@ -263,6 +280,23 @@
     border-radius: 0 6px 6px 0;
     margin-bottom: 24px;
   }
+  .teaser-art {
+    display: flex;
+    justify-content: center;
+    margin: 8px 0 26px;
+    padding: 18px;
+    background: radial-gradient(ellipse at center, rgba(30, 27, 75, 0.5) 0%, transparent 70%);
+    border: 1px solid var(--card-border);
+    border-radius: 14px;
+  }
+  .teaser-art svg {
+    width: 100%;
+    max-width: 220px;
+    height: auto;
+    transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    filter: drop-shadow(0 8px 24px rgba(0, 0, 0, 0.35));
+  }
+  .card:hover .teaser-art svg { transform: scale(1.04); }
   .cta {
     display: inline-flex;
     align-items: center;
@@ -395,7 +429,7 @@
   <section class="cards">
 
     <!-- Card 1: Fix the Filename -->
-    <a href="fix_the_filename.html" class="card reveal">
+    <a href="fix_the_filename.html" target="_blank" rel="noopener" class="card reveal">
       <span class="tag human">Human POV</span>
       <div class="card-art">
         <!-- Coffee cup with steam — the "08:37, second coffee" motif -->
@@ -443,7 +477,7 @@
     </a>
 
     <!-- Card 2: Dear Operator -->
-    <a href="dear_operator.html" class="card reveal">
+    <a href="dear_operator.html" target="_blank" rel="noopener" class="card reveal">
       <span class="tag machine">Machine POV</span>
       <div class="card-art">
         <!-- Letter + cable + rubber stamp — the reply motif -->
