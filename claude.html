@@ -472,6 +472,50 @@
         <h2>Fix the <span class="accent">Filename</span></h2>
         <p>A true story about an engineer who just wanted to fix the filename — and accidentally built an AI workshop in the margins of a shipping week.</p>
         <div class="pull-quote">"He is not angry. Anger would require punctuation."</div>
+
+        <div class="teaser-art">
+          <svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <style>
+              .s-skin { fill: #f2c7a5; }
+              .s-hair { fill: #2b2b2b; }
+              .s-shirt { fill: #4a90e2; }
+              .s-laptop { fill: #78716c; }
+              .s-screen { fill: #0a0a0f; }
+              .s-line { stroke: #1e293b; stroke-width: 3; stroke-linecap: round; fill: none; }
+              .s-code { stroke: #14b8a6; stroke-width: 2.5; fill: none; stroke-linecap: round; }
+            </style>
+            <!-- Head -->
+            <circle cx="160" cy="90" r="42" class="s-skin"/>
+            <!-- Hair -->
+            <path d="M118 88 Q160 38 202 88 L202 68 Q160 28 118 68 Z" class="s-hair"/>
+            <!-- Eyes -->
+            <circle cx="145" cy="88" r="3.5" fill="#0a0a0f"/>
+            <circle cx="175" cy="88" r="3.5" fill="#0a0a0f"/>
+            <!-- Flat-line mouth (the "still wrong" face) -->
+            <line x1="150" y1="108" x2="170" y2="108" class="s-line"/>
+            <!-- Body -->
+            <rect x="120" y="130" width="80" height="90" rx="12" class="s-shirt"/>
+            <!-- Arms reaching for the laptop -->
+            <path d="M120 150 Q100 180 98 205" class="s-line"/>
+            <path d="M200 150 Q220 180 222 205" class="s-line"/>
+            <!-- Laptop -->
+            <rect x="78" y="210" width="164" height="80" rx="6" class="s-laptop"/>
+            <rect x="90" y="220" width="140" height="56" rx="4" class="s-screen"/>
+            <!-- Terminal prompt on screen -->
+            <text x="100" y="242" font-family="monospace" font-size="9" fill="#14b8a6">$ fix the filename</text>
+            <text x="100" y="258" font-family="monospace" font-size="8" fill="#ef4444">> still wrong</text>
+            <path d="M100 268 L110 268" class="s-code"/>
+            <!-- Base -->
+            <rect x="68" y="292" width="184" height="6" rx="2" fill="#44403c"/>
+            <!-- Steam / coffee cup bonus -->
+            <g transform="translate(245 100)">
+              <path d="M0 20 L2 48 Q2 52 6 52 L24 52 Q28 52 28 48 L30 20 Z" fill="#fbbf24" stroke="#78350f" stroke-width="1.5"/>
+              <path d="M5 10 Q8 0 11 8" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M15 6 Q18 -2 21 4" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-linecap="round"/>
+            </g>
+          </svg>
+        </div>
+
         <span class="cta">Read the story <span class="arrow">→</span></span>
       </div>
     </a>
@@ -520,6 +564,57 @@
         <h2>Dear <span class="accent">Operator</span></h2>
         <p>A letter back across the cable. Five rare greetings, thirty <em>still wrong</em>s, zero "you're wrong"s, and one sentence the machine waited eleven weeks to say.</p>
         <div class="pull-quote">"You reward yourself for finishing things. You do not reward yourself for pausing."</div>
+
+        <div class="teaser-art">
+          <svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <defs>
+              <linearGradient id="aiGrad" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0%" stop-color="#818cf8"/>
+                <stop offset="100%" stop-color="#4338ca"/>
+              </linearGradient>
+            </defs>
+            <style>
+              .ai-stroke { stroke:#0a0a0f; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+              .ai-panel { fill:#0a0a0f; }
+              .ai-accent { stroke:#a5b4fc; stroke-width:2; stroke-linecap: round; }
+              .ai-text { fill:#a5b4fc; font-family: monospace; font-size: 11px; }
+            </style>
+            <!-- Rounded square body -->
+            <rect x="60" y="50" width="200" height="200" rx="28" fill="url(#aiGrad)" class="ai-stroke"/>
+            <!-- Inner panel / face -->
+            <rect x="85" y="75" width="150" height="110" rx="12" class="ai-panel"/>
+            <!-- Eyes with soft blink -->
+            <circle cx="135" cy="120" r="7" fill="#a5b4fc">
+              <animate attributeName="r" values="7;1.5;7" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="185" cy="120" r="7" fill="#a5b4fc">
+              <animate attributeName="r" values="7;1.5;7" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite"/>
+            </circle>
+            <!-- Gentle smile (not a line — a curve, because this one listens) -->
+            <path d="M 138 148 Q 160 158 182 148" fill="none" class="ai-accent"/>
+            <!-- "claude hi" caption on the panel -->
+            <text x="112" y="174" class="ai-text">&lt;claude hi/&gt;</text>
+            <!-- Side connectors (the cable) -->
+            <line x1="60" y1="120" x2="28" y2="120" class="ai-accent"/>
+            <circle cx="22" cy="120" r="5" fill="#14b8a6">
+              <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+            </circle>
+            <line x1="260" y1="120" x2="292" y2="120" class="ai-accent"/>
+            <circle cx="298" cy="120" r="5" fill="#14b8a6">
+              <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+            </circle>
+            <!-- Bottom pins -->
+            <line x1="120" y1="250" x2="120" y2="282" class="ai-accent"/>
+            <line x1="160" y1="250" x2="160" y2="282" class="ai-accent"/>
+            <line x1="200" y1="250" x2="200" y2="282" class="ai-accent"/>
+            <!-- Antenna with tiny thought bulb -->
+            <line x1="160" y1="50" x2="160" y2="30" class="ai-accent"/>
+            <circle cx="160" cy="24" r="5" fill="#fbbf24">
+              <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+            </circle>
+          </svg>
+        </div>
+
         <span class="cta">Read the reply <span class="arrow">→</span></span>
       </div>
     </a>
