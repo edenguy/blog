@@ -156,8 +156,16 @@
     border: 1px solid var(--card-border);
   }
   .mermaid svg { max-width: 100%; height: auto; }
-  .mermaid text, .mermaid .nodeLabel, .mermaid .edgeLabel { color: #1c1917 !important; fill: #1c1917 !important; }
+  .mermaid text,
+  .mermaid tspan,
+  .mermaid .nodeLabel,
+  .mermaid .nodeLabel *,
+  .mermaid .edgeLabel,
+  .mermaid .edgeLabel *,
+  .mermaid foreignObject div,
+  .mermaid foreignObject span { color: #1c1917 !important; fill: #1c1917 !important; }
   .mermaid .edgeLabel { background: #ffffff !important; }
+  .mermaid .edgeLabel rect { fill: #ffffff !important; }
   .sign-off {
     text-align: right;
     color: var(--ink-dim);
